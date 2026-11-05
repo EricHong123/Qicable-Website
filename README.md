@@ -4,7 +4,7 @@ Qicable 当前工作区的前端源码，包含 Next.js、React、TypeScript、2
 
 ## 拉取与本地运行
 
-需要 Node 24.20.0 和 npm 11.19.0，以及此私有仓库的读取权限。
+需要 Node 24.20.0 和 npm 11.19.0。仓库已公开，可直接克隆。
 
 ```sh
 git clone https://github.com/EricHong123/Qicable-Website.git

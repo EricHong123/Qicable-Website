@@ -20,7 +20,7 @@ cd /srv/qicable
 docker compose ps
 ```
 
-Codex在客户电脑上可直接通过该SSH别名检查部署状态。客户需要同时获得GitHub私有仓库读取权限、服务器账号权限与Agent发布账号。
+Codex在客户电脑上可直接通过该SSH别名检查部署状态。源码仓库已公开，可直接克隆。正式发布需要服务器账号权限与Agent发布账号。
 
 ## 当前部署方式
 
