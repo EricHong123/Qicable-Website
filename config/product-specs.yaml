@@ -1,0 +1,74 @@
+version: 1
+product_type: industrial-cable-assembly
+identity_fields:
+- model
+spec_groups:
+- id: identity
+  label: Identity
+  fields:
+  - id: model
+    label: Model
+    type: string
+- id: marketing
+  label: Marketing
+  fields:
+  - id: tagline
+    label: Tagline
+    type: string
+  - id: has_video
+    label: Product video
+    type: boolean
+  - id: has_specsheet
+    label: Specification sheet
+    type: boolean
+- id: specifications
+  label: Specifications
+  fields:
+  - id: interface
+    label: Interface
+    type: string
+  - id: connector_a
+    label: Connector A
+    type: string
+  - id: connector_b
+    label: Connector B
+    type: string
+  - id: mounting
+    label: Mounting / locking
+    type: string
+  - id: length_options
+    label: Length options
+    type: string
+  - id: moq
+    label: MOQ
+    type: string
+  - id: lead_time
+    label: Lead time
+    type: string
+- id: seo
+  label: SEO
+  fields:
+  - id: seo_title
+    label: Meta title
+    type: string
+  - id: seo_description
+    label: Meta description
+    type: string
+  - id: canonical_url
+    label: Canonical URL
+    type: string
+  - id: og_image
+    label: Open Graph image
+    type: string
+- id: media
+  label: Media
+  fields:
+  - id: image_url
+    label: Product image
+    type: string
+  - id: gallery_paths
+    label: Gallery image paths
+    type: string
+  - id: source_url
+    label: Evidence source URL
+    type: string

@@ -1,0 +1,15 @@
+node_modules/
+**/.next/
+preview/out/
+preview/public/assets/
+native-template/public/
+**/next-env.d.ts
+*.tsbuildinfo
+.env*
+!.env.example
+*.pem
+*.key
+.DS_Store
+outputs/
+backups/
+.private/

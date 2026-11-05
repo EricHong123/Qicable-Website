@@ -1,0 +1,139 @@
+{
+  "contract_version": 1,
+  "tenant_id": "qicable",
+  "brand": {
+    "name": "Qicable",
+    "timezone": "Asia/Shanghai",
+    "industry": "Industrial cables and custom cable assemblies",
+    "voice": "Technical, concise, evidence-led. Do not invent capacity, certifications, performance, MOQ or lead-time claims.",
+    "country": "China",
+    "location": "Ningbo",
+    "website": "https://www.qicable.com"
+  },
+  "connector": {
+    "namespace": "agent",
+    "schema_field": "agent_schema",
+    "translation_field": "agent_translations",
+    "product_rest_base": "product"
+  },
+  "products": {
+    "spec_string_fields": [
+      "model",
+      "tagline",
+      "interface",
+      "connector_a",
+      "connector_b",
+      "mounting",
+      "length_options",
+      "moq",
+      "lead_time",
+      "seo_title",
+      "seo_description",
+      "canonical_url",
+      "og_image",
+      "image_url",
+      "gallery_paths",
+      "source_url"
+    ],
+    "spec_bool_fields": [
+      "has_video",
+      "has_specsheet"
+    ],
+    "list_summary_fields": [
+      "interface",
+      "connector_a",
+      "connector_b",
+      "length_options"
+    ],
+    "spec_field_meta": {
+      "model": {
+        "label": "Model",
+        "section": "specs",
+        "required": true
+      },
+      "tagline": {
+        "label": "Tagline",
+        "section": "marketing"
+      },
+      "interface": {
+        "label": "Interface",
+        "section": "specs"
+      },
+      "connector_a": {
+        "label": "Connector A",
+        "section": "specs"
+      },
+      "connector_b": {
+        "label": "Connector B",
+        "section": "specs"
+      },
+      "mounting": {
+        "label": "Mounting / locking",
+        "section": "specs"
+      },
+      "length_options": {
+        "label": "Length options",
+        "section": "specs"
+      },
+      "moq": {
+        "label": "MOQ",
+        "section": "specs"
+      },
+      "lead_time": {
+        "label": "Lead time",
+        "section": "specs"
+      },
+      "seo_title": {
+        "label": "Meta title",
+        "section": "seo"
+      },
+      "seo_description": {
+        "label": "Meta description",
+        "section": "seo",
+        "textarea": true
+      },
+      "canonical_url": {
+        "label": "Canonical URL",
+        "section": "seo"
+      },
+      "og_image": {
+        "label": "Open Graph image",
+        "section": "seo"
+      },
+      "image_url": {
+        "label": "Product image",
+        "section": "marketing"
+      },
+      "gallery_paths": {
+        "label": "Gallery image paths",
+        "section": "marketing"
+      },
+      "source_url": {
+        "label": "Evidence source URL",
+        "section": "marketing"
+      },
+      "has_video": {
+        "label": "Product video",
+        "section": "marketing",
+        "type": "bool"
+      },
+      "has_specsheet": {
+        "label": "Specification sheet",
+        "section": "marketing",
+        "type": "bool"
+      }
+    }
+  },
+  "requested_modules": [
+    "agent.core",
+    "agent.content",
+    "agent.products",
+    "agent.seo",
+    "agent.translations",
+    "agent.knowledge"
+  ],
+  "policy": {
+    "publish": "draft_only",
+    "monthly_budget_usd": null
+  }
+}

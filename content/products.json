@@ -1,0 +1,3010 @@
+[
+  {
+    "model": "QC10A00",
+    "slug": "qc10a00",
+    "category": "machine-vision",
+    "name": "RJ45 to RJ45 Cable — GigE Vision",
+    "interface": "GigE Vision",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc10a00-3396fecc3477.webp",
+      "/assets/products/qc10a00-ecb002bab102.webp",
+      "/assets/products/qc10a00-3c25c075771a.webp",
+      "/assets/products/qc10a00-ff22640b21cb.webp",
+      "/assets/products/qc10a00-b74aa7395518.webp",
+      "/assets/products/qc10a00-3bab9671fe42.webp",
+      "/assets/products/qc10a00-16dc354ed10d.webp",
+      "/assets/products/qc10a00-397abefd5985.webp",
+      "/assets/products/qc10a00-4fdbaedb87d8.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B2:F2",
+    "subcategory": "GigE Vision",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "CAT5E SF/UTP 26AWG PVC"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC10A01",
+    "slug": "qc10a01",
+    "category": "machine-vision",
+    "name": "RJ45 to RJ45 screw-lock Cable — GigE Vision",
+    "interface": "GigE Vision",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45 screw-lock",
+    "mounting": "Screw-lock",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc10a01-b95a3ab17e72.webp",
+      "/assets/products/qc10a01-f566d66eeb67.webp",
+      "/assets/products/qc10a01-763559dcba51.webp",
+      "/assets/products/qc10a01-e6b95e01f168.webp",
+      "/assets/products/qc10a01-ccf8a1c16f1d.webp",
+      "/assets/products/qc10a01-82f5dcf1077d.webp",
+      "/assets/products/qc10a01-33eb581234d1.webp",
+      "/assets/products/qc10a01-bfbd34732064.webp",
+      "/assets/products/qc10a01-1da90a95a081.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B3:F3",
+    "subcategory": "GigE Vision",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "CAT5E SF/UTP 26AWG PVC"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [
+      "FS30A00"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC10A02",
+    "slug": "qc10a02",
+    "category": "machine-vision",
+    "name": "RJ45 to M12 A-coded 8-pin Cable — GigE Vision",
+    "interface": "GigE Vision",
+    "connectorA": "RJ45",
+    "connectorB": "M12 A-coded 8-pin",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc10a02-c50f33993907.webp",
+      "/assets/products/qc10a02-99e212f2b9ef.webp",
+      "/assets/products/qc10a02-153e245d8c42.webp",
+      "/assets/products/qc10a02-9e4fd33f64da.webp",
+      "/assets/products/qc10a02-99c553ed44d8.webp",
+      "/assets/products/qc10a02-24d73c990323.webp",
+      "/assets/products/qc10a02-0fa8b0318ce9.webp",
+      "/assets/products/qc10a02-79e44b712218.webp",
+      "/assets/products/qc10a02-1bdc2e64db51.webp",
+      "/assets/products/qc10a02-9b9422875ce2.webp",
+      "/assets/products/qc10a02-861608f1652d.webp",
+      "/assets/products/qc10a02-4c272dc1f488.webp",
+      "/assets/products/qc10a02-fe179135c5e0.webp",
+      "/assets/products/qc10a02-8533e8c96fe0.webp",
+      "/assets/products/qc10a02-643e6ab8c452.webp",
+      "/assets/products/qc10a02-c56a022b45cd.webp",
+      "/assets/products/qc10a02-e1f3e0a25bf8.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B4:F4",
+    "subcategory": "GigE Vision",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "CAT5E SF/UTP 26AWG PVC"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC10B00",
+    "slug": "qc10b00",
+    "category": "machine-vision",
+    "name": "RJ45 to RJ45 Cable — 10GigE Vision",
+    "interface": "10GigE Vision",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45",
+    "mounting": "Screw-lock",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc10b00-3396fecc3477.webp",
+      "/assets/products/qc10b00-ecb002bab102.webp",
+      "/assets/products/qc10b00-3c25c075771a.webp",
+      "/assets/products/qc10b00-ff22640b21cb.webp",
+      "/assets/products/qc10b00-b74aa7395518.webp",
+      "/assets/products/qc10b00-3bab9671fe42.webp",
+      "/assets/products/qc10b00-16dc354ed10d.webp",
+      "/assets/products/qc10b00-397abefd5985.webp",
+      "/assets/products/qc10b00-4fdbaedb87d8.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B5:F5",
+    "subcategory": "10GigE Vision",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "CAT6A S/FTP 26AWG PVC"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [
+      "FS30A04"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC10B01",
+    "slug": "qc10b01",
+    "category": "machine-vision",
+    "name": "RJ45 to RJ45 screw-lock Cable — 10GigE Vision",
+    "interface": "10GigE Vision",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45 screw-lock",
+    "mounting": "Screw-lock",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc10b01-8db2ed5e7401.webp",
+      "/assets/products/qc10b01-e2d9d0bc12f8.webp",
+      "/assets/products/qc10b01-4953a0481b33.webp",
+      "/assets/products/qc10b01-763d95bc0cd1.webp",
+      "/assets/products/qc10b01-57997f9a560f.webp",
+      "/assets/products/qc10b01-e60553794df9.webp",
+      "/assets/products/qc10b01-418201fedad4.webp",
+      "/assets/products/qc10b01-39ac16e1a195.webp",
+      "/assets/products/qc10b01-3886ffb7c92a.webp",
+      "/assets/products/qc10b01-bfbd34732064.webp",
+      "/assets/products/qc10b01-8d5e5b59c328.webp",
+      "/assets/products/qc10b01-4da951e97f37.webp",
+      "/assets/products/qc10b01-5ad9cef5d66c.webp",
+      "/assets/products/qc10b01-67af17cb5e0b.webp",
+      "/assets/products/qc10b01-f3605bd1461b.webp",
+      "/assets/products/qc10b01-ebebd8643ed4.webp",
+      "/assets/products/qc10b01-d5bc55e672eb.webp",
+      "/assets/products/qc10b01-b30e1a410994.webp",
+      "/assets/products/qc10b01-bf230893da52.webp",
+      "/assets/products/qc10b01-8910a01b5ea6.webp",
+      "/assets/products/qc10b01-a7b7636c9966.webp",
+      "/assets/products/qc10b01-2e0ef00b049d.webp",
+      "/assets/products/qc10b01-2874bcaf980d.webp",
+      "/assets/products/qc10b01-885872ce2534.webp",
+      "/assets/products/qc10b01-44d441b43048.webp",
+      "/assets/products/qc10b01-adc88b5d405a.webp",
+      "/assets/products/qc10b01-4847cac679f8.webp",
+      "/assets/products/qc10b01-0ee7bffd6b29.webp",
+      "/assets/products/qc10b01-a3cc9634263c.webp",
+      "/assets/products/qc10b01-8475730cd2f6.webp",
+      "/assets/products/qc10b01-4e47b6fe94b0.webp",
+      "/assets/products/qc10b01-1f4859d293d3.webp",
+      "/assets/products/qc10b01-10ca67795f2a.webp",
+      "/assets/products/qc10b01-905a552ea65c.webp",
+      "/assets/products/qc10b01-128666170690.webp",
+      "/assets/products/qc10b01-66166ce29db7.webp",
+      "/assets/products/qc10b01-f6802d2ed4af.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B6:F6",
+    "subcategory": "10GigE Vision",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "CAT6A S/FTP 26AWG PVC"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC10B02",
+    "slug": "qc10b02",
+    "category": "machine-vision",
+    "name": "RJ45 to M12 X-coded Cable — 10GigE Vision",
+    "interface": "10GigE Vision",
+    "connectorA": "RJ45",
+    "connectorB": "M12 X-coded",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc10b02-97dfaa1ffcb4.webp",
+      "/assets/products/qc10b02-c56a022b45cd.webp",
+      "/assets/products/qc10b02-c647728e7495.webp",
+      "/assets/products/qc10b02-e1f3e0a25bf8.webp",
+      "/assets/products/qc10b02-92d51ddfdbf6.webp",
+      "/assets/products/qc10b02-fe179135c5e0.webp",
+      "/assets/products/qc10b02-e453c039f1aa.webp",
+      "/assets/products/qc10b02-8533e8c96fe0.webp",
+      "/assets/products/qc10b02-e765d549b6c2.webp",
+      "/assets/products/qc10b02-643e6ab8c452.webp",
+      "/assets/products/qc10b02-862c77f46e57.webp",
+      "/assets/products/qc10b02-6d54a59efcf7.webp",
+      "/assets/products/qc10b02-ac38d843bc08.webp",
+      "/assets/products/qc10b02-3e67ef828b55.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B7:F7",
+    "subcategory": "10GigE Vision",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "CAT6A S/FTP 26AWG PVC"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [
+      "FS30A05"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC11A00",
+    "slug": "qc11a00",
+    "category": "machine-vision",
+    "name": "MDR to MDR Cable — Camera Link",
+    "interface": "Camera Link",
+    "connectorA": "MDR",
+    "connectorB": "MDR",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc11a00-0cb5a5a2edd7.webp",
+      "/assets/products/qc11a00-980a80fd1073.webp",
+      "/assets/products/qc11a00-944d544e1ecc.webp",
+      "/assets/products/qc11a00-1bb782037f78.webp",
+      "/assets/products/qc11a00-8056c47040e0.webp",
+      "/assets/products/qc11a00-a0328877db6f.webp",
+      "/assets/products/qc11a00-9f44933cc098.webp",
+      "/assets/products/qc11a00-d033ef6bd4f3.webp",
+      "/assets/products/qc11a00-5dbaf16c6ed8.webp",
+      "/assets/products/qc11a00-ad17043569f9.webp",
+      "/assets/products/qc11a00-ce74d70c32ed.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B8:F8",
+    "subcategory": "Camera Link",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28AWG / OD9.5mm"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [
+      "FS30B00"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC11B00",
+    "slug": "qc11b00",
+    "category": "machine-vision",
+    "name": "MDR to SDR Cable — Camera Link",
+    "interface": "Camera Link",
+    "connectorA": "MDR",
+    "connectorB": "SDR",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc11b00-e50c09d7d010.webp",
+      "/assets/products/qc11b00-2523202792e1.webp",
+      "/assets/products/qc11b00-edc1f1bc6140.webp",
+      "/assets/products/qc11b00-3798117981c8.webp",
+      "/assets/products/qc11b00-b90c7e21f20e.webp",
+      "/assets/products/qc11b00-edce43037581.webp",
+      "/assets/products/qc11b00-c2e386cd9255.webp",
+      "/assets/products/qc11b00-22326a899f41.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B9:F9",
+    "subcategory": "Camera Link",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28AWG / OD9.5mm"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [
+      "FS30B01"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC11C00",
+    "slug": "qc11c00",
+    "category": "machine-vision",
+    "name": "SDR to SDR Cable — Camera Link",
+    "interface": "Camera Link",
+    "connectorA": "SDR",
+    "connectorB": "SDR",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc11c00-2c697e0cebe0.webp",
+      "/assets/products/qc11c00-1d712910bdc1.webp",
+      "/assets/products/qc11c00-2e5f639f0d6f.webp",
+      "/assets/products/qc11c00-888deeca669a.webp",
+      "/assets/products/qc11c00-fb6ddb142deb.webp",
+      "/assets/products/qc11c00-8a642911336f.webp",
+      "/assets/products/qc11c00-435dde047a7e.webp",
+      "/assets/products/qc11c00-5c381a406e82.webp",
+      "/assets/products/qc11c00-547e3b0b820d.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B10:F10",
+    "subcategory": "Camera Link",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28AWG / OD9.5mm"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC12A00",
+    "slug": "qc12a00",
+    "category": "machine-vision",
+    "name": "USB-A to USB Micro-B screw-lock Cable — USB3 Vision",
+    "interface": "USB3 Vision",
+    "connectorA": "USB-A",
+    "connectorB": "USB Micro-B screw-lock",
+    "mounting": "Screw-lock",
+    "lengths": [
+      "1",
+      "3",
+      "5"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc12a00-2387cfd21f2a.webp",
+      "/assets/products/qc12a00-6382a0e96dd1.webp",
+      "/assets/products/qc12a00-1910f87880bd.webp",
+      "/assets/products/qc12a00-08db8208e039.webp",
+      "/assets/products/qc12a00-428a3f29b950.webp",
+      "/assets/products/qc12a00-1a4c752a8622.webp",
+      "/assets/products/qc12a00-00ca557c6d3b.webp",
+      "/assets/products/qc12a00-e94dbea75bc3.webp",
+      "/assets/products/qc12a00-bb7d2c243f66.webp",
+      "/assets/products/qc12a00-a46e3d5706fa.webp",
+      "/assets/products/qc12a00-3abc15a8cce5.webp",
+      "/assets/products/qc12a00-69a4e3711601.webp",
+      "/assets/products/qc12a00-35b779544032.webp",
+      "/assets/products/qc12a00-9a7f939171e6.webp",
+      "/assets/products/qc12a00-07efab6ea5ae.webp",
+      "/assets/products/qc12a00-a47f6c575b2f.webp",
+      "/assets/products/qc12a00-8945f0c8b001.webp",
+      "/assets/products/qc12a00-a2cd72be7672.webp",
+      "/assets/products/qc12a00-b8cec28d16a5.webp",
+      "/assets/products/qc12a00-76788cb6f605.webp",
+      "/assets/products/qc12a00-0d63db291dc6.webp",
+      "/assets/products/qc12a00-c9b0a29fe31e.webp",
+      "/assets/products/qc12a00-772fbc53656d.webp",
+      "/assets/products/qc12a00-a53b1bf41140.webp",
+      "/assets/products/qc12a00-d23d07f904a4.webp",
+      "/assets/products/qc12a00-08598f0ef90c.webp",
+      "/assets/products/qc12a00-179eefca902a.webp",
+      "/assets/products/qc12a00-946896442536.webp",
+      "/assets/products/qc12a00-57dc049adeeb.webp",
+      "/assets/products/qc12a00-787d263c8cd7.webp",
+      "/assets/products/qc12a00-1b6868bc9b7a.webp",
+      "/assets/products/qc12a00-054d2020ad8c.webp",
+      "/assets/products/qc12a00-e0716a5656d4.webp",
+      "/assets/products/qc12a00-a7b8b42cff33.webp",
+      "/assets/products/qc12a00-f03f433d9676.webp",
+      "/assets/products/qc12a00-9f4e44653c2d.webp",
+      "/assets/products/qc12a00-c521c6269451.webp",
+      "/assets/products/qc12a00-43bd81097157.webp",
+      "/assets/products/qc12a00-4f31120cef15.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B11:F11",
+    "subcategory": "USB3 Vision",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28/24AWG / OD5.5 / OD6.8"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [
+      "FS30C00"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC12A01",
+    "slug": "qc12a01",
+    "category": "machine-vision",
+    "name": "USB-A to USB-B Cable — USB3 Vision",
+    "interface": "USB3 Vision",
+    "connectorA": "USB-A",
+    "connectorB": "USB-B",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "3",
+      "5"
+    ],
+    "featured": false,
+    "images": [],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B12:F12",
+    "subcategory": "USB3 Vision",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28/24AWG / OD5.5 / OD6.8"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "pending-review"
+  },
+  {
+    "model": "QC12A02",
+    "slug": "qc12a02",
+    "category": "machine-vision",
+    "name": "USB-A to USB-C screw-lock Cable — USB3 Vision",
+    "interface": "USB3 Vision",
+    "connectorA": "USB-A",
+    "connectorB": "USB-C screw-lock",
+    "mounting": "Screw-lock",
+    "lengths": [
+      "1",
+      "3",
+      "5"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc12a02-86daec2a6571.webp",
+      "/assets/products/qc12a02-0069f857354a.webp",
+      "/assets/products/qc12a02-264eec882278.webp",
+      "/assets/products/qc12a02-e59c7cc61216.webp",
+      "/assets/products/qc12a02-77843d43473d.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B13:F13",
+    "subcategory": "USB3 Vision",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28/24AWG / OD5.5 / OD6.8"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC12B00",
+    "slug": "qc12b00",
+    "category": "machine-vision",
+    "name": "USB-A to USB Micro-B screw-lock Active Optical Cable — USB3 AOC",
+    "interface": "USB3 AOC",
+    "connectorA": "USB-A",
+    "connectorB": "USB Micro-B screw-lock",
+    "mounting": "Screw-lock",
+    "lengths": [
+      "5",
+      "10",
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc12b00-bfbc95e409bb.webp",
+      "/assets/products/qc12b00-0a5d35d9d550.webp",
+      "/assets/products/qc12b00-e30eb5dcbaff.webp",
+      "/assets/products/qc12b00-946188c3e20b.webp",
+      "/assets/products/qc12b00-668500e4cde8.webp",
+      "/assets/products/qc12b00-6ad2b002d569.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B14:F14",
+    "subcategory": "USB3 AOC",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28AWG / 18AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      },
+      {
+        "label": "Cable technology",
+        "value": "Active optical USB 3.0; power and optical construction require configuration review."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC12B01",
+    "slug": "qc12b01",
+    "category": "machine-vision",
+    "name": "USB-A to USB-B screw-lock Active Optical Cable — USB3 AOC",
+    "interface": "USB3 AOC",
+    "connectorA": "USB-A",
+    "connectorB": "USB-B screw-lock",
+    "mounting": "Screw-lock",
+    "lengths": [
+      "5",
+      "10",
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc12b01-c68c03faaac0.webp",
+      "/assets/products/qc12b01-b8531fd4d477.webp",
+      "/assets/products/qc12b01-c685d8fd26fb.webp",
+      "/assets/products/qc12b01-46821a5eea82.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B15:F15",
+    "subcategory": "USB3 AOC",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28AWG / 18AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      },
+      {
+        "label": "Cable technology",
+        "value": "Active optical USB 3.0; power and optical construction require configuration review."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC12B02",
+    "slug": "qc12b02",
+    "category": "machine-vision",
+    "name": "USB-A to USB-C screw-lock Active Optical Cable — USB3 AOC",
+    "interface": "USB3 AOC",
+    "connectorA": "USB-A",
+    "connectorB": "USB-C screw-lock",
+    "mounting": "Screw-lock",
+    "lengths": [
+      "5",
+      "10",
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc12b02-15f04f37ce39.webp",
+      "/assets/products/qc12b02-bc63aba7ffa5.webp",
+      "/assets/products/qc12b02-926d0830b397.webp",
+      "/assets/products/qc12b02-318357d3b135.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B16:F16",
+    "subcategory": "USB3 AOC",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28AWG / 18AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      },
+      {
+        "label": "Cable technology",
+        "value": "Active optical USB 3.0; power and optical construction require configuration review."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC12B03",
+    "slug": "qc12b03",
+    "category": "machine-vision",
+    "name": "USB-A male to USB-A female Active Optical Cable — USB3 AOC",
+    "interface": "USB3 AOC",
+    "connectorA": "USB-A male",
+    "connectorB": "USB-A female",
+    "mounting": "Configuration review",
+    "lengths": [
+      "5",
+      "10",
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc12b03-d1d1f5e7d931.webp",
+      "/assets/products/qc12b03-12866ace3a41.webp",
+      "/assets/products/qc12b03-3168204021e5.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B17:F17",
+    "subcategory": "USB3 AOC",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28AWG / 18AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      },
+      {
+        "label": "Cable technology",
+        "value": "Active optical USB 3.0; power and optical construction require configuration review."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC13A00",
+    "slug": "qc13a00",
+    "category": "machine-vision",
+    "name": "BNC to BNC Cable — CoaXPress",
+    "interface": "CoaXPress",
+    "connectorA": "BNC",
+    "connectorB": "BNC",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc13a00-f1cb8032a7c7.webp",
+      "/assets/products/qc13a00-77c9bcdceafb.webp",
+      "/assets/products/qc13a00-86cc8c9054a4.webp",
+      "/assets/products/qc13a00-36905253e26a.webp",
+      "/assets/products/qc13a00-510f99cb7592.webp",
+      "/assets/products/qc13a00-cb21097bfd6b.webp",
+      "/assets/products/qc13a00-cb00b6b9e7dd.webp",
+      "/assets/products/qc13a00-153474772593.webp",
+      "/assets/products/qc13a00-e87712e7c1ae.webp",
+      "/assets/products/qc13a00-c871222fedb5.webp",
+      "/assets/products/qc13a00-91865d8edb6b.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B18:F18",
+    "subcategory": "CoaXPress",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "23AWG / 24AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [
+      "FS30D00"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC13A01",
+    "slug": "qc13a01",
+    "category": "machine-vision",
+    "name": "DIN 1.0/2.3 to BNC Cable — CoaXPress",
+    "interface": "CoaXPress",
+    "connectorA": "DIN 1.0/2.3",
+    "connectorB": "BNC",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc13a01-64b3b84862f6.webp",
+      "/assets/products/qc13a01-e615660ebac7.webp",
+      "/assets/products/qc13a01-7569f85f93e1.webp",
+      "/assets/products/qc13a01-4c2f3a3204d5.webp",
+      "/assets/products/qc13a01-5b758fce62d2.webp",
+      "/assets/products/qc13a01-88b5da1b0179.webp",
+      "/assets/products/qc13a01-5fbb1b4c2956.webp",
+      "/assets/products/qc13a01-83977d0362a1.webp",
+      "/assets/products/qc13a01-2dc86ecf5d7b.webp",
+      "/assets/products/qc13a01-710ed79d34a9.webp",
+      "/assets/products/qc13a01-a9f0d21b0d66.webp",
+      "/assets/products/qc13a01-6c20f6953074.webp",
+      "/assets/products/qc13a01-00ef97966f6a.webp",
+      "/assets/products/qc13a01-cb8f170dd919.webp",
+      "/assets/products/qc13a01-652d7660023e.webp",
+      "/assets/products/qc13a01-96d714d461b0.webp",
+      "/assets/products/qc13a01-e58d87c7a3f7.webp",
+      "/assets/products/qc13a01-1bfcf1d7fe17.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B19:F19",
+    "subcategory": "CoaXPress",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "23AWG / 24AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC13A02",
+    "slug": "qc13a02",
+    "category": "machine-vision",
+    "name": "DIN 1.0/2.3 to HD-BNC Cable — CoaXPress",
+    "interface": "CoaXPress",
+    "connectorA": "DIN 1.0/2.3",
+    "connectorB": "HD-BNC",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc13a02-f516c1911063.webp",
+      "/assets/products/qc13a02-a6b5375ae35e.webp",
+      "/assets/products/qc13a02-5bd301f35704.webp",
+      "/assets/products/qc13a02-e229d7bcd756.webp",
+      "/assets/products/qc13a02-dc54f242ab54.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B20:F20",
+    "subcategory": "CoaXPress",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "23AWG / 24AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC13A03",
+    "slug": "qc13a03",
+    "category": "machine-vision",
+    "name": "DIN 1.0/2.3 to DIN 1.0/2.3 Cable — CoaXPress",
+    "interface": "CoaXPress",
+    "connectorA": "DIN 1.0/2.3",
+    "connectorB": "DIN 1.0/2.3",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc13a03-60bfd7dd1dfa.webp",
+      "/assets/products/qc13a03-e6992dcace4d.webp",
+      "/assets/products/qc13a03-3a30f89c9360.webp",
+      "/assets/products/qc13a03-54448524ed4d.webp",
+      "/assets/products/qc13a03-0089e03f3c78.webp",
+      "/assets/products/qc13a03-ae8150799a79.webp",
+      "/assets/products/qc13a03-bdae70ed8eba.webp",
+      "/assets/products/qc13a03-0e34062d3666.webp",
+      "/assets/products/qc13a03-2dc91f6462db.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B21:F21",
+    "subcategory": "CoaXPress",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "23AWG / 24AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC13A04",
+    "slug": "qc13a04",
+    "category": "machine-vision",
+    "name": "HD-BNC to HD-BNC Cable — CoaXPress",
+    "interface": "CoaXPress",
+    "connectorA": "HD-BNC",
+    "connectorB": "HD-BNC",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc13a04-cc0993c24226.webp",
+      "/assets/products/qc13a04-b537ff765d24.webp",
+      "/assets/products/qc13a04-f934835f9164.webp",
+      "/assets/products/qc13a04-1f064af86f35.webp",
+      "/assets/products/qc13a04-a7e743cd6686.webp",
+      "/assets/products/qc13a04-3205f8f2bde0.webp",
+      "/assets/products/qc13a04-4bb48ce527a2.webp",
+      "/assets/products/qc13a04-aa170415202f.webp",
+      "/assets/products/qc13a04-82b857fdabc5.webp",
+      "/assets/products/qc13a04-98496c64c72d.webp",
+      "/assets/products/qc13a04-8acb569f8fea.webp",
+      "/assets/products/qc13a04-ed5d2eb9b00a.webp",
+      "/assets/products/qc13a04-b20bded1a6e8.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B22:F22",
+    "subcategory": "CoaXPress",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "23AWG / 24AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [
+      "FS30D05"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC14A00",
+    "slug": "qc14a00",
+    "category": "machine-vision",
+    "name": "Hirose 6-pin to Open end Cable — Camera Power & I/O",
+    "interface": "Camera Power & I/O",
+    "connectorA": "Hirose 6-pin",
+    "connectorB": "Open end",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc14a00-4a204f8eba5a.webp",
+      "/assets/products/qc14a00-d6d0bc7faba9.webp",
+      "/assets/products/qc14a00-06591b0100f0.webp",
+      "/assets/products/qc14a00-de7420b05a50.webp",
+      "/assets/products/qc14a00-f4b8bb7d1245.webp",
+      "/assets/products/qc14a00-25cf6cbf64cc.webp",
+      "/assets/products/qc14a00-b0171ca0b426.webp",
+      "/assets/products/qc14a00-543e05abfdce.webp",
+      "/assets/products/qc14a00-f0ef6c2175a1.webp",
+      "/assets/products/qc14a00-47cd75e9839f.webp",
+      "/assets/products/qc14a00-055d3aa66093.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B23:F23",
+    "subcategory": "Camera Power & I/O",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "28AWG / 26AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC14A01",
+    "slug": "qc14a01",
+    "category": "machine-vision",
+    "name": "Hirose 8-pin to Open end Cable — Camera Power & I/O",
+    "interface": "Camera Power & I/O",
+    "connectorA": "Hirose 8-pin",
+    "connectorB": "Open end",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc14a01-d687b5304721.webp",
+      "/assets/products/qc14a01-5fee2c9e25a1.webp",
+      "/assets/products/qc14a01-b1f2103782ce.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B24:F24",
+    "subcategory": "Camera Power & I/O",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "26AWG / OD4.8 / OD5.3"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC14A02",
+    "slug": "qc14a02",
+    "category": "machine-vision",
+    "name": "Hirose 12-pin to Open end Cable — Camera Power & I/O",
+    "interface": "Camera Power & I/O",
+    "connectorA": "Hirose 12-pin",
+    "connectorB": "Open end",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc14a02-87398f528af5.webp",
+      "/assets/products/qc14a02-53237aeefe81.webp",
+      "/assets/products/qc14a02-e16c7011a1f2.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B25:F25",
+    "subcategory": "Camera Power & I/O",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "26AWG / OD6.2 / 24AWG / OD7.0"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC14B00",
+    "slug": "qc14b00",
+    "category": "machine-vision",
+    "name": "M8 A-coded 6-pin to Open end Cable — Camera Power & I/O",
+    "interface": "Camera Power & I/O",
+    "connectorA": "M8 A-coded 6-pin",
+    "connectorB": "Open end",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc14b00-b020cf4a2529.webp",
+      "/assets/products/qc14b00-7f12820b9dae.webp",
+      "/assets/products/qc14b00-66f02f4eaac2.webp",
+      "/assets/products/qc14b00-72328e96a2b2.webp",
+      "/assets/products/qc14b00-716acd9a340b.webp",
+      "/assets/products/qc14b00-011a82a48e76.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B26:F26",
+    "subcategory": "Camera Power & I/O",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "24AWG / 26AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC14B01",
+    "slug": "qc14b01",
+    "category": "machine-vision",
+    "name": "M12 A-coded 12-pin female to Open end Cable — Camera Power & I/O",
+    "interface": "Camera Power & I/O",
+    "connectorA": "M12 A-coded 12-pin female",
+    "connectorB": "Open end",
+    "mounting": "Configuration review",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc14b01-53c1a8d3bfec.webp",
+      "/assets/products/qc14b01-875e46853313.webp",
+      "/assets/products/qc14b01-842818b44062.webp",
+      "/assets/products/qc14b01-0d1f5fe2e674.webp",
+      "/assets/products/qc14b01-2e60e70d962b.webp",
+      "/assets/products/qc14b01-bbe241a52799.webp",
+      "/assets/products/qc14b01-069ae9ba72de.webp",
+      "/assets/products/qc14b01-1b60932a933e.webp",
+      "/assets/products/qc14b01-c63ec14da0f2.webp",
+      "/assets/products/qc14b01-c283505169fc.webp",
+      "/assets/products/qc14b01-5be740865a06.webp",
+      "/assets/products/qc14b01-5f6f4b4b0e51.webp",
+      "/assets/products/qc14b01-c0154edeccf2.webp",
+      "/assets/products/qc14b01-3fd9bbeb36bb.webp",
+      "/assets/products/qc14b01-5a0921b5b651.webp",
+      "/assets/products/qc14b01-dc6da83d3cd3.webp",
+      "/assets/products/qc14b01-059ee90d2150.webp",
+      "/assets/products/qc14b01-44517bb2675b.webp",
+      "/assets/products/qc14b01-0b924093e78b.webp",
+      "/assets/products/qc14b01-f83aee5af3cd.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Machine Vision Cables!B27:F27",
+    "subcategory": "Camera Power & I/O",
+    "engineering": [
+      {
+        "label": "Construction options",
+        "value": "24AWG / 26AWG"
+      },
+      {
+        "label": "Installation options",
+        "value": "Fixed installation / continuous-flex variant; validate bend radius, travel and cycles for the selected configuration."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC20A00",
+    "slug": "qc20a00",
+    "category": "industrial-ethernet",
+    "name": "RJ45 to RJ45 Cable — Cat5e",
+    "interface": "Cat5e",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc20a00-f7e6eac592d3.webp",
+      "/assets/products/qc20a00-fefdd3a60f72.webp",
+      "/assets/products/qc20a00-a94c1ed6ff54.webp",
+      "/assets/products/qc20a00-7cc019460866.webp",
+      "/assets/products/qc20a00-e1ef1e7a63b5.webp",
+      "/assets/products/qc20a00-e972061424e8.webp",
+      "/assets/products/qc20a00-26b2d2657c95.webp",
+      "/assets/products/qc20a00-d30e5fb13fbd.webp",
+      "/assets/products/qc20a00-5dd39b57da37.webp",
+      "/assets/products/qc20a00-42b042f5b4ee.webp",
+      "/assets/products/qc20a00-264686c606cc.webp",
+      "/assets/products/qc20a00-8102d28ebaa7.webp",
+      "/assets/products/qc20a00-de1edd372ba4.webp",
+      "/assets/products/qc20a00-a1ccad5ef894.webp",
+      "/assets/products/qc20a00-44e7e1232cb5.webp",
+      "/assets/products/qc20a00-ae0d867ebd22.webp",
+      "/assets/products/qc20a00-a40f7cd9dd74.webp",
+      "/assets/products/qc20a00-ecbbd7a08b53.webp",
+      "/assets/products/qc20a00-f1fe0fc4d90e.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Ethernet Cables!B2:F2",
+    "subcategory": "Industrial RJ45 Cables",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC20B00",
+    "slug": "qc20b00",
+    "category": "industrial-ethernet",
+    "name": "RJ45 to RJ45 Cable — Cat6",
+    "interface": "Cat6",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc20b00-d30e5fb13fbd.webp",
+      "/assets/products/qc20b00-f7e6eac592d3.webp",
+      "/assets/products/qc20b00-fefdd3a60f72.webp",
+      "/assets/products/qc20b00-a94c1ed6ff54.webp",
+      "/assets/products/qc20b00-7cc019460866.webp",
+      "/assets/products/qc20b00-e1ef1e7a63b5.webp",
+      "/assets/products/qc20b00-e972061424e8.webp",
+      "/assets/products/qc20b00-26b2d2657c95.webp",
+      "/assets/products/qc20b00-44e7e1232cb5.webp",
+      "/assets/products/qc20b00-ae0d867ebd22.webp",
+      "/assets/products/qc20b00-a40f7cd9dd74.webp",
+      "/assets/products/qc20b00-ecbbd7a08b53.webp",
+      "/assets/products/qc20b00-f1fe0fc4d90e.webp",
+      "/assets/products/qc20b00-5dd39b57da37.webp",
+      "/assets/products/qc20b00-42b042f5b4ee.webp",
+      "/assets/products/qc20b00-264686c606cc.webp",
+      "/assets/products/qc20b00-8102d28ebaa7.webp",
+      "/assets/products/qc20b00-de1edd372ba4.webp",
+      "/assets/products/qc20b00-a1ccad5ef894.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Ethernet Cables!B3:F3",
+    "subcategory": "Industrial RJ45 Cables",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC20C00",
+    "slug": "qc20c00",
+    "category": "industrial-ethernet",
+    "name": "RJ45 to RJ45 Cable — Cat6A",
+    "interface": "Cat6A",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc20c00-26b2d2657c95.webp",
+      "/assets/products/qc20c00-d30e5fb13fbd.webp",
+      "/assets/products/qc20c00-f7e6eac592d3.webp",
+      "/assets/products/qc20c00-fefdd3a60f72.webp",
+      "/assets/products/qc20c00-a94c1ed6ff54.webp",
+      "/assets/products/qc20c00-7cc019460866.webp",
+      "/assets/products/qc20c00-e1ef1e7a63b5.webp",
+      "/assets/products/qc20c00-e972061424e8.webp",
+      "/assets/products/qc20c00-44e7e1232cb5.webp",
+      "/assets/products/qc20c00-ae0d867ebd22.webp",
+      "/assets/products/qc20c00-a40f7cd9dd74.webp",
+      "/assets/products/qc20c00-ecbbd7a08b53.webp",
+      "/assets/products/qc20c00-f1fe0fc4d90e.webp",
+      "/assets/products/qc20c00-5dd39b57da37.webp",
+      "/assets/products/qc20c00-42b042f5b4ee.webp",
+      "/assets/products/qc20c00-264686c606cc.webp",
+      "/assets/products/qc20c00-8102d28ebaa7.webp",
+      "/assets/products/qc20c00-de1edd372ba4.webp",
+      "/assets/products/qc20c00-a1ccad5ef894.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Ethernet Cables!B4:F4",
+    "subcategory": "Industrial RJ45 Cables",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC21A00",
+    "slug": "qc21a00",
+    "category": "industrial-ethernet",
+    "name": "M12 D-coded to RJ45 Cable",
+    "interface": "M12 Ethernet Cables",
+    "connectorA": "M12 D-coded",
+    "connectorB": "RJ45",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc21a00-b6900b23f536.webp",
+      "/assets/products/qc21a00-6286de15025d.webp",
+      "/assets/products/qc21a00-d9471370c607.webp",
+      "/assets/products/qc21a00-546706d7ddf8.webp",
+      "/assets/products/qc21a00-a3872139a142.webp",
+      "/assets/products/qc21a00-c1f3320b2e69.webp",
+      "/assets/products/qc21a00-27f263aed308.webp",
+      "/assets/products/qc21a00-3a0839b3941a.webp",
+      "/assets/products/qc21a00-35aaacf0555d.webp",
+      "/assets/products/qc21a00-2a157edadbb8.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Ethernet Cables!B5:F5",
+    "subcategory": "M12 Ethernet Cables",
+    "engineering": [],
+    "legacyModels": [
+      "FS33A01"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC21B00",
+    "slug": "qc21b00",
+    "category": "industrial-ethernet",
+    "name": "M12 D-coded to M12 D-coded Cable",
+    "interface": "M12 Ethernet Cables",
+    "connectorA": "M12 D-coded",
+    "connectorB": "M12 D-coded",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc21b00-258c99054290.webp",
+      "/assets/products/qc21b00-8d54df3a90a4.webp",
+      "/assets/products/qc21b00-fbcbc47ab828.webp",
+      "/assets/products/qc21b00-c15162745d5d.webp",
+      "/assets/products/qc21b00-afdd5dc683f9.webp",
+      "/assets/products/qc21b00-989af4139a71.webp",
+      "/assets/products/qc21b00-8dc17fbb5c53.webp",
+      "/assets/products/qc21b00-506f305f06e7.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Ethernet Cables!B6:F6",
+    "subcategory": "M12 Ethernet Cables",
+    "engineering": [],
+    "legacyModels": [
+      "FS33A02"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC22A00",
+    "slug": "qc22a00",
+    "category": "industrial-ethernet",
+    "name": "M12 X-coded to RJ45 Cable",
+    "interface": "M12 Ethernet Cables",
+    "connectorA": "M12 X-coded",
+    "connectorB": "RJ45",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc22a00-4aedb344d083.webp",
+      "/assets/products/qc22a00-d9a6d4608a5d.webp",
+      "/assets/products/qc22a00-fe305058e61d.webp",
+      "/assets/products/qc22a00-6dbc03d83f18.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Ethernet Cables!B7:F7",
+    "subcategory": "M12 Ethernet Cables",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC22B00",
+    "slug": "qc22b00",
+    "category": "industrial-ethernet",
+    "name": "M12 X-coded to M12 X-coded Cable",
+    "interface": "M12 Ethernet Cables",
+    "connectorA": "M12 X-coded",
+    "connectorB": "M12 X-coded",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc22b00-2a6c201f05c0.webp",
+      "/assets/products/qc22b00-e85df6b5378c.webp",
+      "/assets/products/qc22b00-1874e054dcf6.webp",
+      "/assets/products/qc22b00-b9fb79140682.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Ethernet Cables!B8:F8",
+    "subcategory": "M12 Ethernet Cables",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC30A00",
+    "slug": "qc30a00",
+    "category": "m8-m12",
+    "name": "M8 3-Pin Sensor & Actuator Cables",
+    "interface": "M8 A Coded",
+    "connectorA": "M8 3-Pin",
+    "connectorB": "Open end / mating connector",
+    "mounting": "Male / female / open-end options",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc30a00-f7ebc901a4de.webp",
+      "/assets/products/qc30a00-7b74c1924c37.webp",
+      "/assets/products/qc30a00-e373e3d442ed.webp",
+      "/assets/products/qc30a00-c84e03955ae2.webp",
+      "/assets/products/qc30a00-98495a6c010d.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Circular Cable Assemblies!B2:F2",
+    "subcategory": "M8 A Coded",
+    "engineering": [],
+    "legacyModels": [
+      "FS34B00"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC30B00",
+    "slug": "qc30b00",
+    "category": "m8-m12",
+    "name": "M8 4-Pin Sensor & Actuator Cables",
+    "interface": "M8 A Coded",
+    "connectorA": "M8 4-Pin",
+    "connectorB": "Open end / mating connector",
+    "mounting": "Male / female / open-end options",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc30b00-0073c3ec3e18.webp",
+      "/assets/products/qc30b00-ce902419d827.webp",
+      "/assets/products/qc30b00-64107556b64d.webp",
+      "/assets/products/qc30b00-aac23a5c0df6.webp",
+      "/assets/products/qc30b00-011ac0403bcc.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Circular Cable Assemblies!B3:F3",
+    "subcategory": "M8 A Coded",
+    "engineering": [],
+    "legacyModels": [
+      "FS34B03"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC31A00",
+    "slug": "qc31a00",
+    "category": "m8-m12",
+    "name": "M12 A-Coded 4-Pin Cables",
+    "interface": "M12 A-Coded",
+    "connectorA": "M12 A-Coded 4-Pin",
+    "connectorB": "Open end / mating connector",
+    "mounting": "Male / female / open-end options",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc31a00-7fc6fb64e29c.webp",
+      "/assets/products/qc31a00-6a21b6b02bb1.webp",
+      "/assets/products/qc31a00-dd86a536d2ec.webp",
+      "/assets/products/qc31a00-6a6ba1c0ad62.webp",
+      "/assets/products/qc31a00-a99f9dbd7e20.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Circular Cable Assemblies!B4:F4",
+    "subcategory": "M12 A-Coded",
+    "engineering": [],
+    "legacyModels": [
+      "FS34A00",
+      "FS34A04"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC31B00",
+    "slug": "qc31b00",
+    "category": "m8-m12",
+    "name": "M12 A-Coded 5-Pin Cables",
+    "interface": "M12 A-Coded",
+    "connectorA": "M12 A-Coded 5-Pin",
+    "connectorB": "Open end / mating connector",
+    "mounting": "Male / female / open-end options",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc31b00-59e7ce884e2e.webp",
+      "/assets/products/qc31b00-907f4ba06dd4.webp",
+      "/assets/products/qc31b00-caefa743a688.webp",
+      "/assets/products/qc31b00-c28d9c4b11c2.webp",
+      "/assets/products/qc31b00-ab0b94b12370.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Circular Cable Assemblies!B5:F5",
+    "subcategory": "M12 A-Coded",
+    "engineering": [],
+    "legacyModels": [
+      "FS34A05"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC31C00",
+    "slug": "qc31c00",
+    "category": "m8-m12",
+    "name": "M12 A-Coded 8-Pin Cables",
+    "interface": "M12 A-Coded",
+    "connectorA": "M12 A-Coded 8-Pin",
+    "connectorB": "Open end / mating connector",
+    "mounting": "Male / female / open-end options",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc31c00-2e1849d9030b.webp",
+      "/assets/products/qc31c00-70dcb7072793.webp",
+      "/assets/products/qc31c00-e51c0d0c9dc3.webp",
+      "/assets/products/qc31c00-8fe1cd343113.webp",
+      "/assets/products/qc31c00-9bfe3ebdcaa8.webp",
+      "/assets/products/qc31c00-7664a4a6d9f1.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Circular Cable Assemblies!B6:F6",
+    "subcategory": "M12 A-Coded",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC32A00",
+    "slug": "qc32a00",
+    "category": "m8-m12",
+    "name": "M12 L-Coded Power Cables",
+    "interface": "M12 L-Coded",
+    "connectorA": "M12 L-Coded",
+    "connectorB": "Open end / mating connector",
+    "mounting": "Male / female / open-end options",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc32a00-b29b2da7c4b9.webp",
+      "/assets/products/qc32a00-5cacdd7c9bed.webp",
+      "/assets/products/qc32a00-f55aeb0aff6b.webp",
+      "/assets/products/qc32a00-666c130b0888.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Circular Cable Assemblies!B7:F7",
+    "subcategory": "M12 L-Coded",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC33A00",
+    "slug": "qc33a00",
+    "category": "m8-m12",
+    "name": "7/8″ 3-Pin Power & Control Cables",
+    "interface": "7/8 inch",
+    "connectorA": "7/8 inch 3-Pin",
+    "connectorB": "Open end / mating connector",
+    "mounting": "Male / female / open-end options",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc33a00-adc41a71fa86.webp",
+      "/assets/products/qc33a00-e3a5bcb7c25e.webp",
+      "/assets/products/qc33a00-387949119c71.webp",
+      "/assets/products/qc33a00-884eca1dff8b.webp",
+      "/assets/products/qc33a00-2cca42d139f8.webp",
+      "/assets/products/qc33a00-cc6fe40987ca.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Circular Cable Assemblies!B8:F8",
+    "subcategory": "7/ 8″",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC33B00",
+    "slug": "qc33b00",
+    "category": "m8-m12",
+    "name": "7/8″ 4-Pin Power & Control Cables",
+    "interface": "7/8 inch",
+    "connectorA": "7/8 inch 4-Pin",
+    "connectorB": "Open end / mating connector",
+    "mounting": "Male / female / open-end options",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc33b00-bfb30422f5b2.webp",
+      "/assets/products/qc33b00-3fb284c78160.webp",
+      "/assets/products/qc33b00-8c6f5ce5862b.webp",
+      "/assets/products/qc33b00-556827fb92a8.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Circular Cable Assemblies!B9:F9",
+    "subcategory": "7/ 8″",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC33C00",
+    "slug": "qc33c00",
+    "category": "m8-m12",
+    "name": "7/8″ 5-Pin Power & Control Cables",
+    "interface": "7/8 inch",
+    "connectorA": "7/8 inch 5-Pin",
+    "connectorB": "Open end / mating connector",
+    "mounting": "Male / female / open-end options",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc33c00-23ecf7fc04b5.webp",
+      "/assets/products/qc33c00-7ac80d14c2f9.webp",
+      "/assets/products/qc33c00-18350313b214.webp",
+      "/assets/products/qc33c00-3d0dfa5a3a4d.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Circular Cable Assemblies!B10:F10",
+    "subcategory": "7/ 8″",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC40A00",
+    "slug": "qc40a00",
+    "category": "industrial-communication",
+    "name": "USB to RS232 Converter Cables",
+    "interface": "RS232",
+    "connectorA": "USB-A / USB-C",
+    "connectorB": "DB9 / DB25 / RJ12 / Open end",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc40a00-5454c2dbd61b.webp",
+      "/assets/products/qc40a00-1d8bb53a8ea7.webp",
+      "/assets/products/qc40a00-9b3a43d2517e.webp",
+      "/assets/products/qc40a00-3b1eaa2715e0.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Communication Cable!B2:F2",
+    "subcategory": "RS232",
+    "engineering": [
+      {
+        "label": "Configuration options",
+        "value": "Active USB-to-RS232 conversion; connector variant selected per project."
+      }
+    ],
+    "legacyModels": [
+      "FS32A02",
+      "FS32A05"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC41A00",
+    "slug": "qc41a00",
+    "category": "industrial-communication",
+    "name": "USB to RS422 / RS485 Converter Cables",
+    "interface": "RS422/RS485",
+    "connectorA": "USB",
+    "connectorB": "Terminal / RJ45 / DB9",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc41a00-33f8d4bb7188.webp",
+      "/assets/products/qc41a00-3f451a5397b2.webp",
+      "/assets/products/qc41a00-24a759a5e789.webp",
+      "/assets/products/qc41a00-9ee75f12d030.webp",
+      "/assets/products/qc41a00-d1854ec0d7f2.webp",
+      "/assets/products/qc41a00-38feff9b24d0.webp",
+      "/assets/products/qc41a00-08e9c8d17f60.webp",
+      "/assets/products/qc41a00-fb516fd0e667.webp",
+      "/assets/products/qc41a00-3a9fa4c41792.webp",
+      "/assets/products/qc41a00-7525eb250643.webp",
+      "/assets/products/qc41a00-dd6d43054f34.webp",
+      "/assets/products/qc41a00-c51621b6ec97.webp",
+      "/assets/products/qc41a00-21ebd051deb3.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Communication Cable!B3:F3",
+    "subcategory": "RS422/RS485",
+    "engineering": [
+      {
+        "label": "Configuration options",
+        "value": "RS422 or RS485 mode must be confirmed for the selected variant."
+      }
+    ],
+    "legacyModels": [
+      "FS32B00"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC42A00",
+    "slug": "qc42a00",
+    "category": "industrial-communication",
+    "name": "USB to TTL UART Cables",
+    "interface": "TTL",
+    "connectorA": "USB-A / USB-C",
+    "connectorB": "UART flying leads / header",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc42a00-cf648df0f7fc.webp",
+      "/assets/products/qc42a00-bf0a1c1307a6.webp",
+      "/assets/products/qc42a00-4c9844ae9711.webp",
+      "/assets/products/qc42a00-ca4c4fdedb31.webp",
+      "/assets/products/qc42a00-5a14634a1a29.webp",
+      "/assets/products/qc42a00-91826eef0861.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Communication Cable!B4:F4",
+    "subcategory": "TTL",
+    "engineering": [
+      {
+        "label": "Configuration options",
+        "value": "3.3 V / 5 V TTL UART options; confirm logic level and pinout."
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC43A00",
+    "slug": "qc43a00",
+    "category": "industrial-communication",
+    "name": "Console & Configuration Cables",
+    "interface": "Console",
+    "connectorA": "USB / RJ45 / RJ12",
+    "connectorB": "Device console port",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc43a00-942c15c4812a.webp",
+      "/assets/products/qc43a00-79e83532f604.webp",
+      "/assets/products/qc43a00-c4848c1c5f7d.webp",
+      "/assets/products/qc43a00-f223efdb6dc1.webp",
+      "/assets/products/qc43a00-2d3427883745.webp",
+      "/assets/products/qc43a00-7a47f11562b0.webp",
+      "/assets/products/qc43a00-077b98448dfa.webp",
+      "/assets/products/qc43a00-de2f65ea0245.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Communication Cable!B5:F5",
+    "subcategory": "Console",
+    "engineering": [
+      {
+        "label": "Configuration options",
+        "value": "Passive console and active USB console options; confirm device pinout and driver."
+      }
+    ],
+    "legacyModels": [
+      "FS32C00"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC44A00",
+    "slug": "qc44a00",
+    "category": "industrial-communication",
+    "name": "D-Sub Cable Assemblies",
+    "interface": "D-Sub",
+    "connectorA": "D-Sub",
+    "connectorB": "D-Sub",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc44a00-3ca028f20e2e.webp",
+      "/assets/products/qc44a00-507c542ad60c.webp",
+      "/assets/products/qc44a00-6d39154384ed.webp",
+      "/assets/products/qc44a00-0efa6c797176.webp",
+      "/assets/products/qc44a00-b0d85a0b6b12.webp",
+      "/assets/products/qc44a00-d1a956a7ee28.webp",
+      "/assets/products/qc44a00-e2d82fbac6df.webp",
+      "/assets/products/qc44a00-888f7937844a.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Communication Cable!B6:F6",
+    "subcategory": "D-Sub",
+    "engineering": [
+      {
+        "label": "Configuration options",
+        "value": "DB9 / DB15 / DB25 / DB37 options; confirm wiring."
+      }
+    ],
+    "legacyModels": [
+      "FS38A03"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC50A00",
+    "slug": "qc50a00",
+    "category": "panel-mount",
+    "name": "USB-A female to USB-A female Panel Mount Cable",
+    "interface": "USB A",
+    "connectorA": "USB-A female",
+    "connectorB": "USB-A female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc50a00-3057d4371a5e.webp",
+      "/assets/products/qc50a00-1e9b7c768542.webp",
+      "/assets/products/qc50a00-1a9668176004.webp",
+      "/assets/products/qc50a00-9e5904b13579.webp",
+      "/assets/products/qc50a00-4606f2f40070.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B2:F2",
+    "subcategory": "USB A Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC50A01",
+    "slug": "qc50a01",
+    "category": "panel-mount",
+    "name": "USB-A male to USB-A female Panel Mount Cable",
+    "interface": "USB A",
+    "connectorA": "USB-A male",
+    "connectorB": "USB-A female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc50a01-cbf2f41dde1a.webp",
+      "/assets/products/qc50a01-61d09a24d515.webp",
+      "/assets/products/qc50a01-7da03b8bc747.webp",
+      "/assets/products/qc50a01-2f8901474932.webp",
+      "/assets/products/qc50a01-ff6b1d755238.webp",
+      "/assets/products/qc50a01-ec46a7132a14.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B3:F3",
+    "subcategory": "USB A Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC50A02",
+    "slug": "qc50a02",
+    "category": "panel-mount",
+    "name": "USB-C male to USB-A female Panel Mount Cable",
+    "interface": "USB A",
+    "connectorA": "USB-C male",
+    "connectorB": "USB-A female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc50a02-c4f9c8f88364.webp",
+      "/assets/products/qc50a02-ccc3845de093.webp",
+      "/assets/products/qc50a02-15d3a54e25a4.webp",
+      "/assets/products/qc50a02-bd4ed32835ec.webp",
+      "/assets/products/qc50a02-82268969e3af.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B4:F4",
+    "subcategory": "USB A Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC50B00",
+    "slug": "qc50b00",
+    "category": "panel-mount",
+    "name": "USB-B male to USB-B female Panel Mount Cable",
+    "interface": "USB B",
+    "connectorA": "USB-B male",
+    "connectorB": "USB-B female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc50b00-522c0be80111.webp",
+      "/assets/products/qc50b00-42876fe26991.webp",
+      "/assets/products/qc50b00-1a763e658730.webp",
+      "/assets/products/qc50b00-58093def7e5d.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B5:F5",
+    "subcategory": "USB B Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC50C00",
+    "slug": "qc50c00",
+    "category": "panel-mount",
+    "name": "USB-C male to USB-C female Panel Mount Cable",
+    "interface": "USB C",
+    "connectorA": "USB-C male",
+    "connectorB": "USB-C female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc50c00-aa5b905f4cc7.webp",
+      "/assets/products/qc50c00-30cd3db6133d.webp",
+      "/assets/products/qc50c00-cf067d8cc2e5.webp",
+      "/assets/products/qc50c00-1e9adb5651a7.webp",
+      "/assets/products/qc50c00-66485667a764.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B6:F6",
+    "subcategory": "USB C Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [
+      "FS37F01",
+      "FS37G00"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC50C01",
+    "slug": "qc50c01",
+    "category": "panel-mount",
+    "name": "USB-C female to USB-C female Panel Mount Cable",
+    "interface": "USB C",
+    "connectorA": "USB-C female",
+    "connectorB": "USB-C female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc50c01-1eec721093b5.webp",
+      "/assets/products/qc50c01-f0861d1dcbee.webp",
+      "/assets/products/qc50c01-404227ecf6b5.webp",
+      "/assets/products/qc50c01-0cb7109b17e6.webp",
+      "/assets/products/qc50c01-cb554669c3d1.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B7:F7",
+    "subcategory": "USB C Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC50D00",
+    "slug": "qc50d00",
+    "category": "panel-mount",
+    "name": "USB-C male to USB-C male Panel Mount Cable",
+    "interface": "USB C",
+    "connectorA": "USB-C male",
+    "connectorB": "USB-C male",
+    "mounting": "Dual screw-lock",
+    "lengths": [
+      "1",
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc50d00-f2dc3ccc31ff.webp",
+      "/assets/products/qc50d00-cce755e6d4ad.webp",
+      "/assets/products/qc50d00-c04407a8d9fc.webp",
+      "/assets/products/qc50d00-a07be06db47c.webp",
+      "/assets/products/qc50d00-c0eef9dfd9e2.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B8:F8",
+    "subcategory": "USB C Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Dual screw-lock"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC50D01",
+    "slug": "qc50d01",
+    "category": "panel-mount",
+    "name": "USB-C male to USB-C male Panel Mount Cable",
+    "interface": "USB C",
+    "connectorA": "USB-C male",
+    "connectorB": "USB-C male",
+    "mounting": "Single screw-lock",
+    "lengths": [
+      "1",
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc50d01-9d8713582602.webp",
+      "/assets/products/qc50d01-0affde7cdcfe.webp",
+      "/assets/products/qc50d01-200fd9574f6c.webp",
+      "/assets/products/qc50d01-23d97ebce253.webp",
+      "/assets/products/qc50d01-047c71b541f2.webp",
+      "/assets/products/qc50d01-8a4e2975f169.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B9:F9",
+    "subcategory": "USB C Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Single screw-lock"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC51A00",
+    "slug": "qc51a00",
+    "category": "panel-mount",
+    "name": "HDMI female to HDMI female Panel Mount Cable",
+    "interface": "HDMI",
+    "connectorA": "HDMI female",
+    "connectorB": "HDMI female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc51a00-b4f0e4e4c166.webp",
+      "/assets/products/qc51a00-06547027a2f8.webp",
+      "/assets/products/qc51a00-be9f78f45275.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B10:F10",
+    "subcategory": "HDMI Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC51B00",
+    "slug": "qc51b00",
+    "category": "panel-mount",
+    "name": "HDMI male to HDMI female Panel Mount Cable",
+    "interface": "HDMI",
+    "connectorA": "HDMI male",
+    "connectorB": "HDMI female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc51b00-ab8fff08167d.webp",
+      "/assets/products/qc51b00-5d12fad8ca8f.webp",
+      "/assets/products/qc51b00-acb66c9840ff.webp",
+      "/assets/products/qc51b00-26c81b51871e.webp",
+      "/assets/products/qc51b00-9699cfd04e1e.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B11:F11",
+    "subcategory": "HDMI Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [
+      "FS37B03"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC51C00",
+    "slug": "qc51c00",
+    "category": "panel-mount",
+    "name": "HDMI male to HDMI male Panel Mount Cable",
+    "interface": "HDMI",
+    "connectorA": "HDMI male",
+    "connectorB": "HDMI male",
+    "mounting": "Panel mount",
+    "lengths": [
+      "1",
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc51c00-900be622b487.webp",
+      "/assets/products/qc51c00-c935e1c0f8a3.webp",
+      "/assets/products/qc51c00-85d5401c0ec1.webp",
+      "/assets/products/qc51c00-b594281102eb.webp",
+      "/assets/products/qc51c00-3df7f10c3c07.webp",
+      "/assets/products/qc51c00-1a24904a38d6.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B12:F12",
+    "subcategory": "HDMI Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC52A00",
+    "slug": "qc52a00",
+    "category": "panel-mount",
+    "name": "DisplayPort female to DisplayPort female Panel Mount Cable",
+    "interface": "DisplayPort",
+    "connectorA": "DisplayPort female",
+    "connectorB": "DisplayPort female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc52a00-d08bc009257c.webp",
+      "/assets/products/qc52a00-54ed44a9f498.webp",
+      "/assets/products/qc52a00-c5b08641fcfd.webp",
+      "/assets/products/qc52a00-e184c793ec17.webp",
+      "/assets/products/qc52a00-5c4fcdf2c0f4.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B13:F13",
+    "subcategory": "DisplayPort Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC52A01",
+    "slug": "qc52a01",
+    "category": "panel-mount",
+    "name": "DisplayPort male to DisplayPort female Panel Mount Cable",
+    "interface": "DisplayPort",
+    "connectorA": "DisplayPort male",
+    "connectorB": "DisplayPort female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc52a01-7d10985eaa4d.webp",
+      "/assets/products/qc52a01-509db6a6cb4b.webp",
+      "/assets/products/qc52a01-e0131f9c5c19.webp",
+      "/assets/products/qc52a01-d153bffa9709.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B14:F14",
+    "subcategory": "DisplayPort Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC53A00",
+    "slug": "qc53a00",
+    "category": "panel-mount",
+    "name": "RJ45 female to RJ45 female Panel Mount Cable",
+    "interface": "RJ45",
+    "connectorA": "RJ45 female",
+    "connectorB": "RJ45 female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc53a00-22eeafdb586a.webp",
+      "/assets/products/qc53a00-c3e493d66392.webp",
+      "/assets/products/qc53a00-caacbac769f3.webp",
+      "/assets/products/qc53a00-cc0f30baff4e.webp",
+      "/assets/products/qc53a00-2607acd781c4.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B15:F15",
+    "subcategory": "RJ45 Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC53B00",
+    "slug": "qc53b00",
+    "category": "panel-mount",
+    "name": "RJ45 male to RJ45 female Panel Mount Cable",
+    "interface": "RJ45",
+    "connectorA": "RJ45 male",
+    "connectorB": "RJ45 female",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc53b00-77fbede51509.webp",
+      "/assets/products/qc53b00-b7c820201a6a.webp",
+      "/assets/products/qc53b00-2ecd1596c2f3.webp",
+      "/assets/products/qc53b00-421ace8138bc.webp",
+      "/assets/products/qc53b00-f02f9ab38320.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B16:F16",
+    "subcategory": "RJ45 Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [
+      "FS37H01"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC53B01",
+    "slug": "qc53b01",
+    "category": "panel-mount",
+    "name": "RJ45 male to RJ45 female module Panel Mount Cable",
+    "interface": "RJ45",
+    "connectorA": "RJ45 male",
+    "connectorB": "RJ45 female module",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc53b01-9808079bcf0c.webp",
+      "/assets/products/qc53b01-65b67b1e7ccb.webp",
+      "/assets/products/qc53b01-c43817bb4b4f.webp",
+      "/assets/products/qc53b01-dd5dd2ad2f4c.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B17:F17",
+    "subcategory": "RJ45 Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC54A00",
+    "slug": "qc54a00",
+    "category": "panel-mount",
+    "name": "IEC C14 to IEC C13 Panel Mount Cable",
+    "interface": "Power",
+    "connectorA": "IEC C14",
+    "connectorB": "IEC C13",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc54a00-749300f7a085.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B18:F18",
+    "subcategory": "Power Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC54B00",
+    "slug": "qc54b00",
+    "category": "panel-mount",
+    "name": "NEMA 5-15P to IEC C13 Panel Mount Cable",
+    "interface": "Power",
+    "connectorA": "NEMA 5-15P",
+    "connectorB": "IEC C13",
+    "mounting": "Panel mount",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc54b00-5981e5685da1.webp",
+      "/assets/products/qc54b00-d8490932b2a4.webp",
+      "/assets/products/qc54b00-a1d8ae3eafa1.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Panel Mount Cables!B19:F19",
+    "subcategory": "Power Panel Mount",
+    "engineering": [
+      {
+        "label": "Mounting",
+        "value": "Panel mount"
+      }
+    ],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC60A00",
+    "slug": "qc60a00",
+    "category": "industrial-display",
+    "name": "HDMI male to HDMI male Cable",
+    "interface": "HDMI",
+    "connectorA": "HDMI male",
+    "connectorB": "HDMI male",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7.5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc60a00-5aab50212510.webp",
+      "/assets/products/qc60a00-e1b6c00adee8.webp",
+      "/assets/products/qc60a00-435f17f7d13a.webp",
+      "/assets/products/qc60a00-5d651f7a0d19.webp",
+      "/assets/products/qc60a00-d1830b11229d.webp",
+      "/assets/products/qc60a00-74a595a25254.webp",
+      "/assets/products/qc60a00-bc6d8f35df77.webp",
+      "/assets/products/qc60a00-eac78e13852d.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B2:F2",
+    "subcategory": "HDMI",
+    "engineering": [],
+    "legacyModels": [
+      "FS11A02"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC60B00",
+    "slug": "qc60b00",
+    "category": "industrial-display",
+    "name": "HDMI male to HDMI female Cable",
+    "interface": "HDMI",
+    "connectorA": "HDMI male",
+    "connectorB": "HDMI female",
+    "mounting": "Configuration review",
+    "lengths": [
+      "0.3",
+      "0.5",
+      "1",
+      "1.5"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc60b00-94dda2ad189a.webp",
+      "/assets/products/qc60b00-3d79eb4cd714.webp",
+      "/assets/products/qc60b00-07f0dd21ea4f.webp",
+      "/assets/products/qc60b00-afec5a7ac9b3.webp",
+      "/assets/products/qc60b00-05b9839497e8.webp",
+      "/assets/products/qc60b00-727f8a1a8f32.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B3:F3",
+    "subcategory": "HDMI",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC60C00",
+    "slug": "qc60c00",
+    "category": "industrial-display",
+    "name": "HDMI Type E to HDMI Type E Cable",
+    "interface": "HDMI",
+    "connectorA": "HDMI Type E",
+    "connectorB": "HDMI Type E",
+    "mounting": "Configuration review",
+    "lengths": [
+      "0.5",
+      "1",
+      "2",
+      "3"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc60c00-92eabb47121f.webp",
+      "/assets/products/qc60c00-52d10aa90591.webp",
+      "/assets/products/qc60c00-299101629223.webp",
+      "/assets/products/qc60c00-77d47e765a17.webp",
+      "/assets/products/qc60c00-79111dd7dc85.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B4:F4",
+    "subcategory": "HDMI",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC61A00",
+    "slug": "qc61a00",
+    "category": "industrial-display",
+    "name": "DisplayPort male to DisplayPort male Cable",
+    "interface": "DisplayPort",
+    "connectorA": "DisplayPort male",
+    "connectorB": "DisplayPort male",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7.5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc61a00-765cceb6d447.webp",
+      "/assets/products/qc61a00-0d64f0763755.webp",
+      "/assets/products/qc61a00-067b00a85c82.webp",
+      "/assets/products/qc61a00-c4eb8b8f65eb.webp",
+      "/assets/products/qc61a00-d003a7f0dcfc.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B5:F5",
+    "subcategory": "DisplayPort",
+    "engineering": [],
+    "legacyModels": [
+      "FS12A03"
+    ],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC61B00",
+    "slug": "qc61b00",
+    "category": "industrial-display",
+    "name": "DisplayPort male to DisplayPort female Cable",
+    "interface": "DisplayPort",
+    "connectorA": "DisplayPort male",
+    "connectorB": "DisplayPort female",
+    "mounting": "Configuration review",
+    "lengths": [
+      "0.3",
+      "0.5",
+      "1",
+      "1.5"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc61b00-e650e04f8792.webp",
+      "/assets/products/qc61b00-1cb530a0d1df.webp",
+      "/assets/products/qc61b00-b673a5f2b7dd.webp",
+      "/assets/products/qc61b00-cb5df12afead.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B6:F6",
+    "subcategory": "DisplayPort",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC61C00",
+    "slug": "qc61c00",
+    "category": "industrial-display",
+    "name": "DisplayPort male to HDMI male Cable",
+    "interface": "DisplayPort",
+    "connectorA": "DisplayPort male",
+    "connectorB": "HDMI male",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc61c00-19f0a091f890.webp",
+      "/assets/products/qc61c00-38bce09953e8.webp",
+      "/assets/products/qc61c00-5e3f5318f7a9.webp",
+      "/assets/products/qc61c00-812446a67229.webp",
+      "/assets/products/qc61c00-3d12b7c5e531.webp",
+      "/assets/products/qc61c00-01a956ba7f65.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B7:F7",
+    "subcategory": "DisplayPort",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC61C01",
+    "slug": "qc61c01",
+    "category": "industrial-display",
+    "name": "DisplayPort male to HDMI female Cable",
+    "interface": "DisplayPort",
+    "connectorA": "DisplayPort male",
+    "connectorB": "HDMI female",
+    "mounting": "Configuration review",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc61c01-e3afb51d9e3c.webp",
+      "/assets/products/qc61c01-d12d45dcd59b.webp",
+      "/assets/products/qc61c01-a879ffcd53f3.webp",
+      "/assets/products/qc61c01-cfcdc9fece0f.webp",
+      "/assets/products/qc61c01-917bfb086a12.webp",
+      "/assets/products/qc61c01-47a4548facfa.webp",
+      "/assets/products/qc61c01-3f164cb0e3c4.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B8:F8",
+    "subcategory": "DisplayPort",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC61C02",
+    "slug": "qc61c02",
+    "category": "industrial-display",
+    "name": "DisplayPort male to VGA male Cable",
+    "interface": "DisplayPort",
+    "connectorA": "DisplayPort male",
+    "connectorB": "VGA male",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc61c02-148a46c228f0.webp",
+      "/assets/products/qc61c02-fb5b15c7948b.webp",
+      "/assets/products/qc61c02-bf87f7e487b8.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B9:F9",
+    "subcategory": "DisplayPort",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC62A00",
+    "slug": "qc62a00",
+    "category": "industrial-display",
+    "name": "USB-C male to USB-C male Cable",
+    "interface": "USB-C",
+    "connectorA": "USB-C male",
+    "connectorB": "USB-C male",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1",
+      "1.8",
+      "3",
+      "5",
+      "7.5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc62a00-e798300e9611.webp",
+      "/assets/products/qc62a00-3ffed868ef83.webp",
+      "/assets/products/qc62a00-747ff7cf62d6.webp",
+      "/assets/products/qc62a00-215216f3c07b.webp",
+      "/assets/products/qc62a00-9615ff7a0e85.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B10:F10",
+    "subcategory": "USB-C",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC62A01",
+    "slug": "qc62a01",
+    "category": "industrial-display",
+    "name": "USB-C male to USB-C female Cable",
+    "interface": "USB-C",
+    "connectorA": "USB-C male",
+    "connectorB": "USB-C female",
+    "mounting": "Configuration review",
+    "lengths": [
+      "0.3",
+      "0.5",
+      "1",
+      "1.5"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc62a01-b59d1dc4b891.webp",
+      "/assets/products/qc62a01-be75cf4a3c16.webp",
+      "/assets/products/qc62a01-9cf147649e75.webp",
+      "/assets/products/qc62a01-98dbeddd1976.webp",
+      "/assets/products/qc62a01-ecc5f566509e.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B11:F11",
+    "subcategory": "USB-C",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC62B00",
+    "slug": "qc62b00",
+    "category": "industrial-display",
+    "name": "USB-C to HDMI male Cable",
+    "interface": "USB-C",
+    "connectorA": "USB-C",
+    "connectorB": "HDMI male",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc62b00-bec341a5ff7b.webp",
+      "/assets/products/qc62b00-63e95e9beee8.webp",
+      "/assets/products/qc62b00-261788a046f6.webp",
+      "/assets/products/qc62b00-b3b3d5d8d2a0.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B12:F12",
+    "subcategory": "USB-C",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC62B01",
+    "slug": "qc62b01",
+    "category": "industrial-display",
+    "name": "USB-C to VGA male Cable",
+    "interface": "USB-C",
+    "connectorA": "USB-C",
+    "connectorB": "VGA male",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc62b01-0f2f8da28ca3.webp",
+      "/assets/products/qc62b01-679c032656e4.webp",
+      "/assets/products/qc62b01-4ee100aab9a9.webp",
+      "/assets/products/qc62b01-0bf719fa35fd.webp",
+      "/assets/products/qc62b01-7bbbc0591194.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B13:F13",
+    "subcategory": "USB-C",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC62B02",
+    "slug": "qc62b02",
+    "category": "industrial-display",
+    "name": "USB-C to DisplayPort male Cable",
+    "interface": "USB-C",
+    "connectorA": "USB-C",
+    "connectorB": "DisplayPort male",
+    "mounting": "Configuration review",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc62b02-8f6e6e2ad0ea.webp",
+      "/assets/products/qc62b02-a5c13b944cb2.webp",
+      "/assets/products/qc62b02-47e31c92df8f.webp",
+      "/assets/products/qc62b02-dc3f6d5dd63f.webp",
+      "/assets/products/qc62b02-b96fb9264b00.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B14:F14",
+    "subcategory": "USB-C",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC62C00",
+    "slug": "qc62c00",
+    "category": "industrial-display",
+    "name": "USB-C to HDMI female Cable",
+    "interface": "USB-C",
+    "connectorA": "USB-C",
+    "connectorB": "HDMI female",
+    "mounting": "Configuration review",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/qc62c00-34d78c90b696.webp",
+      "/assets/products/qc62c00-82871f4d9818.webp",
+      "/assets/products/qc62c00-8a6358eb5f82.webp",
+      "/assets/products/qc62c00-4124d099c69b.webp"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B15:F15",
+    "subcategory": "USB-C",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "provided"
+  },
+  {
+    "model": "QC62C01",
+    "slug": "qc62c01",
+    "category": "industrial-display",
+    "name": "USB-C to DisplayPort female Cable",
+    "interface": "USB-C",
+    "connectorA": "USB-C",
+    "connectorB": "DisplayPort female",
+    "mounting": "Configuration review",
+    "lengths": [
+      "0.2"
+    ],
+    "featured": false,
+    "images": [],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "Industrial Display Cables!B16:F16",
+    "subcategory": "USB-C",
+    "engineering": [],
+    "legacyModels": [],
+    "mediaStatus": "pending-review"
+  }
+]

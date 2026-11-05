@@ -1,0 +1,78 @@
+{
+  "status": "LOCAL_SECURITY_CANDIDATE_NOT_PLATFORM_RELEASE",
+  "basedOn": "ab502bf340d0f7510c1723dfc511e5268bc8a5e9",
+  "reason": "npm audit found Next 16.3.3 affected by GHSA-vcvr-r3jv-pc5j and multiple advisories fixed by 16.3.8; official platform promotion and full compatibility checks remain required",
+  "stack": {
+    "profile": "trademax-next-static-v2",
+    "source": {
+      "repository": "https://github.com/EricHong123/TradeMax-Agent-Website-Blueprint",
+      "ref": "refs/heads/codex/golden-platform-v1-blueprint",
+      "path": "storefront",
+      "status": "local_candidate",
+      "base_profile": "wintouch-next-static-v1",
+      "observed_at": "2026-09-01"
+    },
+    "runtime": {
+      "node": "24.20.0",
+      "npm": "11.19.0"
+    },
+    "package_manager": "npm",
+    "lockfile_version": 3,
+    "framework": "next-app-router",
+    "rendering": "static-export",
+    "architecture": "mvvm",
+    "react_server_components_default": true,
+    "typescript": {
+      "target": "ES2022",
+      "strict": true,
+      "module_resolution": "bundler",
+      "path_alias": "@/*"
+    },
+    "next": {
+      "react_strict_mode": true,
+      "powered_by_header": false,
+      "output": "export",
+      "trailing_slash": true,
+      "images_unoptimized": true
+    },
+    "localization": {
+      "library": "next-intl",
+      "locale_prefix": "as-needed",
+      "default_locale_prefix": "never",
+      "article_url_contract": "config/tenant.schema.json#/$defs/articleUrlPolicy"
+    },
+    "data_boundary": {
+      "transport": ["graphql", "rest"],
+      "validation": "zod",
+      "build_snapshot": true
+    },
+    "design_api_contract_version": 1,
+    "packages": {
+      "@tailwindcss/postcss": "4.3.3",
+      "next": "16.3.8",
+      "next-intl": "4.14.1",
+      "react": "19.2.7",
+      "react-dom": "19.2.7",
+      "tailwindcss": "4.3.3",
+      "typescript": "5.9.3",
+      "zod": "3.25.76"
+    },
+    "supporting_packages": {
+      "@tanstack/react-query": "5.101.0",
+      "autoprefixer": "10.5.0",
+      "clsx": "2.1.1",
+      "eslint": "9.39.5",
+      "eslint-config-next": "16.3.8",
+      "framer-motion": "11.18.2",
+      "fuse.js": "7.4.2",
+      "graphql": "16.14.2",
+      "graphql-request": "7.4.0",
+      "lucide-react": "0.469.0",
+      "postcss": "8.5.26",
+      "sanitize-html": "2.17.7",
+      "tailwind-merge": "2.6.1",
+      "tsx": "4.23.1",
+      "yaml": "2.9.0"
+    }
+  }
+}

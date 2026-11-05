@@ -1,0 +1,4736 @@
+{
+  "workbook": "/Users/trademax/Desktop/Qicable 产品线(1).xlsx",
+  "sha256": "6bf801e6d1c72fdfd2c81a86c892e32f19147751d3796829c39cdd6847c612e6",
+  "rows": [
+    {
+      "model": "QC10A00",
+      "sheet": "Machine Vision Cables",
+      "row": 2,
+      "cells": {
+        "B": "QC10A00",
+        "C": "GigE Vision",
+        "D": "GigE Vision Cable",
+        "E": "CAT5E SF/UTP 26AWG PVC\nA: 固定型  B: 高柔1000万次拖链",
+        "F": "3M 5M 10M 15M 20M"
+      }
+    },
+    {
+      "model": "QC10A01",
+      "sheet": "Machine Vision Cables",
+      "row": 3,
+      "cells": {
+        "B": "QC10A01",
+        "C": "GigE Vision",
+        "D": "GigE Vision Cable  单头带螺丝",
+        "E": "CAT5E SF/UTP 26AWG PVC\nA: 固定型  B: 高柔1000万次拖链",
+        "F": "3M 5M 10M 15M 20M"
+      }
+    },
+    {
+      "model": "QC10A02",
+      "sheet": "Machine Vision Cables",
+      "row": 4,
+      "cells": {
+        "B": "QC10A02",
+        "C": "GigE Vision",
+        "D": "GigE Vision Cable  RJ45-M12 A8",
+        "E": "CAT5E SF/UTP 26AWG PVC\nA: 固定型  B: 高柔1000万次拖链",
+        "F": "3M 5M 10M 15M 20M"
+      }
+    },
+    {
+      "model": "QC10B00",
+      "sheet": "Machine Vision Cables",
+      "row": 5,
+      "cells": {
+        "B": "QC10B00",
+        "C": "10GigE Vision",
+        "D": "10GigE Vision Cable 不带螺丝",
+        "E": "CAT6A S/FTP 26AWG PVC\nA: 固定型  B: 高柔1000万次拖链",
+        "F": "3M 5M 10M 15M 20M"
+      }
+    },
+    {
+      "model": "QC10B01",
+      "sheet": "Machine Vision Cables",
+      "row": 6,
+      "cells": {
+        "B": "QC10B01",
+        "C": "10GigE Vision",
+        "D": "10GigE Vision Cable  单头带螺丝",
+        "E": "CAT6A S/FTP 26AWG PVC\nA: 固定型  B: 高柔1000万次拖链",
+        "F": "3M 5M 10M 15M 20M"
+      }
+    },
+    {
+      "model": "QC10B02",
+      "sheet": "Machine Vision Cables",
+      "row": 7,
+      "cells": {
+        "B": "QC10B02",
+        "C": "10GigE Vision",
+        "D": "10GigE Vision Cable  RJ45-M12 X",
+        "E": "CAT6A S/FTP 26AWG PVC\nA: 固定型  B: 高柔1000万次拖链",
+        "F": "3M 5M 10M 15M 20M"
+      }
+    },
+    {
+      "model": "QC11A00",
+      "sheet": "Machine Vision Cables",
+      "row": 8,
+      "cells": {
+        "B": "QC11A00",
+        "C": "Camera Link",
+        "D": "MDR-MDR",
+        "E": "Camera Link 28AWG OD9.5mm\nA: 固定型  B: 高柔500万次拖链",
+        "F": "3M 5M 7M 10M"
+      }
+    },
+    {
+      "model": "QC11B00",
+      "sheet": "Machine Vision Cables",
+      "row": 9,
+      "cells": {
+        "B": "QC11B00",
+        "C": "Camera Link",
+        "D": "MDR-SDR",
+        "E": "Camera Link 28AWG OD9.5mm\nA: 固定型  B: 高柔500万次拖链",
+        "F": "3M 5M 7M 10M"
+      }
+    },
+    {
+      "model": "QC11C00",
+      "sheet": "Machine Vision Cables",
+      "row": 10,
+      "cells": {
+        "B": "QC11C00",
+        "C": "Camera Link",
+        "D": "SDR-SDR",
+        "E": "Camera Link 28AWG OD9.5mm\nA: 固定型  B: 高柔500万次拖链",
+        "F": "3M 5M 7M 10M"
+      }
+    },
+    {
+      "model": "QC12A00",
+      "sheet": "Machine Vision Cables",
+      "row": 11,
+      "cells": {
+        "B": "QC12A00",
+        "C": "USB3 Vision",
+        "D": "U3 AM-Micro 带锁",
+        "E": "USB 3.0 \nA: 固定型 28/24AWG OD5.5\nB: 高柔 28/24AWG OD6.8 300万次拖链",
+        "F": "1M 3M 5M"
+      }
+    },
+    {
+      "model": "QC12A01",
+      "sheet": "Machine Vision Cables",
+      "row": 12,
+      "cells": {
+        "B": "QC12A01",
+        "C": "USB3 Vision",
+        "D": "U3 AM-USB B",
+        "E": "USB 3.0 \nA: 固定型 28/24AWG OD5.5\nB: 高柔 28/24AWG OD6.8 300万次拖链",
+        "F": "1M 3M 5M"
+      }
+    },
+    {
+      "model": "QC12A02",
+      "sheet": "Machine Vision Cables",
+      "row": 13,
+      "cells": {
+        "B": "QC12A02",
+        "C": "USB3 Vision",
+        "D": "U3 AM-USB-C 带锁",
+        "E": "USB 3.0 \nA: 固定型 28/24AWG OD5.5\nB: 高柔 28/24AWG OD6.8 300万次拖链",
+        "F": "1M 3M 5M"
+      }
+    },
+    {
+      "model": "QC12B00",
+      "sheet": "Machine Vision Cables",
+      "row": 14,
+      "cells": {
+        "B": "QC12B00",
+        "C": "USB3 AOC",
+        "D": "U3 AOC AM-Micro 带锁",
+        "E": "USB 3.0 AOC \n2C*Optical fiber + 2C*28AWG + 2C*18AWG (Powe\nA: 固定型 \nB: 高柔 1500万次拖链",
+        "F": "5M 10M 20M 30M 40M 50M"
+      }
+    },
+    {
+      "model": "QC12B01",
+      "sheet": "Machine Vision Cables",
+      "row": 15,
+      "cells": {
+        "B": "QC12B01",
+        "C": "USB3 AOC",
+        "D": "U3 AOC AM-USB B带锁",
+        "E": "USB 3.0 AOC \n2C*Optical fiber + 2C*28AWG + 2C*18AWG (Powe\nA: 固定型 \nB: 高柔 1500万次拖链",
+        "F": "5M 10M 20M 30M 40M 50M"
+      }
+    },
+    {
+      "model": "QC12B02",
+      "sheet": "Machine Vision Cables",
+      "row": 16,
+      "cells": {
+        "B": "QC12B02",
+        "C": "USB3 AOC",
+        "D": "U3 AOC AM-USB-C 带锁",
+        "E": "USB 3.0 AOC \n2C*Optical fiber + 2C*28AWG + 2C*18AWG (Powe\nA: 固定型 \nB: 高柔 1500万次拖链",
+        "F": "5M 10M 20M 30M 40M 50M"
+      }
+    },
+    {
+      "model": "QC12B03",
+      "sheet": "Machine Vision Cables",
+      "row": 17,
+      "cells": {
+        "B": "QC12B03",
+        "C": "USB3 AOC",
+        "D": "U3 AOC AM-AF",
+        "E": "USB 3.0 AOC \n2C*Optical fiber + 2C*28AWG + 2C*18AWG (Powe\nA: 固定型 \nB: 高柔 1500万次拖链",
+        "F": "5M 10M 20M 30M 40M 50M"
+      }
+    },
+    {
+      "model": "QC13A00",
+      "sheet": "Machine Vision Cables",
+      "row": 18,
+      "cells": {
+        "B": "QC13A00",
+        "C": "CoaXPress",
+        "D": "CXP6 BNC-BNC",
+        "E": "CoaXPress Cable\nA: 固定型  23AWG \nB: 高柔 24AWG 1000万次拖链",
+        "F": "3M 5M 10M 15M"
+      }
+    },
+    {
+      "model": "QC13A01",
+      "sheet": "Machine Vision Cables",
+      "row": 19,
+      "cells": {
+        "B": "QC13A01",
+        "C": "CoaXPress",
+        "D": "CXP-6 DIN 1.0/2.3-BNC",
+        "E": "CoaXPress Cable\nA: 固定型  23AWG \nB: 高柔 24AWG 1000万次拖链",
+        "F": "3M 5M 10M 15M"
+      }
+    },
+    {
+      "model": "QC13A02",
+      "sheet": "Machine Vision Cables",
+      "row": 20,
+      "cells": {
+        "B": "QC13A02",
+        "C": "CoaXPress",
+        "D": "CXP-6 DIN 1.0/2.3-HD-BNC",
+        "E": "CoaXPress Cable\nA: 固定型  23AWG \nB: 高柔 24AWG 1000万次拖链",
+        "F": "3M 5M 10M 15M"
+      }
+    },
+    {
+      "model": "QC13A03",
+      "sheet": "Machine Vision Cables",
+      "row": 21,
+      "cells": {
+        "B": "QC13A03",
+        "C": "CoaXPress",
+        "D": "CXP-6 DIN 1.0/2.3-DIN 1.0/2.3",
+        "E": "CoaXPress Cable\nA: 固定型  23AWG \nB: 高柔 24AWG 1000万次拖链",
+        "F": "3M 5M 10M 15M"
+      }
+    },
+    {
+      "model": "QC13A04",
+      "sheet": "Machine Vision Cables",
+      "row": 22,
+      "cells": {
+        "B": "QC13A04",
+        "C": "CoaXPress",
+        "D": "CXP12 HD BNC-HD BNC",
+        "E": "CoaXPress Cable\nA: 固定型  23AWG \nB: 高柔 24AWG 1000万次拖链",
+        "F": "3M 5M 10M 15M"
+      }
+    },
+    {
+      "model": "QC14A00",
+      "sheet": "Machine Vision Cables",
+      "row": 23,
+      "cells": {
+        "B": "QC14A00",
+        "C": "Camera Power & I/O",
+        "D": "Hirose 6Pin → Open End",
+        "E": "相接电源线\nHR10A-7P-6S \nA: 固定型  3x2x28AWG\nB: 高柔 500万次拖链 6x26AWG",
+        "F": "3M 5M 10M",
+        "G": "提供供电、Trigger In和Strobe Out等功能，按相机实际Pinout配置。\nBasler和The Imaging Source均有真实对应产品"
+      }
+    },
+    {
+      "model": "QC14A01",
+      "sheet": "Machine Vision Cables",
+      "row": 24,
+      "cells": {
+        "B": "QC14A01",
+        "C": "Camera Power & I/O",
+        "D": "Hirose 8Pin → Open End",
+        "E": "相机 I/O Cable\nA: 固定型 26AWG OD4.8\nB: 高柔 500万次拖链  26AWG OD5.3",
+        "F": "3M 5M 10M",
+        "G": "用于部分机器视觉相机的外部触发和照明控制。\nAllied Vision 的 Mako 系列应用资料列出了这种接口线缆。"
+      }
+    },
+    {
+      "model": "QC14A02",
+      "sheet": "Machine Vision Cables",
+      "row": 25,
+      "cells": {
+        "B": "QC14A02",
+        "C": "Camera Power & I/O",
+        "D": "Hirose 12Pin → Open End",
+        "E": "相机 I/O Cable\nA: 固定型 26AWG OD6.2\nB:高柔 500万次拖链  26AWG*5P + 24AWG*1P OD7.0",
+        "F": "3M 5M 10M",
+        "G": "主要用于多路GPIO、Trigger、Strobe以及特定相机的供电组合。"
+      }
+    },
+    {
+      "model": "QC14B00",
+      "sheet": "Machine Vision Cables",
+      "row": 26,
+      "cells": {
+        "B": "QC14B00",
+        "C": "Camera Power & I/O",
+        "D": "M8 A6-OPEN",
+        "E": "相接电源线\nM8 A 6PIN \nA: 固定型  6x24AWG \nB: 高柔  500万次拖链 6x26AWG",
+        "F": "3M 5M 10M",
+        "G": "用于部分防护型GigE工业相机的电源及触发连接。\n\nThe Imaging Source 在 Visus IP67 产品中采用了这种线缆"
+      }
+    },
+    {
+      "model": "QC14B01",
+      "sheet": "Machine Vision Cables",
+      "row": 27,
+      "cells": {
+        "B": "QC14B01",
+        "C": "Camera Power & I/O",
+        "D": "M12 A12-OPEN",
+        "E": "相接电源线\nM12 A 12PIN 母头 \nA: 固定型 3x2x24AWG+6x24AWG\nB: 高柔 500万次拖链 5x2x26AWG+1x2x24AWG",
+        "F": "3M 5M 10M"
+      }
+    },
+    {
+      "model": "QC20A00",
+      "sheet": "Industrial Ethernet Cables",
+      "row": 2,
+      "cells": {
+        "B": "QC20A00",
+        "C": "Industrial RJ45 Cables",
+        "D": "Industrial RJ45 Cat5e",
+        "F": "1M 3M 5M 10M",
+        "N": "https://zlstore.com/goods/1015\n\nhttps://www.amazon.com/cablecc-Robotic-Ethernet-1000Mbps-Automation/dp/B0BHXWNGB2?th=1\nhttps://www.amazon.sa/-/en/Cloud-Symbol-Flexibility-Industrial-Shielding/dp/B0BWLXJ6MD\n\nhttps://www.amazon.com/-/zh_TW/NFHK-Robotic-%E4%B9%99%E5%A4%AA%E7%B6%B2%E8%B7%AF%E7%B6%B2%E8%B7%AF%E5%8D%80%E5%9F%9F%E7%B6%B2%E8%B7%AF%E7%BA%9C%E7%B7%9A%E8%B7%B3%E7%B7%9A-1000Mbps-%E9%81%A9%E7%94%A8%E6%96%BC%E8%B7%AF%E7%94%B1%E5%99%A8%E8%87%AA%E5%8B%95%E5%8C%96/dp/B0BHW9LFJW?th=1"
+      }
+    },
+    {
+      "model": "QC20B00",
+      "sheet": "Industrial Ethernet Cables",
+      "row": 3,
+      "cells": {
+        "B": "QC20B00",
+        "C": "Industrial RJ45 Cables",
+        "D": "Industrial RJ45 Cat6",
+        "F": "1M 3M 5M 10M"
+      }
+    },
+    {
+      "model": "QC20C00",
+      "sheet": "Industrial Ethernet Cables",
+      "row": 4,
+      "cells": {
+        "B": "QC20C00",
+        "C": "Industrial RJ45 Cables",
+        "D": "Industrial RJ45 Cat6A",
+        "F": "1M 3M 5M 10M"
+      }
+    },
+    {
+      "model": "QC21A00",
+      "sheet": "Industrial Ethernet Cables",
+      "row": 5,
+      "cells": {
+        "B": "QC21A00",
+        "C": "M12 Ethernet Cables",
+        "D": "M12 D-coded – RJ45",
+        "F": "1M 3M 5M 10M",
+        "N": "https://www.ebay.com/itm/387169748196\nhttps://www.amazon.com/Luxonis-Ethernet-cable-M12X-plugs/dp/B0CRBF63KV\nhttps://www.amazon.com/HangTon-Industrial-Ethernet-Machinery-Shielded/dp/B094JMW22N?th=1"
+      }
+    },
+    {
+      "model": "QC21B00",
+      "sheet": "Industrial Ethernet Cables",
+      "row": 6,
+      "cells": {
+        "B": "QC21B00",
+        "C": "M12 Ethernet Cables",
+        "D": "M12 D-coded – M12 D-coded",
+        "F": "1M 3M 5M 10M",
+        "N": "https://www.amazon.com/LEJDI-Communication-Industrial-Connection-Automation/dp/B0F1V7PL65\n\nhttps://www.amazon.com/Elecbee-Cable-Straight-Extension-AWG22/dp/B09SFY6W3S/ref=sr_1_1?crid=1YV8I55MH7JB7&dib=eyJ2IjoiMSJ9.coablD1BHq_uHpk6AZ_WftLKTmv-CNdKDJ5sEz4LtF1wa6ETAOzNnuDggkjr9DPLanwTeGf5W2uYrsl5adijoTylHz40Do6njo83jkQFMOw14C0Kf45MF-e8w8Obfzz2g6rwMkYjPfY1RRhmnX9RfAV8uBEbEr-K_VTWdaXKF9ZzmnlBsf3JeSk59aCD72W0nejveSUaJExEGhz4IkHkakUrGCmAK1I1ZZsq_2bO3In9bl-h2xN-OjeCAqwGk1NmBqsg-lv_3GZV7Lfqpv_Hwp2N7qIown0c3to0Yb_g3E8.DLliaHeAFKqGKZY0LyfE-nhoi5st27dsV5g-G_CTmcc&dib_tag=se&keywords=M12+4+Pin+Male+to+Male+Double+Ended+Cable+4+Pin+D-Code&qid=1753519555&s=industrial&sprefix=%2Cindustrial%2C1057&sr=1-1"
+      }
+    },
+    {
+      "model": "QC22A00",
+      "sheet": "Industrial Ethernet Cables",
+      "row": 7,
+      "cells": {
+        "B": "QC22A00",
+        "C": "M12 Ethernet Cables",
+        "D": "M12 X-coded – RJ45",
+        "F": "1M 3M 5M 10M",
+        "N": "https://www.fs.com/products/70748.html\nhttps://www.misumi.com.cn/vona2/detail/110410253439/\nhttps://www.misumi.com.cn/vona2/detail/110400501430/\nhttps://www.amazon.com/Cable-Matters-Snagless-Shielded-Ethernet/dp/B08MTNNQTB"
+      }
+    },
+    {
+      "model": "QC22B00",
+      "sheet": "Industrial Ethernet Cables",
+      "row": 8,
+      "cells": {
+        "B": "QC22B00",
+        "C": "M12 Ethernet Cables",
+        "D": "M12 X-coded – M12 X-coded",
+        "F": "1M 3M 5M 10M",
+        "N": "https://download.beckhoff.com/download/Document/io/ethercat-terminals/ethernetcabling_zh.pdf"
+      }
+    },
+    {
+      "model": "QC30A00",
+      "sheet": "Circular Cable Assemblies",
+      "row": 2,
+      "cells": {
+        "B": "QC30A00",
+        "C": "M8 A Coded",
+        "D": "M8 3-Pin Sensor & Actuator Cables",
+        "E": "包含M-OPEN, F-0PEN, M-F",
+        "F": "3M 5M 10M",
+        "N": "https://www.ebay.com/itm/284595154743\nhttps://www.ifm.com/us/en/product/E11599\n\nhttps://www.amazon.com/Lonlonty-Sensor-Connector-Aviation-Cable/dp/B09ZQQXSX9?th=1\nhttps://www.amazon.com/HangTon-Industrial-Actuator-Automation-Profibus/dp/B0CGVDXSFN?th=1\nhttps://americancableassemblies.com/binder-77-2530-2529-50705-0200-connecting-cables-connecting-cable-contacts-5-shielded-moulded-on-the-cable-ip68-ul-can-bus-pur-violet-1-x-2-x-awg-22-1-x-2-x-awg-24-2-m/"
+      }
+    },
+    {
+      "model": "QC30B00",
+      "sheet": "Circular Cable Assemblies",
+      "row": 3,
+      "cells": {
+        "B": "QC30B00",
+        "C": "M8 A Coded",
+        "D": "M8 4-Pin Sensor & Actuator Cables",
+        "E": "包含M-OPEN, F-0PEN, M-F",
+        "F": "3M 5M 10M",
+        "N": "https://www.amazon.com/Lonlonty-Sensor-Connector-Aviation-Cable/dp/B09ZQRB39X?th=1\nhttps://www.amazon.com/HangTon-Connector-Industrial-Automation-DeviceNet/dp/B0CP7K5H9V?th=1\n\nhttps://www.amazon.com/uxcell-Straight-Connector-Aviation-Electrical/dp/B0725531KZ/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.2da95b6c-f59a-4699-bc43-d0ff036c6388%3Aamzn1.sym.2da95b6c-f59a-4699-bc43-d0ff036c6388&crid=2HQK98DTFTSNA&cv_ct_cx=m12%2B4pin%2Bfemale&keywords=m12%2B4pin%2Bfemale&pd_rd_i=B0725531KZ&pd_rd_r=fb5083ae-79af-4c33-9c03-f44b59a7554e&pd_rd_w=c5soH&pd_rd_wg=t243X&pf_rd_p=2da95b6c-f59a-4699-bc43-d0ff036c6388&pf_rd_r=46ARFTXNMJS6T6BMFZ0V&qid=1753686513&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=m12%2B4pin%2Bfemale%2Caps%2C388&sr=1-3-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1"
+      }
+    },
+    {
+      "model": "QC31A00",
+      "sheet": "Circular Cable Assemblies",
+      "row": 4,
+      "cells": {
+        "B": "QC31A00",
+        "C": "M12 A-Coded",
+        "D": "M12 A-Coded 4-Pin Cables",
+        "E": "包含M-OPEN, F-0PEN, M-F",
+        "F": "3M 5M 10M",
+        "N": "https://www.amazon.com/FOWIUNYE-Connector-Straight-Electrical-Industrial/dp/B0CPBFF7BC/ref=sr_1_3?crid=9DCQAJNVAFN3&dib=eyJ2IjoiMSJ9.4EPtyxcp6NA2D6TfDzBd2XXB3lyV9QZ5WAVkSc4K72p-aHV0B1b9qun8DI7o7Hbnkksf0LwMcyZpc2W6AkJC7XV_Ymcw3p98LYJQkBHBgbDVURlUeUD8YiekOcxUYdVPsjsyrkJV3XNvc125cEAq9TT-KsIs3HJAq3Ljxc7CQqJzM7k3wlNIgx0mXNc37afnUnaXxaptNI7benHuf14WHLA07RaBBeCFQRE_1FVZ3ZI.mYdGTw1qYdUWXMd0cHT6tLH8hMfMpNQr7cDKwApkkPY&dib_tag=se&keywords=m12%2B4pin%2Bfemale%2Bto%2Bmale&qid=1753686791&sprefix=m12%2B4pin%2Bfemale%2Bto%2Bmale%2Caps%2C504&sr=8-3&th=1\nhttps://www.amazon.com/BOUUNCIY-Connector-Electrical-Industrial-Waterproof/dp/B0D95SFK6X/ref=sr_1_5?crid=9DCQAJNVAFN3&dib=eyJ2IjoiMSJ9.4EPtyxcp6NA2D6TfDzBd2XXB3lyV9QZ5WAVkSc4K72p-aHV0B1b9qun8DI7o7Hbnkksf0LwMcyZpc2W6AkJC7XV_Ymcw3p98LYJQkBHBgbDVURlUeUD8YiekOcxUYdVPsjsyrkJV3XNvc125cEAq9TT-KsIs3HJAq3Ljxc7CQqJzM7k3wlNIgx0mXNc37afnUnaXxaptNI7benHuf14WHLA07RaBBeCFQRE_1FVZ3ZI.mYdGTw1qYdUWXMd0cHT6tLH8hMfMpNQr7cDKwApkkPY&dib_tag=se&keywords=m12%2B4pin%2Bfemale%2Bto%2Bmale&qid=1753686791&sprefix=m12%2B4pin%2Bfemale%2Bto%2Bmale%2Caps%2C504&sr=8-5&th=1"
+      }
+    },
+    {
+      "model": "QC31B00",
+      "sheet": "Circular Cable Assemblies",
+      "row": 5,
+      "cells": {
+        "B": "QC31B00",
+        "C": "M12 A-Coded",
+        "D": "M12 A-Coded 5-Pin Cables",
+        "E": "包含M-OPEN, F-0PEN, M-F",
+        "F": "3M 5M 10M",
+        "N": "https://www.amazon.com/FOWIUNYE-Connector-Straight-Electrical-Industrial/dp/B0C2ZPZGT7/ref=sr_1_21?crid=2ALMOZ1UMQPX8&dib=eyJ2IjoiMSJ9.OP4G1_0DnXevG8Chw9zZJKANKFU7wuz3y69IFq8MGArE0MwyagBtqttc03q6_4sdInNdZT3QWoe-47boJECyYw88LSymRS8bwfVwI0OSvFBlF8IHwbAUNRhFBjmBEl9IidXzDmZATBJ2jpJ0wqbE-dajhTQnaBof__gfnUpcFTVpE0rv1HPWf-vLIfrYjiAnzgt65U22adMYUGOLRD6AKrcP5N2saFwkc7EFsV0iHL8.cTsfDbY7gw8MQh9DA7MbvmmorYtAbfPd9Px-uYUyEHY&dib_tag=se&keywords=m12%2B5pin&qid=1753686990&sprefix=m12%2B5pin%2Caps%2C491&sr=8-21&th=1\n\nhttps://www.amazon.com/ECSiNG-Waterproof-Electrical-Industrial-Automation/dp/B0CYGM6Y4M/ref=sr_1_19?crid=2ALMOZ1UMQPX8&dib=eyJ2IjoiMSJ9.5LccobLTg0vG_wcDbXuLec8ekf8mi3UgIh_zlMxjubkG7v7qDRp6sd8hySz2Vp0qcqR5pa3V8kF7Sa0se9v4HxE08O_2_nxfNJtd74QxFRFw5da7P3ELCHMrb6IYaTHWlXJe6U2eLg3JYHMEyL9Vu--N8_DGZ0nUEnBLJ85kfE0MYn3ccGD1WWL-8XlUI83y.-6jMGChBCS30d11LOKZLoa7Tup2-CBD_ddm2dyAv0NE&dib_tag=se&keywords=m12%2B5pin&qid=1753687138&sprefix=m12%2B5pin%2Caps%2C491&sr=8-19&xpid=jpI4brQz_QaDF&th=1"
+      }
+    },
+    {
+      "model": "QC31C00",
+      "sheet": "Circular Cable Assemblies",
+      "row": 6,
+      "cells": {
+        "B": "QC31C00",
+        "C": "M12 A-Coded",
+        "D": "M12 A-Coded 8-Pin Cables",
+        "E": "包含M-OPEN, F-0PEN, M-F",
+        "F": "3M 5M 10M",
+        "N": "https://www.amazon.com/FOWIUNYE-Connector-Electrical-Industrial-AWG24%EF%BC%885Meter%EF%BC%89/dp/B0D1KD445W/ref=sr_1_3?crid=1SMQ9DWM0KNET&dib=eyJ2IjoiMSJ9.iGd9jyyryBDsKg-_EhL1HwxSJ9nb6WkU7r6w-q5yvGfKY6drSZAzDdfK7WVMjUblYTYo8vK1oc5AjXQiMdmeV199S_a4GqW7FPT4w3Liog7MT9bTCZqkNfqy_RMFu9shaLN6VAyidJAt1CsEhUAtYwbJYaeDuy456NTS6KW9ti1ojZ31JKorXgqEFyndm7l8yAsD1yoyi-ajJY4ez1xRWhQZjeabcsc2uvhaunvwydQ.cCg3ipD6HfvCTxz_4k8zbQ5CrTTpph9rR2iQi2veOoI&dib_tag=se&keywords=m12%2B5pin%2B90&qid=1753687301&sprefix=m12%2B5pin%2B910%2Caps%2C393&sr=8-3&th=1\n\nhttps://www.amazon.com/uxcell-Elbow-Aviation-Connector-Electrical/dp/B01FM49ELO/ref=sr_1_13?crid=1V66VX29W8O9P&dib=eyJ2IjoiMSJ9.iGd9jyyryBDsKg-_EhL1H1Z2sWujllvUm-J9suJydgo6q369oI-t0SgH0MoMcBu13vJqLWodwaV14PRhZI9991r-b2LBWPcO4Ut-xX6FtNT6du79iGZLfbPAxOTub_JA4JO860S9keK06yFO1Zaj46a6YgXm9hdK3pvo0cqFVLx3FprDmSBFLUQ3TNcWDzGDF2z_X4ybNj9uhTWkVaoLya1WNHXSQ3c_oYxuW3gCFxs.IxhEi1ANp0_c5qeEi2tcWh0fXFNcq551Stzst0_-TSs&dib_tag=se&keywords=m12+5pin+90+male&qid=1753687487&sprefix=m12+5pin+90%2Caps%2C1052&sr=8-13"
+      }
+    },
+    {
+      "model": "QC32A00",
+      "sheet": "Circular Cable Assemblies",
+      "row": 7,
+      "cells": {
+        "B": "QC32A00",
+        "C": "M12 L-Coded",
+        "D": "M12 L-Coded Power Cables",
+        "E": "包含4Pin及5Pin（4+FE）",
+        "F": "3M 5M 10M",
+        "N": "https://www.amazon.com/a16110400ux0295-Straight-Connector-Aviation-Electrical/dp/B01MTC4CX3/ref=sr_1_4?crid=35AXR5DL8B2PN&dib=eyJ2IjoiMSJ9.5RrIMCGaMcuI529h6wh8a5H6LpL8lb6VNA8bPRXn0VlZy_JwzyIw7eEDl5jKFPNGpJ2-1XjBby1EmbmH4wrGv5CrXViq-5kURH4YPrzTdt4stGlxWnlfWmGhJwCbKyEvAnnIiqACQ5TnJrOJoTRRxW1OELaUmwxe1euMd8PEfQEHJMiTAjcfvyF0Y1FAnAzYExn4kfHF1XsYJVQ8TWatPNiCcTTa-8DusxGddiHwfdA.lw8L-om1mF670k2hfjJsUqAwdW52sBrwfGfaNY1eGqM&dib_tag=se&keywords=m12+5pin+female&qid=1753687540&sprefix=m12+5pin+female%2Caps%2C475&sr=8-4\n\nhttps://www.amazon.com/Lonlonty-M12-Aviation-Sensor-Cable/dp/B09ZQQ5BZP/ref=sr_1_6?crid=35AXR5DL8B2PN&dib=eyJ2IjoiMSJ9.5RrIMCGaMcuI529h6wh8a5H6LpL8lb6VNA8bPRXn0VlZy_JwzyIw7eEDl5jKFPNGpJ2-1XjBby1EmbmH4wrGv5CrXViq-5kURH4YPrzTdt4stGlxWnlfWmGhJwCbKyEvAnnIiqACQ5TnJrOJoTRRxW1OELaUmwxe1euMd8PEfQEHJMiTAjcfvyF0Y1FAnAzYExn4kfHF1XsYJVQ8TWatPNiCcTTa-8DusxGddiHwfdA.lw8L-om1mF670k2hfjJsUqAwdW52sBrwfGfaNY1eGqM&dib_tag=se&keywords=m12%2B5pin%2Bfemale&qid=1753687540&sprefix=m12%2B5pin%2Bfemale%2Caps%2C475&sr=8-6&th=1\n\nhttps://www.amazon.com/ECSiNG-Waterproof-Electrical-Industrial-Automation/dp/B0CYGJ4WGQ/ref=sr_1_11?crid=35AXR5DL8B2PN&dib=eyJ2IjoiMSJ9.5RrIMCGaMcuI529h6wh8a5H6LpL8lb6VNA8bPRXn0VlZy_JwzyIw7eEDl5jKFPNGpJ2-1XjBby1EmbmH4wrGv5CrXViq-5kURH4YPrzTdt4stGlxWnlfWmGhJwCbKyEvAnnIiqACQ5TnJrOJoTRRxW1OELaUmwxe1euMd8PEfQEHJMiTAjcfvyF0Y1FAnAzYExn4kfHF1XsYJVQ8TWatPNiCcTTa-8DusxGddiHwfdA.lw8L-om1mF670k2hfjJsUqAwdW52sBrwfGfaNY1eGqM&dib_tag=se&keywords=m12%2B5pin%2Bfemale&qid=1753687540&sprefix=m12%2B5pin%2Bfemale%2Caps%2C475&sr=8-11&th=1"
+      }
+    },
+    {
+      "model": "QC33A00",
+      "sheet": "Circular Cable Assemblies",
+      "row": 8,
+      "cells": {
+        "B": "QC33A00",
+        "C": "7/ 8″",
+        "D": "7/8″ 3-Pin Power & Control Cables",
+        "E": "包含M-OPEN, F-0PEN, M-F",
+        "F": "3M 5M 10M",
+        "N": "https://www.amazon.com/ZBLZGP-Connector-Actuator-Industrial-Shielded/dp/B0CKN6ZDDL/ref=sr_1_6?crid=1BLPMC4J0DKTS&dib=eyJ2IjoiMSJ9.vPqbgOu7pu9ZAh5A6neOrBzIJDi9y7ZVEpDofm61Sa5XGJZN-dR6vXc5mWtjJSl_s5m_f5-8wVPpDdCbdXmoQ6IgptuNKIEBGkAbNe29qmoEtmbPuE3rBtRX_kQgcCW1BL1JbiEfut32mNoiVrhrsLUR7t05OWVLZIzxsW7cFKRI74pY9Em5ATqwqm4cp9Ihkb2dUvUh5qU4LNSHxD75bwWRIaVOWbELsuDFQMPSNEU.ajdnK3xPSYq7WwVDAd4TkrSIkDdFvcEE7N-3iVJk4uE&dib_tag=se&keywords=m12%2B5pin%2Bfemale%2Bright%2Bangle&qid=1754956811&sprefix=m12%2B5pin%2Bfemale%2Bright%2Bangle%2Caps%2C445&sr=8-6&th=1\nhttps://www.amazon.com/Lonlonty-Connector-Aviation-Industrial-Automation/dp/B09ZQQFNTF/ref=sr_1_10?crid=1BLPMC4J0DKTS&dib=eyJ2IjoiMSJ9.vPqbgOu7pu9ZAh5A6neOrBzIJDi9y7ZVEpDofm61Sa5XGJZN-dR6vXc5mWtjJSl_s5m_f5-8wVPpDdCbdXmoQ6IgptuNKIEBGkAbNe29qmoEtmbPuE3rBtRX_kQgcCW1BL1JbiEfut32mNoiVrhrsLUR7t05OWVLZIzxsW7cFKRI74pY9Em5ATqwqm4cp9Ihkb2dUvUh5qU4LNSHxD75bwWRIaVOWbELsuDFQMPSNEU.ajdnK3xPSYq7WwVDAd4TkrSIkDdFvcEE7N-3iVJk4uE&dib_tag=se&keywords=m12%2B5pin%2Bfemale%2Bright%2Bangle&qid=1754956811&sprefix=m12%2B5pin%2Bfemale%2Bright%2Bangle%2Caps%2C445&sr=8-10&th=1\nhttps://www.amazon.com/Eonvic-Industrial-Aviation-Connector-Electrical/dp/B09VBQZ2TL/ref=sr_1_13?crid=1BLPMC4J0DKTS&dib=eyJ2IjoiMSJ9.vPqbgOu7pu9ZAh5A6neOrBzIJDi9y7ZVEpDofm61Sa5XGJZN-dR6vXc5mWtjJSl_s5m_f5-8wVPpDdCbdXmoQ6IgptuNKIEBGkAbNe29qmoEtmbPuE3rBtRX_kQgcCW1BL1JbiEfut32mNoiVrhrsLUR7t05OWVLZIzxsW7cFKRI74pY9Em5ATqwqm4cp9Ihkb2dUvUh5qU4LNSHxD75bwWRIaVOWbELsuDFQMPSNEU.ajdnK3xPSYq7WwVDAd4TkrSIkDdFvcEE7N-3iVJk4uE&dib_tag=se&keywords=m12%2B5pin%2Bfemale%2Bright%2Bangle&qid=1754956811&sprefix=m12%2B5pin%2Bfemale%2Bright%2Bangle%2Caps%2C445&sr=8-13&th=1\nhttps://www.amazon.com/DRRI-Connector-Industrial-Automated-Connections/dp/B0CM8N1M9Z/ref=sr_1_17?crid=1BLPMC4J0DKTS&dib=eyJ2IjoiMSJ9.o009gV9-6gCjhtxHcXvvGwp-douvbxhhJPUODMXKDOxDwWY_dakrP0Ky5FrUXLnVkRZbtKN5yrZrZkjab44z9Bdhvu5v9sP_8kNdaq4Dnj_LGvQUJ6NTc3ZMGVINd_IF7i_03vxQP8CkQ-Dem8BtW0Q62xTRQ8nMknRlLViSZIWor3LdVxX5jtFd0vh9S7Cm.W_5He-o984TE2gREcvEdOYhHFd1wp1FKHP4etj33rHE&dib_tag=se&keywords=m12%2B5pin%2Bfemale%2Bright%2Bangle&qid=1754958216&sprefix=m12%2B5pin%2Bfemale%2Bright%2Bangle%2Caps%2C445&sr=8-17&xpid=TaSAvumJh723T&th=1"
+      }
+    },
+    {
+      "model": "QC33B00",
+      "sheet": "Circular Cable Assemblies",
+      "row": 9,
+      "cells": {
+        "B": "QC33B00",
+        "C": "7/ 8″",
+        "D": "7/8″ 4-Pin Power & Control Cables",
+        "E": "包含M-OPEN, F-0PEN, M-F",
+        "F": "3M 5M 10M",
+        "N": "https://www.amazon.com/BOUUNCIY-Connector-Electrical-Industrial-Waterproof/dp/B0D95S2V59/ref=sr_1_10?crid=E756IN3SX5NA&dib=eyJ2IjoiMSJ9.rnNHmEBFwChXSMYtfzJhauDHqfLuZjVQCMlhjlpTgmDx8eZW4C2NhTIxW9N6pJ8_ZeExF4JtWPUWxW_pXO9iUgxbShdu1TkiNRadH-MoEkWD0JHUEHw4D_HLseiyDrGs8KMeEiV9Sa6NlWR_iatwBj_2aFvAnjRfP6M-dL8MGxipzrvC43Dq2sGQkG3lLvlKDNkXZb-pJ-lsCk84aW18Ie3Lk19YgueE5lN4RjoNu80.DU9GMbVR26fLbsPTUQcuHy3v81STotQSdnPSBjsdB-c&dib_tag=se&keywords=m12%2B5pin%2Bfemale%2Bto%2Bmale&qid=1753688180&sprefix=m12%2B5pin%2Bfemale%2Bto%2Bmale%2Caps%2C417&sr=8-10&th=1\nhttps://www.amazon.com/Elecbee-Compatible-Industrial-Automation-Applications/dp/B09LD2V6BY/ref=sr_1_7_sspa?crid=E756IN3SX5NA&dib=eyJ2IjoiMSJ9.rnNHmEBFwChXSMYtfzJhauDHqfLuZjVQCMlhjlpTgmDx8eZW4C2NhTIxW9N6pJ8_ZeExF4JtWPUWxW_pXO9iUgxbShdu1TkiNRadH-MoEkWD0JHUEHw4D_HLseiyDrGs8KMeEiV9Sa6NlWR_iatwBj_2aFvAnjRfP6M-dL8MGxipzrvC43Dq2sGQkG3lLvlKDNkXZb-pJ-lsCk84aW18Ie3Lk19YgueE5lN4RjoNu80.DU9GMbVR26fLbsPTUQcuHy3v81STotQSdnPSBjsdB-c&dib_tag=se&keywords=m12%2B5pin%2Bfemale%2Bto%2Bmale&qid=1753688180&sprefix=m12%2B5pin%2Bfemale%2Bto%2Bmale%2Caps%2C417&sr=8-7-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1"
+      }
+    },
+    {
+      "model": "QC33C00",
+      "sheet": "Circular Cable Assemblies",
+      "row": 10,
+      "cells": {
+        "B": "QC33C00",
+        "C": "7/ 8″",
+        "D": "7/8″ 5-Pin Power & Control Cables",
+        "E": "包含M-OPEN, F-0PEN, M-F",
+        "F": "3M 5M 10M",
+        "N": "https://www.amazon.com/Lonlonty-Circular-Connector-Shielded-Waterproof/dp/B0CKPL11C9?th=1\n\nhttps://www.amazon.com/Elecbee-10pcs-Waterproof-Molding-Connector/dp/B0BXP3WCP7/ref=sr_1_24?crid=2VRSUS9K84H6&dib=eyJ2IjoiMSJ9.NiJXqfnEY_8NhAY8sQqJioZi5QAWwwqBtbTOoKzR1Gqca2aeX5rBqOCAd3jn5Bh1-RucpE3BwnEWenHG0_VAFyc50lPKHRxnhmFmEDBq4kwbGrE-r_nHdf_D8ibJnPhKLFDnnZI6-X173dY89kbyGLP5bAFMPgmlaExTilgUm290sUAfNbwhSH3_k8oBSvh3.GESOzNtTCizFGlLqj8wQ9_B0o2ZEV63C63z0n5q7_LQ&dib_tag=se&keywords=m8+3pin+male&qid=1753688462&sprefix=m8+3pinmale%2Caps%2C485&sr=8-24&xpid=PxbmUc6u4pAEw\n\nhttps://www.amazon.com/Aviation-Pin%EF%BC%8CLonlonty-Industrial-Connector-Shielded/dp/B0CKPL11C9/ref=sr_1_5?crid=1SA58AVVVU9GT&dib=eyJ2IjoiMSJ9.ZkPQJpvw3-ohdNtaAYjLxLmGbPQlQeqVw9WJaomw-V8O8F3kUxxzvMNcOy0ljqT8RjJFOq7CTHFFpIJsHPV4VtV4MVFycLg7Wgj3AqeCiOjszoTLp_3qquJKOCwJwYK29PIJNLfqM5DvKZCSHlEnUjZS_MoV10IHWwRiaMAsxHyNdtjKFNR_Cbw5lMW__PRzL0AU0JCZtDADZB3dZZr-pXdHNdIGNqPFcLAbviJiahc.sTr-83m37z39u-6p6xMxFZNO59c5hW_odHHuGjJWy_k&dib_tag=se&keywords=m8%2B3pin%2Bmale%2Bbare%2Bwire&qid=1754981471&sprefix=m8%2B3pin%2Bmale%2Bbare%2Bwire%2Caps%2C406&sr=8-5&th=1\n\nhttps://www.amazon.com/FSC8-FS-3-Sensor-Connector-Straight-Proximity/dp/B07Y7KHX2Y/ref=sr_1_51?crid=3TZD86MXQUT0T&dib=eyJ2IjoiMSJ9._0B9ZNM5UXtEXyQUaFYPj-sv93Uz_8K5sWKh3QFd-LQ48_Z9kKlzHkSSpc19sQTJG1KJs4fbKqahwc-0f4rsYScvVCyAp0kdsVPLBn-V4undcVJndA2gQ2sukF7ycjg9T2obM4lAUswV0nJdbHdi1Zt9Cs4hob9IMcyeu14KGFbD6HBts2qXIEo-JNQWpBlE300OXeaL5ZzXtBsYrdxpdQJsgXoq-wc13wBkxvkxDa8.arxHKBTFyokIoXzTniF_68t4N4ydJyxkUkkU7KQES_s&dib_tag=se&keywords=m8+3pin&qid=1753750376&sprefix=m8+3pin%2Caps%2C1008&sr=8-51&xpid=uqKz3ibsRmFSa\n\nhttps://www.amazon.com/Zeatop-Hendar-Electrical-Waterproof-Connector/dp/B0D31DVP24/ref=sr_1_95?crid=6KF4LSJT5I7V&dib=eyJ2IjoiMSJ9.QNZXLQRo9jXT3PRt4fsE1S9NcIbBkvQnRXtxZhrgSle9MmCst1ptVQh8XzvsoNZk_8FGKMBrZpb1qA5pL9-lrEVy3NnA8xUYnDRr3cNdnMF-FnHUI_8aZgGTUXtXjdnSeaoLjV-wmHMi1Ck2Mq8QQAeHZcrZgauoErhXNv2CxHjSaA2ZSY4uu91_oKvZl_-PdJR5APOg4ZfZroWawjOqxWiVsTTtQcp6_VaM8GBoiB84WSiWLazVDj4ISNtBC908PIHjRTDT6ZWbKZce2DWKK10vlqgRfK9XomEUPdZP9g0.G8168jU7GodeyDPCIktOl_yZRrh4Um2Z1swS8JnSIY0&dib_tag=se&keywords=M8%2B3Pin%2BMale&qid=1755769625&s=electronics&sprefix=m8%2B3pin%2Bmale%2Celectronics%2C454&sr=1-95&xpid=e4mlykMSy3JWm&th=1"
+      }
+    },
+    {
+      "model": "QC40A00",
+      "sheet": "Industrial Communication Cable",
+      "row": 2,
+      "cells": {
+        "B": "QC40A00",
+        "C": "RS232",
+        "D": "USB to RS232 Converter Cables",
+        "E": "包含 USB-A、USB-C 转 DB9、DB25、RJ12或散线端的有源RS232转换组件",
+        "F": "1.8M",
+        "N": "奋斗者：\nhttps://detail.1688.com/offer/993532649626.html?spm=a260k.27118904.m2eeca9u.3.7ebace5czf6L6b\n\nhttps://www.conceptronic.net/conceptronic_en/133382-usb-a-to-serial-rs232-db9-adapter-133382\nhttps://www.westec.com.au/shop/p-product-usb-serial-adaptor.html\nhttps://www.amazon.com/OIKWAN-Adapter-Converter-Compatible-Windows/dp/B0BL1MRV6H\nhttps://www.amazon.se/-/en/Equip-Serial-RS232-DB9-Connector-Adapter/dp/B004YO7E8O\nhttps://www.amazon.nl/-/en/Delock-Adapter-Type-Serial-RS-232/dp/B000KHVJGW\nhttps://www.teragrand.com/products/usb-2-0-to-rs232-serial-db9-converter-with-ftdi-chipset-led-indicator-33-cable-included"
+      }
+    },
+    {
+      "model": "QC41A00",
+      "sheet": "Industrial Communication Cable",
+      "row": 3,
+      "cells": {
+        "B": "QC41A00",
+        "C": "RS422/RS485",
+        "D": "USB to RS422 / RS485 Converter Cables",
+        "E": "包含 USB转RS485两线/四线、RS422，以及适用的端子、RJ45、DB9等连接方式，但要核实实际产品是RS422、RS485还是两者可选。",
+        "F": "1.8M",
+        "N": "https://www.amazon.com/Gembird-Serial-Converter-compatible-black/dp/B016CIXQL8\nhttps://www.amazon.com/ADAPTER-RS-232-CONVERTER-SERIAL-COMMUNICATION/dp/B0D8127HL4?th=1\nhttps://www.walmart.com/ip/Monoprice-3ft-USB-to-Serial-Converter-Cable-USB-A-to-DB9-DE9/31199086"
+      }
+    },
+    {
+      "model": "QC42A00",
+      "sheet": "Industrial Communication Cable",
+      "row": 4,
+      "cells": {
+        "B": "QC42A00",
+        "C": "TTL",
+        "D": "USB to TTL UART Cables",
+        "E": "包含USB转3.3V/5V TTL UART、USB-A或USB-C输入、线头/排针/特殊接口输出。",
+        "F": "1.8M",
+        "N": "https://www.amazon.de/-/en/Equip-Adapter-USB-C-Serial-RS232-DB9/dp/B0C2VNHPJG\nhttps://www.alibaba.com/product-detail/USB-C-to-RS232-DB9-Serial_1600960338833.html\n\nhttps://www.amazon.com/StarTech-com-USB-Serial-Adapter-Retention/dp/B074VM88G1/ref=sr_1_13?crid=3V4Y6VBZGIH0N&dib=eyJ2IjoiMSJ9.B9dP_j8PvZLMkeQmn3dLE2OYtidy_CdjVP3sVzIATgpVQVoRVMHLbPO48wxJ5l44WpS53N3nu2vnEzIZtxVpRb1p8-CRZUfLXsacVbC2_wYVPobWhzszHxDqdw3Tx2uic7ny3SX3LjkYMZBVfHtmNiSD9R-ZeqdK76drYHpDOJBPQQW33jVfdscKJvpTpxrgKrl3OWt2kw9qUoSQB5EMe0WCzZRpYaYpuFACyT75gliIraEy-RofZWHDSyemMJbgxN9QdrFLFXcXC-yqlDLeIWNzDs1ZM3SjgYTr5qPtue4.uA1hz5sf29E16djgkXRDHcHlJZdlbgBHKtgxUyOTmZ4&dib_tag=se&keywords=USB-C%2Bto%2BRS-232%2BAdapter%2BCable&qid=1753337687&s=industrial&sprefix=usb-c%2Bto%2Brs-232%2Badapter%2Bcable%2Cindustrial%2C354&sr=1-13&th=1"
+      }
+    },
+    {
+      "model": "QC43A00",
+      "sheet": "Industrial Communication Cable",
+      "row": 5,
+      "cells": {
+        "B": "QC43A00",
+        "C": "Console",
+        "D": "Console & Configuration Cables",
+        "E": "用于路由器、交换机、UPS、工业设备等管理端口的配置与维护。\n包含 RJ45/RJ12 Console线、USB转Console有源线、特定设备调试线。",
+        "F": "1.8M",
+        "N": "奋斗者：\nhttps://detail.1688.com/offer/994408067698.html?spm=a260k.27118904.m2eeca9u.13.7ebace5czf6L6b\n\nhttps://www.amazon.com/usangreen-Converter-Machine-Software-CNC-SW-25M/dp/B0CJNKVZ6D"
+      }
+    },
+    {
+      "model": "QC44A00",
+      "sheet": "Industrial Communication Cable",
+      "row": 6,
+      "cells": {
+        "B": "QC44A00",
+        "C": "D-Sub",
+        "D": "D-Sub Cable Assemblies",
+        "E": "DB9, DB15、DB25、DB37",
+        "F": "1.8M",
+        "N": "https://www.amazon.com/-/zh_TW/JTSF9648/dp/B0CTG44DSJ?th=1\n\nhttps://www.amazon.com/Skcvmn-Converter-Programming-Compatible-Communication/dp/B0CYBXR3CG?th=1\n\nhttps://www.amazon.com/Skcvmn-Converter-Programming-Compatible-Communication/dp/B0CYC1SXV7?th=1\nhttps://www.amazon.com/-/he/PX012/dp/B0BN8GDJWQ\n\nhttps://www.amazon.com/Mendouconert-Serial-Communication-Lithium-ION-Battery/dp/B0D661VV7Z?th=1"
+      }
+    },
+    {
+      "model": "QC60A00",
+      "sheet": "Industrial Display Cables",
+      "row": 2,
+      "cells": {
+        "B": "QC60A00",
+        "C": "HDMI",
+        "D": "HDMI 2.0/2.1 注塑 马口铁 高柔",
+        "E": "1M 2M 3M 5M 7.5M 10M",
+        "F": "黑"
+      }
+    },
+    {
+      "model": "QC60B00",
+      "sheet": "Industrial Display Cables",
+      "row": 3,
+      "cells": {
+        "B": "QC60B00",
+        "C": "HDMI",
+        "D": "HDMI 2.0/2.1 延长线",
+        "E": "0.3M 0.5M 1M 1.5M",
+        "F": "黑"
+      }
+    },
+    {
+      "model": "QC60C00",
+      "sheet": "Industrial Display Cables",
+      "row": 4,
+      "cells": {
+        "B": "QC60C00",
+        "C": "HDMI",
+        "D": "HDMI Type E",
+        "E": "0.5M 1M 2M 3M",
+        "F": "黑"
+      }
+    },
+    {
+      "model": "QC61A00",
+      "sheet": "Industrial Display Cables",
+      "row": 5,
+      "cells": {
+        "B": "QC61A00",
+        "C": "DisplayPort",
+        "D": "DP 公对公 1.4/2.1",
+        "E": "1M 2M 3M 5M 7.5M 10M",
+        "F": "黑"
+      }
+    },
+    {
+      "model": "QC61B00",
+      "sheet": "Industrial Display Cables",
+      "row": 6,
+      "cells": {
+        "B": "QC61B00",
+        "C": "DisplayPort",
+        "D": "DP1.2 公对母 公头ABS 母头注塑 A: 1.2  B: 1.4",
+        "E": "0.3M 0.5M 1M 1.5M",
+        "F": "黑"
+      }
+    },
+    {
+      "model": "QC61C00",
+      "sheet": "Industrial Display Cables",
+      "row": 7,
+      "cells": {
+        "B": "QC61C00",
+        "C": "DisplayPort",
+        "D": "DP公对HDMI公线  铝壳 4K30 4K60, 8K60",
+        "E": "1.8M",
+        "F": "灰"
+      }
+    },
+    {
+      "model": "QC61C01",
+      "sheet": "Industrial Display Cables",
+      "row": 8,
+      "cells": {
+        "B": "QC61C01",
+        "C": "DisplayPort",
+        "D": "DP公转HDMI母 铝壳  \nB1: 4K30HZ\nB2: 4K60HZ\nB3: 8K60HZ",
+        "E": "0.2m",
+        "F": "灰"
+      }
+    },
+    {
+      "model": "QC61C02",
+      "sheet": "Industrial Display Cables",
+      "row": 9,
+      "cells": {
+        "B": "QC61C02",
+        "C": "DisplayPort",
+        "D": "DP公对VGA公线 塑壳",
+        "E": "1.8M",
+        "F": "黑"
+      }
+    },
+    {
+      "model": "QC62A00",
+      "sheet": "Industrial Display Cables",
+      "row": 10,
+      "cells": {
+        "B": "QC62A00",
+        "C": "USB-C",
+        "D": "CM-CM 铝壳 20G 40G 240W",
+        "E": "1M 1.8M 3M 5M 7.5M 10M",
+        "F": "灰"
+      }
+    },
+    {
+      "model": "QC62A01",
+      "sheet": "Industrial Display Cables",
+      "row": 11,
+      "cells": {
+        "B": "QC62A01",
+        "C": "USB-C",
+        "D": "CM-CF 铝壳 20G 40G 240W",
+        "E": "0.3M 0.5M 1M 1.5M",
+        "F": "灰"
+      }
+    },
+    {
+      "model": "QC62B00",
+      "sheet": "Industrial Display Cables",
+      "row": 12,
+      "cells": {
+        "B": "QC62B00",
+        "C": "USB-C",
+        "D": "Type C 转 HDMI 线，4K30 4K60 8K60 铝壳",
+        "E": "1.8M",
+        "F": "灰"
+      }
+    },
+    {
+      "model": "QC62B01",
+      "sheet": "Industrial Display Cables",
+      "row": 13,
+      "cells": {
+        "B": "QC62B01",
+        "C": "USB-C",
+        "D": "Type C转VGA公线",
+        "E": "1.8M",
+        "F": "黑"
+      }
+    },
+    {
+      "model": "QC62B02",
+      "sheet": "Industrial Display Cables",
+      "row": 14,
+      "cells": {
+        "B": "QC62B02",
+        "C": "USB-C",
+        "D": "Type C转DP 8K线 铝壳 互转",
+        "E": "1.8M",
+        "F": "灰"
+      }
+    },
+    {
+      "model": "QC62C00",
+      "sheet": "Industrial Display Cables",
+      "row": 15,
+      "cells": {
+        "B": "QC62C00",
+        "C": "USB-C",
+        "D": "TYPE C 转HDMI母 小方壳 B1: 4K30  B2:4K60  B3: 8K60",
+        "E": "0.2M",
+        "F": "灰"
+      }
+    },
+    {
+      "model": "QC62C01",
+      "sheet": "Industrial Display Cables",
+      "row": 16,
+      "cells": {
+        "B": "QC62C01",
+        "C": "USB-C",
+        "D": "TYPE C 转DP母 铝壳 4K 8K",
+        "E": "0.2M",
+        "F": "灰"
+      }
+    },
+    {
+      "model": "QC50A00",
+      "sheet": "Panel Mount Cables",
+      "row": 2,
+      "cells": {
+        "B": "QC50A00",
+        "C": "USB A Panel Mount",
+        "D": "U3 AF-AF Panel Mount Cables",
+        "F": "0.2M",
+        "H": "无"
+      }
+    },
+    {
+      "model": "QC50A01",
+      "sheet": "Panel Mount Cables",
+      "row": 3,
+      "cells": {
+        "B": "QC50A01",
+        "C": "USB A Panel Mount",
+        "D": "U3 AM-AF Panel Mount Cables",
+        "F": "0.2M"
+      }
+    },
+    {
+      "model": "QC50A02",
+      "sheet": "Panel Mount Cables",
+      "row": 4,
+      "cells": {
+        "B": "QC50A02",
+        "C": "USB A Panel Mount",
+        "D": "U3 CM-AF Panel Mount Cables",
+        "F": "0.2M"
+      }
+    },
+    {
+      "model": "QC50B00",
+      "sheet": "Panel Mount Cables",
+      "row": 5,
+      "cells": {
+        "B": "QC50B00",
+        "C": "USB B Panel Mount",
+        "D": "U3 BM-BF Panel Mount Cables",
+        "F": "0.2M",
+        "P": "https://www.amazon.com/-/zh_TW/dp/B0B6HVJ9DC\nhttps://www.farsince.com/product/usb-3-0-panel-mount-a-to-b-cable-m-m/\n\nhttps://chinese.alibaba.com/product-detail/USB-3-0-TYPE-C-CM-1601054900056.html"
+      }
+    },
+    {
+      "model": "QC50C00",
+      "sheet": "Panel Mount Cables",
+      "row": 6,
+      "cells": {
+        "B": "QC50C00",
+        "C": "USB C Panel Mount",
+        "D": "USB 3.2/4  M-F Panel Mount Cables",
+        "F": "0.2M",
+        "P": "https://www.farsince.com/product/usb-3-0-b-panel-mount-extension-cable/\n\nhttps://www.amazon.sa/-/en/Traovien-Printer-Female-Square-Extension/dp/B0CKVFXD8L\nhttps://www.walmart.com/ip/FVH-Super-Speed-USB-3-0-Back-Panel-Mount-B-Female-To-Male-B-Type-Extension-Cable-0-5m/2994217201"
+      }
+    },
+    {
+      "model": "QC50C01",
+      "sheet": "Panel Mount Cables",
+      "row": 7,
+      "cells": {
+        "B": "QC50C01",
+        "C": "USB C Panel Mount",
+        "D": "USB 3.2/4  F-F Panel Mount Cables",
+        "F": "0.2M",
+        "P": "Dual: https://www.farsince.com/product/usb-3-0-20pin-to-dual-usb-a-panel-mount-cable/\n\nhttps://my.world.taobao.com/item/NlNSc1JCd0NWWnNQaUtiYVV5dWpGUT09.htm?spm=a21wu.24122187-my%2Fdefault.recommend-goods.4\n\nhttps://www.ebay.com.sg/itm/276467779637?_skw=usb+panel+mount&itmmeta=01JH4FXWPME73868WZFDAMZW06&hash=item405ec38835:g:tAAAAOSwAOlmRAqk&itmprp=enc:AQAJAAAA8CodCO1vSDjg2xNOt8By6oAGm3UsFgshmKIV+apXFJ1lNSiblbjQWfXALKDnSfr8sxHQ2cDlLNLJrJH9jaHUrWZvSXzHE5fJeFygRYPs0l2+hX8NplvnJ3MCF3C0o--eIobSp4KJWQL9Tu2Ejf3hMrpYvkyxTJjBo2BxlgCOpmJ1whiZtyIrAfvCENJ8OaZMnXOx8DqupXhMSsnyX/7kYYtM8k0Y8BZZ9Fb1rPAOSpOsi5cnLQREdc1q/LbGlVNZBQz0GA0vMVVlo/hIcOiGnK6xkmJ6kdYMi66oc8aHQ92tG/WjDs0E01ju9yk1yFImyA==|tkp:Bk9SR7TL94-JZQ&var=579030489338"
+      }
+    },
+    {
+      "model": "QC50D00",
+      "sheet": "Panel Mount Cables",
+      "row": 8,
+      "cells": {
+        "B": "QC50D00",
+        "C": "USB C Panel Mount",
+        "D": "USB 3.2/4  M-M Panel Mount Cables， dual screw",
+        "F": "1M 1.8M",
+        "P": "https://www.farsince.com/product/usb-c-to-usb-3-0-a-panel-mount-cable/\nhttps://www.amazon.com/-/zh_TW/Tekit-USB-C-USB-Type-C-%E9%99%84%E9%9D%A2%E6%9D%BF%E5%AE%89%E8%A3%9D%E8%9E%BA%E7%B5%B2/dp/B07KQWW5P4"
+      }
+    },
+    {
+      "model": "QC50D01",
+      "sheet": "Panel Mount Cables",
+      "row": 9,
+      "cells": {
+        "B": "QC50D01",
+        "C": "USB C Panel Mount",
+        "D": "USB 3.2/4  M-M Panel Mount Cables, single screw",
+        "F": "1M 1.8M",
+        "P": "https://www.amazon.com/-/zh_TW/Cablecc-Type-C-%E9%9B%99%E8%9E%BA%E6%A1%BF%E9%8E%96%E5%AE%9A%E8%87%B3%E6%A8%99%E6%BA%96-USB3-0-%E5%85%AC%E5%B0%BA%E9%9D%A2%E6%9D%BF%E5%AE%89%E8%A3%9D%E9%A1%9E%E5%9E%8B/dp/B076SGCZBS?th=1"
+      }
+    },
+    {
+      "model": "QC51A00",
+      "sheet": "Panel Mount Cables",
+      "row": 10,
+      "cells": {
+        "B": "QC51A00",
+        "C": "HDMI Panel Mount",
+        "D": "HDMI F-F PM",
+        "F": "0.2M",
+        "J": "是",
+        "M": "是",
+        "N": "是",
+        "P": "https://www.amazon.com/Female-HighSpeed-Cable-Resolution-2-9ft/dp/B0D2X2C3C2\n"
+      }
+    },
+    {
+      "model": "QC51B00",
+      "sheet": "Panel Mount Cables",
+      "row": 11,
+      "cells": {
+        "B": "QC51B00",
+        "C": "HDMI Panel Mount",
+        "D": "HDMI M-F PM",
+        "F": "0.2M",
+        "P": "https://www.infinitecables.com/products/6-inch-hdmi-female-to-female-45-degree-adapter-with-screw-holes\nhttps://usb.brando.com/hdmi-female-to-hdmi-female-cable-with-screw-hole-30cm-_p17647c0064d015.html"
+      }
+    },
+    {
+      "model": "QC51C00",
+      "sheet": "Panel Mount Cables",
+      "row": 12,
+      "cells": {
+        "B": "QC51C00",
+        "C": "HDMI Panel Mount",
+        "D": "HDMI M-M PM",
+        "F": "1M 1.8M",
+        "J": "是",
+        "M": "是",
+        "N": "是",
+        "P": "https://www.starte-cable.com/dispalyport-cable/mini-dp-dp-cable/panel-mount-displayport-1-2-female-to-female.html\n\nhttps://www.ielecable.net/cn/product/product-27-690.html\nhttps://www.farsince.com/product/8k-hdmi-panel-mount-cable-female-to-female/\nhttps://www.amazon.com/-/zh_TW/79124988/dp/B09QH4GS2D"
+      }
+    },
+    {
+      "model": "QC52A00",
+      "sheet": "Panel Mount Cables",
+      "row": 13,
+      "cells": {
+        "B": "QC52A00",
+        "C": "DisplayPort Panel Mount",
+        "D": "DP F-F PM",
+        "F": "0.2M",
+        "P": "https://www.umateck.com/product/displayport-female-female-panel-mount-cable/\nhttps://www.starte-cable.com/dispalyport-cable/mini-dp-dp-cable/panel-mount-displayport-1-2-female-to-female.html"
+      }
+    },
+    {
+      "model": "QC52A01",
+      "sheet": "Panel Mount Cables",
+      "row": 14,
+      "cells": {
+        "B": "QC52A01",
+        "C": "DisplayPort Panel Mount",
+        "D": "DP M-F PM",
+        "F": "0.2M",
+        "P": "https://www.newegg.com/p/2MV-00NB-00181\nhttps://www.farsince.com/product/displayport-male-to-female-panel-mount-extension-cable/"
+      }
+    },
+    {
+      "model": "QC53A00",
+      "sheet": "Panel Mount Cables",
+      "row": 15,
+      "cells": {
+        "B": "QC53A00",
+        "C": "RJ45 Panel Mount",
+        "D": "RJ45 F-F",
+        "F": "0.2M",
+        "P": "https://www.amazon.com/Uxcell-a16042900ux0812-Ethernet-Adapter-Network/dp/B01LBGCNCO\nhttps://www.amazon.com/QIANRENON-90%C2%B0Angle-Ethernet-Extension-Communication/dp/B0BDM38LSR\n"
+      }
+    },
+    {
+      "model": "QC53B00",
+      "sheet": "Panel Mount Cables",
+      "row": 16,
+      "cells": {
+        "B": "QC53B00",
+        "C": "RJ45 Panel Mount",
+        "D": "RJ45 M-F",
+        "F": "0.2M",
+        "P": "https://www.amazon.com/Extension-Haokiang-Ethernet-Network-Connector/dp/B07FX4LLSM?th=1\nhttps://www.amazon.in/H-its-Kabel-Standard-Ethernet-Extension/dp/B09W12MM5K"
+      }
+    },
+    {
+      "model": "QC53B01",
+      "sheet": "Panel Mount Cables",
+      "row": 17,
+      "cells": {
+        "B": "QC53B01",
+        "C": "RJ45 Panel Mount",
+        "D": "RJ45 M-F带模块",
+        "F": "0.2M"
+      }
+    },
+    {
+      "model": "QC54A00",
+      "sheet": "Panel Mount Cables",
+      "row": 18,
+      "cells": {
+        "B": "QC54A00",
+        "C": "Power Panel Mount",
+        "D": "C14-C13",
+        "F": "0.2M",
+        "P": "https://www.amazon.com/-/zh_TW/HuaLiSiJi-%E9%9D%A2%E6%9D%BF%E5%AE%89%E8%A3%9D%E9%9B%BB%E6%BA%90%E7%B7%9A-%E9%99%84%E9%98%B2%E6%B0%B4%E8%93%8B-%E9%9B%BB%E6%BA%90%E5%BB%B6%E9%95%B7%E7%B7%9A-%E9%81%A9%E7%94%A8%E6%96%BC%E9%9B%BB%E8%85%A6%E3%80%81%E9%A1%AF%E7%A4%BA%E5%99%A8%E3%80%81%E5%8D%B0%E8%A1%A8%E6%A9%9F/dp/B0D2QCMQGB?th=1\nhttps://www.farsince.com/product/iec-c14-to-c13-screws-panel-mount-extension-cable/"
+      }
+    },
+    {
+      "model": "QC54B00",
+      "sheet": "Panel Mount Cables",
+      "row": 19,
+      "cells": {
+        "B": "QC54B00",
+        "C": "Power Panel Mount",
+        "D": "5-15P-C13",
+        "F": "0.2M",
+        "P": "https://www.farsince.com/product/nema-5-15p-to-c13-screws-panel-mount-extension-cable/\nhttps://www.amazon.com/-/zh_TW/CableWholesale-15-2-%E9%A1%AF%E7%A4%BA%E5%99%A8%E9%9B%BB%E6%BA%90%E7%B7%9A-5-15P-%E9%81%A9%E7%94%A8%E6%96%BC%E9%9B%BB%E8%85%A6/dp/B00150OPEG"
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Industrial Ethernet Cable/QC22A00/QC22A00 (4).jpg",
+      "bytes": 86407,
+      "sha256": "6dbc03d83f18f835d9e1da6bf11ffda2f2c5e51a0e7d652c3b6fe89e43fd6195"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC22A00/QC22A00 (3).jpg",
+      "bytes": 129060,
+      "sha256": "fe305058e61d442a84512bac65a5e682e071e66bceb451219c5f83490e6984aa"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC22A00/QC22A00 (2).jpg",
+      "bytes": 151124,
+      "sha256": "d9a6d4608a5d8a6acb5e9e54eb21bee35a5ec035c66725632143e00c12972391"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC22A00/QC22A00 (1).jpg",
+      "bytes": 90128,
+      "sha256": "4aedb344d083d346ee89405ada3f41e81db310c360ca151bf1a9b1d9e34d4415"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/QC20C00 (7).jpg",
+      "bytes": 76648,
+      "sha256": "e1ef1e7a63b5670eb144c40d8b6673b50504de556f8506a9cfb70a6055955bdd"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/QC20C00 (6).jpg",
+      "bytes": 84341,
+      "sha256": "7cc01946086637d5fb6f072658268cbc457a0f2a918875d25f27c96d8181e030"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/QC20C00 (1).jpg",
+      "bytes": 59551,
+      "sha256": "26b2d2657c95ed18945f8f0e5ab6fd9fe6e4bf5e431b00f36356efdc7c29fef8"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/QC20C00 (3).jpg",
+      "bytes": 27140,
+      "sha256": "f7e6eac592d34421f2ec5418feeca47898198d78d8eb26ff3ea69b81612742df"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/QC20C00 (2).jpg",
+      "bytes": 31744,
+      "sha256": "d30e5fb13fbd10ec3f1330a29da172eda07e89da943199777d4d30f8e4d3cd29"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/QC20C00 (5).jpg",
+      "bytes": 40212,
+      "sha256": "a94c1ed6ff54928300a4108127c58a84a7e569b0ad4059cad97cae70364624a4"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/QC20C00 (4).jpg",
+      "bytes": 66721,
+      "sha256": "fefdd3a60f72a84c691057b2b2ff0e2126fbf46afc879ff9b49366bcac6eb7db"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/QC20C00 (8).jpg",
+      "bytes": 29922,
+      "sha256": "e972061424e86ea26a7c9b9887c9da4234c14958ae37f9ead088190e84799880"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/压缩后/QC20C00 (6).png",
+      "bytes": 481672,
+      "sha256": "a1ccad5ef894439a880806324b437ed9c36c30bb102a3a9d514abdc042322eb5"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/压缩后/QC20C00 (1).png",
+      "bytes": 472779,
+      "sha256": "5dd39b57da376dc548c41199d2c5b3f6a8f2a488b0d88c32d1493e411030626e"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/压缩后/QC20C00 (3).png",
+      "bytes": 413613,
+      "sha256": "264686c606cc6f043f68bbb84917179fba3f0c504ef92bbaba2ea333d6376d0d"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/压缩后/QC20C00 (2).png",
+      "bytes": 492892,
+      "sha256": "42b042f5b4ee6c39832b756c95a3c1c0afc99ff08152c1762c161083a10d7d54"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/压缩后/QC20C00 (5).png",
+      "bytes": 943341,
+      "sha256": "de1edd372ba497bae5f936c263af358f47373693080ac5f966fed1be4d58b405"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/压缩后/QC20C00 (4).png",
+      "bytes": 435939,
+      "sha256": "8102d28ebaa7201c972ec146ae1c13f142bbf528372e8597010ed3399d3889fb"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/兆龙/QC20C00 (1).png",
+      "bytes": 747018,
+      "sha256": "44e7e1232cb51a3c0bfcf56cf70eff47c6a22c33666886e3641f173f7a0a5f21"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/兆龙/QC20C00 (3).png",
+      "bytes": 983389,
+      "sha256": "a40f7cd9dd74cfc66a9f24db59c6cbc2a89ae01b5f209cb738640469622684b6"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/兆龙/QC20C00 (2).png",
+      "bytes": 934927,
+      "sha256": "ae0d867ebd2298f94c682e3ea858a330da11f5f46c38e596bf950b12dfe90313"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/兆龙/QC20C00 (5).png",
+      "bytes": 974186,
+      "sha256": "f1fe0fc4d90e3bc973303622faef9c35fd2a2766f38d9a05a00eeedfe74e771b"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20C00/兆龙/QC20C00 (4).png",
+      "bytes": 980721,
+      "sha256": "ecbbd7a08b53eaf8d0f15c64b852a409a4cbf5b3f39b83259e4071b08d946e02"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC22B00/QC22B00 (1).jpg",
+      "bytes": 93621,
+      "sha256": "2a6c201f05c0cea8d63c4e3ee07ccb488cf0e9e47b6bfa45dddcf1339e8fa6ad"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC22B00/QC22B00 (3).jpg",
+      "bytes": 151596,
+      "sha256": "1874e054dcf6b19f7c562b34721c191016e8be503259e0654f1872037030c186"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC22B00/QC22B00 (2).jpg",
+      "bytes": 136202,
+      "sha256": "e85df6b5378c2d432dd8caa953f9a7ec9acb1e24de7d147135800f0170a686db"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC22B00/QC22B00 (4).jpg",
+      "bytes": 133759,
+      "sha256": "b9fb79140682b6fa3b7a357dcb8780d2364e202786c6312ee60f7b75e7b49bbd"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21B00/QC21B00 (4).png",
+      "bytes": 953108,
+      "sha256": "c15162745d5d9119a0d79921c8c333db16c64a9c4ba89bf08765de73eb9efca4"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21B00/QC21B00 (2).png",
+      "bytes": 710254,
+      "sha256": "8d54df3a90a40055d0ceb062a36b00d51b14ae483dc957ef30d815312b03b674"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21B00/QC21B00 (3).png",
+      "bytes": 960965,
+      "sha256": "fbcbc47ab8282d8c2f15fd7b1eb111162842b20c6b9768fbe5509101f4471345"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21B00/QC21B00 (1).png",
+      "bytes": 908715,
+      "sha256": "258c9905429051361f9398ab0476abe2ad185942e9e8560bd1591532d883ff1f"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21B00/压缩后/QC21B00 (4).png",
+      "bytes": 497388,
+      "sha256": "506f305f06e712c654ac67da49bffb04399551587540b3dab4c110c93c0c03f0"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21B00/压缩后/QC21B00 (2).png",
+      "bytes": 508622,
+      "sha256": "989af4139a710ea25d3c9d9eb0fa7561f615021318e56d59283ac0e731c8cdaf"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21B00/压缩后/QC21B00 (3).png",
+      "bytes": 493500,
+      "sha256": "8dc17fbb5c532c270be5e0191f183addff3f6a43dc2055367bcdf10b0e129b70"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21B00/压缩后/QC21B00 (1).png",
+      "bytes": 472480,
+      "sha256": "afdd5dc683f9932ed7537dc3527f9934f40618a7030d92842fded199d3a34a4c"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/QC20B00 (1).jpg",
+      "bytes": 31744,
+      "sha256": "d30e5fb13fbd10ec3f1330a29da172eda07e89da943199777d4d30f8e4d3cd29"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/QC20B00 (7).jpg",
+      "bytes": 29922,
+      "sha256": "e972061424e86ea26a7c9b9887c9da4234c14958ae37f9ead088190e84799880"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/QC20B00 (6).jpg",
+      "bytes": 76648,
+      "sha256": "e1ef1e7a63b5670eb144c40d8b6673b50504de556f8506a9cfb70a6055955bdd"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/QC20B00 (5).jpg",
+      "bytes": 84341,
+      "sha256": "7cc01946086637d5fb6f072658268cbc457a0f2a918875d25f27c96d8181e030"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/QC20B00 (4).jpg",
+      "bytes": 40212,
+      "sha256": "a94c1ed6ff54928300a4108127c58a84a7e569b0ad4059cad97cae70364624a4"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/QC20B00 (8).jpg",
+      "bytes": 59551,
+      "sha256": "26b2d2657c95ed18945f8f0e5ab6fd9fe6e4bf5e431b00f36356efdc7c29fef8"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/QC20B00 (3).jpg",
+      "bytes": 66721,
+      "sha256": "fefdd3a60f72a84c691057b2b2ff0e2126fbf46afc879ff9b49366bcac6eb7db"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/QC20B00 (2).jpg",
+      "bytes": 27140,
+      "sha256": "f7e6eac592d34421f2ec5418feeca47898198d78d8eb26ff3ea69b81612742df"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/压缩后/QC20B00 (1).png",
+      "bytes": 472779,
+      "sha256": "5dd39b57da376dc548c41199d2c5b3f6a8f2a488b0d88c32d1493e411030626e"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/压缩后/QC20B00 (6).png",
+      "bytes": 481672,
+      "sha256": "a1ccad5ef894439a880806324b437ed9c36c30bb102a3a9d514abdc042322eb5"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/压缩后/QC20B00 (5).png",
+      "bytes": 943341,
+      "sha256": "de1edd372ba497bae5f936c263af358f47373693080ac5f966fed1be4d58b405"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/压缩后/QC20B00 (4).png",
+      "bytes": 435939,
+      "sha256": "8102d28ebaa7201c972ec146ae1c13f142bbf528372e8597010ed3399d3889fb"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/压缩后/QC20B00 (3).png",
+      "bytes": 413613,
+      "sha256": "264686c606cc6f043f68bbb84917179fba3f0c504ef92bbaba2ea333d6376d0d"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/压缩后/QC20B00 (2).png",
+      "bytes": 492892,
+      "sha256": "42b042f5b4ee6c39832b756c95a3c1c0afc99ff08152c1762c161083a10d7d54"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/兆龙/QC20B00 (1).png",
+      "bytes": 747018,
+      "sha256": "44e7e1232cb51a3c0bfcf56cf70eff47c6a22c33666886e3641f173f7a0a5f21"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/兆龙/QC20B00 (5).png",
+      "bytes": 974186,
+      "sha256": "f1fe0fc4d90e3bc973303622faef9c35fd2a2766f38d9a05a00eeedfe74e771b"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/兆龙/QC20B00 (4).png",
+      "bytes": 980721,
+      "sha256": "ecbbd7a08b53eaf8d0f15c64b852a409a4cbf5b3f39b83259e4071b08d946e02"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/兆龙/QC20B00 (3).png",
+      "bytes": 983389,
+      "sha256": "a40f7cd9dd74cfc66a9f24db59c6cbc2a89ae01b5f209cb738640469622684b6"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20B00/兆龙/QC20B00 (2).png",
+      "bytes": 934927,
+      "sha256": "ae0d867ebd2298f94c682e3ea858a330da11f5f46c38e596bf950b12dfe90313"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21A00/QC21A00 (1).png",
+      "bytes": 977596,
+      "sha256": "b6900b23f536065da469c5e89640dec1793a3663be4cc5d3d95ad9b6800fcbf7"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21A00/QC21A00 (2).png",
+      "bytes": 950151,
+      "sha256": "6286de15025dabad51649f73a4c2ce7f336949d2d1fee3a176fc6da9a4ffa9e7"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21A00/QC21A00 (3).png",
+      "bytes": 1228724,
+      "sha256": "d9471370c6077d928d0e3b1ec04402af3c8d4c2882b40ac5c904184c128a2a03"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21A00/QC21A00 (4).png",
+      "bytes": 949853,
+      "sha256": "546706d7ddf8a387bab7e954becbec938e0336d60d99d117e38cd42159ae19dd"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21A00/QC21A00 (5).png",
+      "bytes": 926719,
+      "sha256": "a3872139a14250701928bf5d0f5a00f2af04daf1af597f5591ed4bab235fbc6c"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21A00/压缩后/QC21A00 (1).png",
+      "bytes": 508457,
+      "sha256": "c1f3320b2e69eed32c87225154801f59423e15c63c766ae47d0fa8977f0652fd"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21A00/压缩后/QC21A00 (2).png",
+      "bytes": 280784,
+      "sha256": "27f263aed30881cc5335618f39ddde13d7f7f3d3df206218b8816a0d5e3cd345"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21A00/压缩后/QC21A00 (3).png",
+      "bytes": 497935,
+      "sha256": "3a0839b3941a999336e64ec280fa6a4859188b053fe267cc86c8026ab04e655f"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21A00/压缩后/QC21A00 (4).png",
+      "bytes": 479384,
+      "sha256": "35aaacf0555de78df4a132f4662efa909b8a9b1ce1747863de397aa02311f6ac"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC21A00/压缩后/QC21A00 (5).png",
+      "bytes": 490444,
+      "sha256": "2a157edadbb8d4d834b665b0866932ca0d06974676ac91fc68eb580b08abf886"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/QC20A00 (3).jpg",
+      "bytes": 40212,
+      "sha256": "a94c1ed6ff54928300a4108127c58a84a7e569b0ad4059cad97cae70364624a4"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/QC20A00 (2).jpg",
+      "bytes": 66721,
+      "sha256": "fefdd3a60f72a84c691057b2b2ff0e2126fbf46afc879ff9b49366bcac6eb7db"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/QC20A00 (5).jpg",
+      "bytes": 76648,
+      "sha256": "e1ef1e7a63b5670eb144c40d8b6673b50504de556f8506a9cfb70a6055955bdd"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/QC20A00 (4).jpg",
+      "bytes": 84341,
+      "sha256": "7cc01946086637d5fb6f072658268cbc457a0f2a918875d25f27c96d8181e030"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/QC20A00 (8).jpg",
+      "bytes": 31744,
+      "sha256": "d30e5fb13fbd10ec3f1330a29da172eda07e89da943199777d4d30f8e4d3cd29"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/QC20A00 (7).jpg",
+      "bytes": 59551,
+      "sha256": "26b2d2657c95ed18945f8f0e5ab6fd9fe6e4bf5e431b00f36356efdc7c29fef8"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/QC20A00 (6).jpg",
+      "bytes": 29922,
+      "sha256": "e972061424e86ea26a7c9b9887c9da4234c14958ae37f9ead088190e84799880"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/QC20A00 (1).jpg",
+      "bytes": 27140,
+      "sha256": "f7e6eac592d34421f2ec5418feeca47898198d78d8eb26ff3ea69b81612742df"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/压缩后/QC20A00 (3).png",
+      "bytes": 983389,
+      "sha256": "a40f7cd9dd74cfc66a9f24db59c6cbc2a89ae01b5f209cb738640469622684b6"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/压缩后/QC20A00 (2).png",
+      "bytes": 934927,
+      "sha256": "ae0d867ebd2298f94c682e3ea858a330da11f5f46c38e596bf950b12dfe90313"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/压缩后/QC20A00 (5).png",
+      "bytes": 974186,
+      "sha256": "f1fe0fc4d90e3bc973303622faef9c35fd2a2766f38d9a05a00eeedfe74e771b"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/压缩后/QC20A00 (4).png",
+      "bytes": 980721,
+      "sha256": "ecbbd7a08b53eaf8d0f15c64b852a409a4cbf5b3f39b83259e4071b08d946e02"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/压缩后/QC20A00 (1).png",
+      "bytes": 747018,
+      "sha256": "44e7e1232cb51a3c0bfcf56cf70eff47c6a22c33666886e3641f173f7a0a5f21"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/兆龙/QC20A00 (3).png",
+      "bytes": 413613,
+      "sha256": "264686c606cc6f043f68bbb84917179fba3f0c504ef92bbaba2ea333d6376d0d"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/兆龙/QC20A00 (2).png",
+      "bytes": 492892,
+      "sha256": "42b042f5b4ee6c39832b756c95a3c1c0afc99ff08152c1762c161083a10d7d54"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/兆龙/QC20A00 (5).png",
+      "bytes": 943341,
+      "sha256": "de1edd372ba497bae5f936c263af358f47373693080ac5f966fed1be4d58b405"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/兆龙/QC20A00 (4).png",
+      "bytes": 435939,
+      "sha256": "8102d28ebaa7201c972ec146ae1c13f142bbf528372e8597010ed3399d3889fb"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/兆龙/QC20A00 (6).png",
+      "bytes": 481672,
+      "sha256": "a1ccad5ef894439a880806324b437ed9c36c30bb102a3a9d514abdc042322eb5"
+    },
+    {
+      "path": "Industrial Ethernet Cable/QC20A00/兆龙/QC20A00 (1).png",
+      "bytes": 472779,
+      "sha256": "5dd39b57da376dc548c41199d2c5b3f6a8f2a488b0d88c32d1493e411030626e"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D01/QC50D01 (2).jpg",
+      "bytes": 265024,
+      "sha256": "0affde7cdcfecdf6b23c2a166dd28a0baca2bff3ee6d191bbfe652e460a48e2d"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D01/QC50D01 (3).jpg",
+      "bytes": 287627,
+      "sha256": "200fd9574f6c112d56db21a517b5327c51d24d9b958d0bb9b9a5242168685b95"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D01/QC50D01 (4).jpg",
+      "bytes": 457157,
+      "sha256": "23d97ebce25382cf3025a08b9f1cc493aba6dba015b88a7459df2d76927e3d17"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D01/QC50D01 (5).jpg",
+      "bytes": 294805,
+      "sha256": "047c71b541f2949b8a69830f5c14cb4827440c1c11f37a56d7d6823f584bd1db"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D01/QC50D01 (6).jpg",
+      "bytes": 341409,
+      "sha256": "8a4e2975f1695d1babc5abe8ba09b452faaacfd89ce8c1b78b8185e7baacf2a8"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D01/QC50D01 (1).jpg",
+      "bytes": 423360,
+      "sha256": "9d8713582602f585fae29dd6837f8ee25e23c81bc758236c5381e4bd40451612"
+    },
+    {
+      "path": "Panel Mount Cables/QC52A01/QC52A01 (1).jpg",
+      "bytes": 159532,
+      "sha256": "7d10985eaa4d7e5b0a8b7f928fe2a92c7aaea81d4f4d919c887a424d236185f8"
+    },
+    {
+      "path": "Panel Mount Cables/QC52A01/QC52A01 (3).jpg",
+      "bytes": 150035,
+      "sha256": "e0131f9c5c199d8ea44cd1b09a10d21b2a980c21835eb829637778b64289ae23"
+    },
+    {
+      "path": "Panel Mount Cables/QC52A01/QC52A01 (2).jpg",
+      "bytes": 126359,
+      "sha256": "509db6a6cb4b0b3d931caad79f4ed049117b948b03289443805a7035ac68be62"
+    },
+    {
+      "path": "Panel Mount Cables/QC52A01/QC52A01 (4).jpg",
+      "bytes": 95020,
+      "sha256": "d153bffa9709c271d2dcd7600f72da17d79cafe6c6c45ff6031ccd2176b94af7"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D00/QC50D00 (3).png",
+      "bytes": 2081866,
+      "sha256": "c04407a8d9fc36e61a5a9d59c6101b257b1dd12bc2b3adaf22981b178ca9693e"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D00/QC50D00 (2).png",
+      "bytes": 1532145,
+      "sha256": "cce755e6d4ade25df68061949cca91d74886ab9320e7e2c3aecfd073dbbd9601"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D00/QC50D00 (4).png",
+      "bytes": 2218536,
+      "sha256": "a07be06db47ceab1bdaa9b5df2951abcde1ab096b95975a312a024e3bd789116"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D00/QC50D00 (1).png",
+      "bytes": 1813687,
+      "sha256": "f2dc3ccc31ff83d86a70ac7d76e39fab72b88d2d8dc501a0882d403a48f70f17"
+    },
+    {
+      "path": "Panel Mount Cables/QC50D00/QC50D00.png",
+      "bytes": 615430,
+      "sha256": "c0eef9dfd9e2334d2eca646e0e2b6e7a2378bcaf70c00f38d51a775f0a52c1e1"
+    },
+    {
+      "path": "Panel Mount Cables/QC52A00/QC52A00 (1).jpg",
+      "bytes": 109370,
+      "sha256": "d08bc009257ccbd6a10642ccc041cf1f58ab3bdf84d72a7db2f0772c93c4e4c7"
+    },
+    {
+      "path": "Panel Mount Cables/QC52A00/QC52A00 (2).jpg",
+      "bytes": 109751,
+      "sha256": "54ed44a9f4989a684566d0a73456ac8eab5da5696a013afcbbb4b2854753d370"
+    },
+    {
+      "path": "Panel Mount Cables/QC52A00/QC52A00 (3).jpg",
+      "bytes": 22096,
+      "sha256": "c5b08641fcfd7729d498028863b85909bab09f1bd0064dfbd8f0de9233406f2f"
+    },
+    {
+      "path": "Panel Mount Cables/QC52A00/QC52A00 (4).jpg",
+      "bytes": 79867,
+      "sha256": "e184c793ec177df9c41513590c8cfb109762dba47d7ff04aeeb4683444bb931f"
+    },
+    {
+      "path": "Panel Mount Cables/QC52A00/QC52A00 (5).jpg",
+      "bytes": 80823,
+      "sha256": "5c4fcdf2c0f465623b6bac53a7f8cace600ea5f453c01f7f54bc3fcaa9e6c849"
+    },
+    {
+      "path": "Panel Mount Cables/QC53A00/QC53A00 (3).png",
+      "bytes": 1290883,
+      "sha256": "caacbac769f34ed39e62da0fdde3f79f933649892212ccd75c6c78e4eb75d7a9"
+    },
+    {
+      "path": "Panel Mount Cables/QC53A00/QC53A00 (2).png",
+      "bytes": 2402179,
+      "sha256": "c3e493d66392aa8922b000233e68a6e32b9ec8ef70c7e715d7b3cb3e11eb1b5f"
+    },
+    {
+      "path": "Panel Mount Cables/QC53A00/QC53A00 (5).jpg",
+      "bytes": 148926,
+      "sha256": "2607acd781c49779f7b5a4c162e09e0daa72afb906d2574460c45fbe62981b1b"
+    },
+    {
+      "path": "Panel Mount Cables/QC53A00/QC53A00 (4).png",
+      "bytes": 1678972,
+      "sha256": "cc0f30baff4eb8ee02312f4b9d84b625734bc08c5b2c2c86745efde6169154e5"
+    },
+    {
+      "path": "Panel Mount Cables/QC53A00/QC53A00 (1).png",
+      "bytes": 1525677,
+      "sha256": "22eeafdb586a61229e42ff9edf6d12014a472eab7dcf85ebd946905805a12e33"
+    },
+    {
+      "path": "Panel Mount Cables/QC50C00/QC50C00 (4).png",
+      "bytes": 1555259,
+      "sha256": "1e9adb5651a72e8cdb3113c9ec9f2e269afaa957458a1a6915201f4f31fba3e4"
+    },
+    {
+      "path": "Panel Mount Cables/QC50C00/QC50C00 (5).png",
+      "bytes": 2152691,
+      "sha256": "66485667a7645f75569a70f5e83f444795e81adb750471bc5f46c564bfd0ed50"
+    },
+    {
+      "path": "Panel Mount Cables/QC50C00/QC50C00 (2).png",
+      "bytes": 1577023,
+      "sha256": "30cd3db6133d725831c7043bd086b3cccf42a5e3e03487a1ffc28eb3fdcfbb91"
+    },
+    {
+      "path": "Panel Mount Cables/QC50C00/QC50C00 (3).png",
+      "bytes": 2176585,
+      "sha256": "cf067d8cc2e53daf9a32c8bfc7c78d2695ef443dc3e2fe5b12c6f34d84035ce8"
+    },
+    {
+      "path": "Panel Mount Cables/QC50C00/QC50C00 (1).png",
+      "bytes": 1384042,
+      "sha256": "aa5b905f4cc742e4a7f271405639fba9ebdb71f2a0f8f57713a7d792c514305c"
+    },
+    {
+      "path": "Panel Mount Cables/QC50C01/QC50C01 (5).jpg",
+      "bytes": 20030,
+      "sha256": "cb554669c3d1efc49e7358d45397cb7de50f7835b32e6537b8fb6348c4cba1e1"
+    },
+    {
+      "path": "Panel Mount Cables/QC50C01/QC50C01 (4).jpg",
+      "bytes": 59645,
+      "sha256": "0cb7109b17e60d302f4a9145966bfd1eca3bdd8efae86fd37359ea3d4e7fdf64"
+    },
+    {
+      "path": "Panel Mount Cables/QC50C01/QC50C01 (3).jpg",
+      "bytes": 65747,
+      "sha256": "404227ecf6b56694c3983e283653061b4314da52449640dac119d2dae3d157e4"
+    },
+    {
+      "path": "Panel Mount Cables/QC50C01/QC50C01 (2).jpg",
+      "bytes": 14271,
+      "sha256": "f0861d1dcbeea6675f880720f1b88d286f527477bb04afde737b1bdcb8249e4f"
+    },
+    {
+      "path": "Panel Mount Cables/QC50C01/QC50C01 (1).jpg",
+      "bytes": 21170,
+      "sha256": "1eec721093b5f53e7a84f8853d16ac6c1cf3d3a3f2b318c5eac12b9f77f01e1a"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A02/QC50A02 (1).jpg",
+      "bytes": 23951,
+      "sha256": "c4f9c8f8836473c7e389f5d6af02dc777613d634280b623f9fdda1d137e6249a"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A02/QC50A02 (3).jpg",
+      "bytes": 14808,
+      "sha256": "15d3a54e25a49026e8aca2e15926e0d7446745b717c7563c3ed6bcd31594cc26"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A02/QC50A02 (2).jpg",
+      "bytes": 15526,
+      "sha256": "ccc3845de093bb3b2004eab5e0302ae86303151616d08ed3cb8b4a17926b3f2d"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A02/QC50A02 (5).jpg",
+      "bytes": 27579,
+      "sha256": "82268969e3af9b961c52b9a6db1fd6ac104020eb7e8136acb7b409126b47b3db"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A02/QC50A02 (4).jpg",
+      "bytes": 23263,
+      "sha256": "bd4ed32835ec86563496ee8b6e002ca19ace0b1f9b10034197d38493266028b1"
+    },
+    {
+      "path": "Panel Mount Cables/QC53B00/QC53B00 (1).jpg",
+      "bytes": 28813,
+      "sha256": "77fbede51509279b2321e320eaf063bf913510990526397a87e6c514aceb415a"
+    },
+    {
+      "path": "Panel Mount Cables/QC53B00/QC53B00 (5).jpg",
+      "bytes": 23846,
+      "sha256": "f02f9ab383201385bab4aa705fb2281b4f22171aaa527d31d6da3794cdb30c09"
+    },
+    {
+      "path": "Panel Mount Cables/QC53B00/QC53B00 (4).jpg",
+      "bytes": 23386,
+      "sha256": "421ace8138bc44cdfd6909c4be32a54d773cb6bbf2a6229e0bec4e0fd7bc2099"
+    },
+    {
+      "path": "Panel Mount Cables/QC53B00/QC53B00 (3).jpg",
+      "bytes": 25872,
+      "sha256": "2ecd1596c2f3212b81146b0a69791ac1adf32367c7c3d7564c88e736688b4145"
+    },
+    {
+      "path": "Panel Mount Cables/QC53B00/QC53B00 (2).jpg",
+      "bytes": 26281,
+      "sha256": "b7c820201a6ac7dd3456b77603a1a3a561dd9049f5ed4b4ac2ca8fc2a9f228f8"
+    },
+    {
+      "path": "Panel Mount Cables/QC51C00/QC51C00 (1).jpg",
+      "bytes": 137537,
+      "sha256": "900be622b487b7e7715cfce35ae3a50eca022383a979d7ef6ac2d6fec6e8cc55"
+    },
+    {
+      "path": "Panel Mount Cables/QC51C00/QC51C00 (6).jpg",
+      "bytes": 224258,
+      "sha256": "1a24904a38d6cf223319d0e8cead2df76a36aa4ee6aaa1a9ad71d315394d9737"
+    },
+    {
+      "path": "Panel Mount Cables/QC51C00/QC51C00 (5).jpg",
+      "bytes": 230660,
+      "sha256": "3df7f10c3c074c9bab70a745f1aa5c4cde0e5ec10a6cc24d761bbf17933636f1"
+    },
+    {
+      "path": "Panel Mount Cables/QC51C00/QC51C00 (4).jpg",
+      "bytes": 208611,
+      "sha256": "b594281102eb991ec1e4d6e94a3e8005f5d9821c751909157b9622a2fe1bb4e1"
+    },
+    {
+      "path": "Panel Mount Cables/QC51C00/QC51C00 (3).jpg",
+      "bytes": 162915,
+      "sha256": "85d5401c0ec17ebdc94c6b65ab2a7ae75af9afec28793f2efd4838c6d931b827"
+    },
+    {
+      "path": "Panel Mount Cables/QC51C00/QC51C00 (2).jpg",
+      "bytes": 145090,
+      "sha256": "c935e1c0f8a3fd0f4ee4cd16872058320fd6795ce1cd51654da7a04b6765c224"
+    },
+    {
+      "path": "Panel Mount Cables/QC53B01/QC53B01 (1).jpg",
+      "bytes": 39834,
+      "sha256": "9808079bcf0cbc1f8cedf2fb1eef8cec3e6784d8d73eee22babf7d4088a4be31"
+    },
+    {
+      "path": "Panel Mount Cables/QC53B01/QC53B01 (4).jpg",
+      "bytes": 403988,
+      "sha256": "dd5dd2ad2f4c00c82872b66ac9c25b55d5a591f25492e761a704ab2c1a24e979"
+    },
+    {
+      "path": "Panel Mount Cables/QC53B01/QC53B01 (2).jpg",
+      "bytes": 103507,
+      "sha256": "65b67b1e7ccb83e43c3c4a863c186407acbd82f8951979dd410a47a10ac22743"
+    },
+    {
+      "path": "Panel Mount Cables/QC53B01/QC53B01 (3).jpg",
+      "bytes": 321961,
+      "sha256": "c43817bb4b4f7d6cf22ec6c3f29cd1297cc2be7047e4b0d3ea5191acdbc1c7ac"
+    },
+    {
+      "path": "Panel Mount Cables/QC50B00/QC50B00 (2).jpg",
+      "bytes": 533200,
+      "sha256": "42876fe26991debe8efb9a8865c6abe46a6abee4575c23925bbbd7ee0cea3fc2"
+    },
+    {
+      "path": "Panel Mount Cables/QC50B00/QC50B00 (3).jpg",
+      "bytes": 328052,
+      "sha256": "1a763e658730055ee7ab224d42edbcff6a605fab7720bb96261ca0641d60bcb1"
+    },
+    {
+      "path": "Panel Mount Cables/QC50B00/QC50B00 (4).jpg",
+      "bytes": 319886,
+      "sha256": "58093def7e5d2e4327e16ac797ed8dbcfe479ee90c3e00f66e98531ea1d8c86e"
+    },
+    {
+      "path": "Panel Mount Cables/QC50B00/QC50B00 (1).jpg",
+      "bytes": 587308,
+      "sha256": "522c0be80111501748981e4e4d53bd993cb0b0a506fae976ed10f2940ae5f779"
+    },
+    {
+      "path": "Panel Mount Cables/QC54B00/QC54B00 (1).jpg",
+      "bytes": 172026,
+      "sha256": "5981e5685da19d3da1157a43649c0ae082de2c099b23ca50dfddfb9fa863e602"
+    },
+    {
+      "path": "Panel Mount Cables/QC54B00/QC54B00 (2).jpg",
+      "bytes": 22488,
+      "sha256": "d8490932b2a43efb2e5eba1df7963782a7fdc0d92aeb913d005a708c01c470c9"
+    },
+    {
+      "path": "Panel Mount Cables/QC54B00/QC54B00 (3).jpg",
+      "bytes": 23888,
+      "sha256": "a1d8ae3eafa11e4bbbc591304e7d36a16de01d31ab9f1033db847407654104f7"
+    },
+    {
+      "path": "Panel Mount Cables/QC51B00/QC51B00 (1).jpg",
+      "bytes": 125848,
+      "sha256": "ab8fff08167defd34c4e5417531c372aca8d306cb890d207b7c329b9c61d5fd9"
+    },
+    {
+      "path": "Panel Mount Cables/QC51B00/QC51B00 (3).jpg",
+      "bytes": 70934,
+      "sha256": "acb66c9840ffbb2288006c70750ebc32b92fbd204cb313aecc4295b34ac1663b"
+    },
+    {
+      "path": "Panel Mount Cables/QC51B00/QC51B00 (2).jpg",
+      "bytes": 59504,
+      "sha256": "5d12fad8ca8fdee3ab154e57e36a9cc6feb732b38657e6c850d70a240ad22494"
+    },
+    {
+      "path": "Panel Mount Cables/QC51B00/QC51B00 (5).jpg",
+      "bytes": 63262,
+      "sha256": "9699cfd04e1e44a5ce097da61300e44ae125546a74fb547bfa9366688a50a2f9"
+    },
+    {
+      "path": "Panel Mount Cables/QC51B00/QC51B00 (4).jpg",
+      "bytes": 99848,
+      "sha256": "26c81b51871e40411d5e64804a879d50fe9070202a9e5ce54203a94e9fe15e07"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A00/QC50A00 (1).png",
+      "bytes": 1381271,
+      "sha256": "3057d4371a5ed00af6f0ca3f91acc12d534d33828f85841295837a90b078a56d"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A00/QC50A00 (4).jpg",
+      "bytes": 516292,
+      "sha256": "9e5904b13579ee7c454c19283a4a982f36eb749cf66fe87cd88abdb19e9ea488"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A00/QC50A00 (5).jpg",
+      "bytes": 658665,
+      "sha256": "4606f2f40070a84faba7bea9eca15583b6e4d0dfdf13bffde6276636d52a8727"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A00/QC50A00 (2).jpg",
+      "bytes": 683296,
+      "sha256": "1e9b7c768542c5e7cda0502a959097eb7676ddd02541a438bc243c11d4ccd67f"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A00/QC50A00 (3).jpg",
+      "bytes": 496380,
+      "sha256": "1a9668176004a506c3140730f0967e2bc87d9e20958f0fcd9a0352ea6e9212e9"
+    },
+    {
+      "path": "Panel Mount Cables/QC54A00/QC54A00.jpg",
+      "bytes": 179562,
+      "sha256": "749300f7a085667cf614b0660cb6ee4a951cefd31a824c30f518a6b712f3bb22"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A01/QC50A01 (1).jpg",
+      "bytes": 93896,
+      "sha256": "cbf2f41dde1aa4bc74cf0e066c1c13b674c879f1cde4dc16c3c4fcbdb901366c"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A01/QC50A01 (7).png",
+      "bytes": 386029,
+      "sha256": "ec46a7132a142d40ea237fa46a0d6317845e32c5452312854b3eab78f0b339c6"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A01/QC50A01 (6).jpg",
+      "bytes": 104952,
+      "sha256": "ff6b1d755238c148251d02c8aa0a71dfe7a662c2b53a0fef9ada643d00147334"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A01/QC50A01 (5).png",
+      "bytes": 352011,
+      "sha256": "2f890147493212ba17999cfed6d4b22da9e0922cd29a2c0bbd4a4ea7e09a9de9"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A01/QC50A01 (4).png",
+      "bytes": 291816,
+      "sha256": "7da03b8bc74782ba3458b63ba769d16d9ad6c6983604d00fb4e74f111d9437ff"
+    },
+    {
+      "path": "Panel Mount Cables/QC50A01/QC50A01 (2).jpg",
+      "bytes": 464211,
+      "sha256": "61d09a24d515ffb525a0562260f44c88df0f0732e28d9dc69d513e2c9202000c"
+    },
+    {
+      "path": "Panel Mount Cables/QC51A00/QC51A00 (3).jpg",
+      "bytes": 69113,
+      "sha256": "be9f78f452759c904172ed11111f1ad4baa3c244de9b52ea7cfef0cbcaebbe78"
+    },
+    {
+      "path": "Panel Mount Cables/QC51A00/QC51A00 (2).jpg",
+      "bytes": 73794,
+      "sha256": "06547027a2f8322970bf835d1be63bd547f5f88ebb4888b61c50cd1a27f8d11e"
+    },
+    {
+      "path": "Panel Mount Cables/QC51A00/QC51A00 (1).jpg",
+      "bytes": 80953,
+      "sha256": "b4f0e4e4c166c2afe5e14b31f864f5230c7c3b0f6ceafd6edcf295decfb8ff73"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33A00/QC33A00 (5).jpg",
+      "bytes": 105315,
+      "sha256": "2cca42d139f8acceca0b73ba6c0d0c6c778975af0641a4e8553675e3c8516517"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33A00/QC33A00 (4).jpg",
+      "bytes": 120247,
+      "sha256": "884eca1dff8be0c61533305ad9a0f442230d0a548d762f5deb7035a5f9f85f84"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33A00/QC33A00 (3).jpg",
+      "bytes": 131388,
+      "sha256": "387949119c711e49e2d4f991e781c09ecebc30443a8f4603e8732ec03462ee04"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33A00/QC33A00 (2).jpg",
+      "bytes": 111239,
+      "sha256": "e3a5bcb7c25e89a43e521e03337caa520f65e7afe02c6d1c43ce8bb9080c2b2a"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33A00/QC33A00 (1).jpg",
+      "bytes": 121836,
+      "sha256": "adc41a71fa868dbb075d96379c5eb88f7b3db4253d8f875a82a831494989b26e"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33A00/QC33A00 (6).jpg",
+      "bytes": 108626,
+      "sha256": "cc6fe40987caf9fb655e27e19393179da135384c3b7476903625909f173b599d"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC32A00/QC32A00 (1).jpg",
+      "bytes": 124550,
+      "sha256": "b29b2da7c4b9760576125374d05bc049ad2c28b16692da2030a44a90b4424f6c"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC32A00/QC32A00 (4).jpg",
+      "bytes": 130480,
+      "sha256": "666c130b0888e118b2c1b0598f939540cc3a967bcfe48926273f6ad34d3803bc"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC32A00/QC32A00 (2).jpg",
+      "bytes": 104630,
+      "sha256": "5cacdd7c9bed009dc91060c464b18d186a52404c9b12e8de6adc231581b699e6"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC32A00/QC32A00 (3).jpg",
+      "bytes": 168886,
+      "sha256": "f55aeb0aff6b18c25f4e0bac672d29bd8b79f926e0e79a50cf25b3b992bd2f59"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33B00/QC33B00 (1).jpg",
+      "bytes": 138388,
+      "sha256": "bfb30422f5b236851042a61497971071c13ad596e971b1bf1e406db426adeac6"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33B00/QC33B00 (3).jpg",
+      "bytes": 163589,
+      "sha256": "8c6f5ce5862b5e23570455abcc6400742b6fdb2f4821112f6a86636dac301dd0"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33B00/QC33B00 (2).jpg",
+      "bytes": 173957,
+      "sha256": "3fb284c78160fd91efe8df4e352dfa426b277de645319c31b8c8c7471c7c47f5"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33B00/QC33B00 (4).jpg",
+      "bytes": 153026,
+      "sha256": "556827fb92a82346515d584ddb1e64eef4f0a5a16ed985508babacea1b7ae452"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31C00/QC31C00 (6).jpg",
+      "bytes": 99080,
+      "sha256": "7664a4a6d9f13ec3e7ba69f7d46434c3e580259ae572d1b104b7949a7da01d2b"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31C00/QC31C00 (1).jpg",
+      "bytes": 101407,
+      "sha256": "2e1849d9030b3057a267d033c92eb6800dc2f71b929c1916cb7a5b52efe31bff"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31C00/QC31C00 (3).jpg",
+      "bytes": 80851,
+      "sha256": "e51c0d0c9dc365af8c67970993cd4963bc155a66d985e7bf4e40bdeec1519bcd"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31C00/QC31C00 (2).jpg",
+      "bytes": 77587,
+      "sha256": "70dcb707279353f416ac1811d3a453ce26c0f3662fd3e042502fadc63357d802"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31C00/QC31C00 (5).jpg",
+      "bytes": 97546,
+      "sha256": "9bfe3ebdcaa88dfb9d52a7e3fa4f366360fdab265c6a12e24ad63b81ab5899fd"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31C00/QC31C00 (4).jpg",
+      "bytes": 77183,
+      "sha256": "8fe1cd343113f4743001ca622bdcf9d801d2db9df5074976b1b5730a16668a1d"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33C00/QC33C00 (1).jpg",
+      "bytes": 162934,
+      "sha256": "23ecf7fc04b50fec2e4fdcb4c9a38b374c5a71022aed29b0760781b9d8b5772d"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33C00/QC33C00 (4).jpg",
+      "bytes": 154463,
+      "sha256": "3d0dfa5a3a4da4c897669ae99a211a8e498c8ae3e8dd43999822dffbb4cebf27"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33C00/QC33C00 (3).jpg",
+      "bytes": 136160,
+      "sha256": "18350313b214450f4366ae67ed6e11ded24697ed49a15167c7060db8be963582"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC33C00/QC33C00 (2).jpg",
+      "bytes": 174981,
+      "sha256": "7ac80d14c2f9eb9a94796dcd261555c1449075a419d6e05fe567837135b3bdd5"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31B00/QC31B00 (1).jpg",
+      "bytes": 163632,
+      "sha256": "59e7ce884e2e19e60b0e33a7eee6e71f0599b7ec4515299aede8d29fd60ad389"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31B00/QC31B00 (5).jpg",
+      "bytes": 216990,
+      "sha256": "ab0b94b12370c3f35f223579ae0e23ea5d6314dea91765feffbf63f3809fea14"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31B00/QC31B00 (4).jpg",
+      "bytes": 126079,
+      "sha256": "c28d9c4b11c2203d098a0623558d3a44a4976627ec938141dbd7b135e19822d3"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31B00/QC31B00 (3).jpg",
+      "bytes": 165442,
+      "sha256": "caefa743a688a8ba3c6471871b9e1c1150abe4864da521cdd08039e4780ed5e2"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31B00/QC31B00 (2).jpg",
+      "bytes": 163349,
+      "sha256": "907f4ba06dd45c46ae5df32c4ff35a0248b3e681399ad28bdd95c243ba47e987"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC30B00/QC30B00 (4).jpg",
+      "bytes": 138147,
+      "sha256": "aac23a5c0df67e99ba946b12c2866e85f99bac57a3e1dee2b93d15856a012f5a"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC30B00/QC30B00 (5).jpg",
+      "bytes": 110192,
+      "sha256": "011ac0403bccb98e763a2fd39e806fce973e1cc9ff971eef1822de4d37c9998c"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC30B00/QC30B00 (2).jpg",
+      "bytes": 155748,
+      "sha256": "ce902419d827f22d8095d9226b59a298440f1b1012a208eee086a53b411425be"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC30B00/QC30B00 (3).jpg",
+      "bytes": 132594,
+      "sha256": "64107556b64d7e9831f54164ec2932dcc47c82ff29b38196b89381d33248135d"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC30B00/QC30B00 (1).jpg",
+      "bytes": 132892,
+      "sha256": "0073c3ec3e18fee479a3c8bcbf470f529660398bb5d4908d5a412b0dc44cafdf"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31A00/QC31A00 (3).jpg",
+      "bytes": 157987,
+      "sha256": "dd86a536d2ecb19ff6fdb4f62cf8a3ff921e1c5f75d3a950cee2c9fbe3bd6b96"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31A00/QC31A00 (2).jpg",
+      "bytes": 162192,
+      "sha256": "6a21b6b02bb115a92a14979d87768f82dd3c00f4622a1518dd62ca72f9462d7f"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31A00/QC31A00 (5).jpg",
+      "bytes": 142591,
+      "sha256": "a99f9dbd7e2048bbe18ab34010c3aff54f0847904c3f879429b319b716882793"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31A00/QC31A00 (4).jpg",
+      "bytes": 104905,
+      "sha256": "6a6ba1c0ad6227a5a8f9923730114f61238ac167f0bd4f84eff007004312e5cf"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC31A00/QC31A00 (1).jpg",
+      "bytes": 105590,
+      "sha256": "7fc6fb64e29c702ff8155a8acdb990b5c090acf0431d8d68d3092c8ad04a6f97"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC30A00/QC30A00 (1).jpg",
+      "bytes": 152699,
+      "sha256": "f7ebc901a4de1a8aa2d07ef7488d041f81b13e0238cbca7c5408dec9088a582d"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC30A00/QC30A00 (2).jpg",
+      "bytes": 166169,
+      "sha256": "7b74c1924c37205aae811fb6d310ed5ca91e8f97f00451f7cfa99394cf22c306"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC30A00/QC30A00 (3).jpg",
+      "bytes": 156065,
+      "sha256": "e373e3d442ed4e43ab68b96227917a8bf11a7d6117410d64ca6e373827b49847"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC30A00/QC30A00 (4).jpg",
+      "bytes": 139087,
+      "sha256": "c84e03955ae26cbcb67112bbdddc3c91d6d67522e0ab91b9b5cd53b1c99db1de"
+    },
+    {
+      "path": "Circular Cable Assemblies/QC30A00/QC30A00 (5).jpg",
+      "bytes": 135872,
+      "sha256": "98495a6c010d3f590f9954f3fbd8fe70c9c8b90ef5b0b549a2d1446af0ef3b94"
+    },
+    {
+      "path": "Industrial Communication Cable/QC42A00/QC42A00 (3).jpg",
+      "bytes": 45026,
+      "sha256": "4c9844ae97114bef2f1926e016c82e894fe0b180b0466363968dab33faed5835"
+    },
+    {
+      "path": "Industrial Communication Cable/QC42A00/QC42A00 (2).jpg",
+      "bytes": 154941,
+      "sha256": "bf0a1c1307a6f79096a382335313d330397316177283b6bbe3514132860ebc81"
+    },
+    {
+      "path": "Industrial Communication Cable/QC42A00/QC42A00 (5).jpg",
+      "bytes": 68090,
+      "sha256": "5a14634a1a2931c08edb72a6637d741da3c37f7e65412e3b94f6f0d3da124921"
+    },
+    {
+      "path": "Industrial Communication Cable/QC42A00/QC42A00 (4).jpg",
+      "bytes": 102354,
+      "sha256": "ca4c4fdedb316947442c15305eb4ac04d7943ba15feadf8e7b7bf79ae39230e7"
+    },
+    {
+      "path": "Industrial Communication Cable/QC42A00/QC42A00 (6).jpg",
+      "bytes": 136481,
+      "sha256": "91826eef0861c28b7d97a2f799471ba7eddf719f91af5bc30303c8c500fa5211"
+    },
+    {
+      "path": "Industrial Communication Cable/QC42A00/QC42A00 (1).jpg",
+      "bytes": 167190,
+      "sha256": "cf648df0f7fcf615742d4789e236248a8aa3d263cb4fcf1f50f77916951252b5"
+    },
+    {
+      "path": "Industrial Communication Cable/QC43A00/QC43A00 (6).jpg",
+      "bytes": 55220,
+      "sha256": "7a47f11562b0657343b2b239c4557aad987cc88710ea2cc6ce39e1e7d1b684af"
+    },
+    {
+      "path": "Industrial Communication Cable/QC43A00/QC43A00 (7).jpg",
+      "bytes": 49162,
+      "sha256": "077b98448dfa4754139a568c08f11cc17f0a076efa428a46a9a8646648f6af96"
+    },
+    {
+      "path": "Industrial Communication Cable/QC43A00/QC43A00 (1).jpg",
+      "bytes": 26976,
+      "sha256": "942c15c4812a984c350aa763ddd6e69e024eb41df5e9adf846b0cb54aafb845a"
+    },
+    {
+      "path": "Industrial Communication Cable/QC43A00/QC43A00 (2).jpg",
+      "bytes": 67334,
+      "sha256": "79e83532f604e49779d0355a10edaa9eee8b1f4ae41b5a38ce5d59fac2a34569"
+    },
+    {
+      "path": "Industrial Communication Cable/QC43A00/QC43A00 (3).jpg",
+      "bytes": 61279,
+      "sha256": "c4848c1c5f7d62710d90bcec6bccd673dd2093b7d33466d859db11377ad8b00c"
+    },
+    {
+      "path": "Industrial Communication Cable/QC43A00/QC43A00 (4).jpg",
+      "bytes": 31858,
+      "sha256": "f223efdb6dc15a5ea41794a01677b5d94202596fd95b0b1ab70a6aef89553e88"
+    },
+    {
+      "path": "Industrial Communication Cable/QC43A00/QC43A00 (8).jpg",
+      "bytes": 48026,
+      "sha256": "de2f65ea0245ccc20eee549d39f55b2fc0c6e1104b32d3dc13a5dc7654e29680"
+    },
+    {
+      "path": "Industrial Communication Cable/QC43A00/QC43A00 (5).jpg",
+      "bytes": 64340,
+      "sha256": "2d3427883745afb24b62849f94228f33b942b506a4e094d88e60aa0ee358269b"
+    },
+    {
+      "path": "Industrial Communication Cable/QC40A00/QC40A00 (4).jpg",
+      "bytes": 129624,
+      "sha256": "3b1eaa2715e049b7f3c2300e0198b7c595e6b4089ec0dbeebb59edd74bf1ff0c"
+    },
+    {
+      "path": "Industrial Communication Cable/QC40A00/QC40A00 (3).jpg",
+      "bytes": 91236,
+      "sha256": "9b3a43d2517e597d45a5c7d40a4abf612f722f7c43d3323edebee68cfb4fa4f9"
+    },
+    {
+      "path": "Industrial Communication Cable/QC40A00/QC40A00 (2).jpg",
+      "bytes": 57446,
+      "sha256": "1d8bb53a8ea72dc8818ae021f8fe486f78c68c2f02ee4745a7e84c9384cbf19d"
+    },
+    {
+      "path": "Industrial Communication Cable/QC40A00/QC40A00 (1).jpg",
+      "bytes": 135312,
+      "sha256": "5454c2dbd61b12ce8c165a91408b6359bd3ed9eada5406000a2118504393f706"
+    },
+    {
+      "path": "Industrial Communication Cable/QC44A00/QC44A00 (1).jpg",
+      "bytes": 75703,
+      "sha256": "3ca028f20e2e67d06d6175010da7ce2dcd7bb8a84b3663065b3f6b4b33676a96"
+    },
+    {
+      "path": "Industrial Communication Cable/QC44A00/QC44A00 (7).jpg",
+      "bytes": 443576,
+      "sha256": "e2d82fbac6dfdc157ae9ad4adcda38076eea808aba342aab2e098dff5299399b"
+    },
+    {
+      "path": "Industrial Communication Cable/QC44A00/QC44A00 (6).jpg",
+      "bytes": 451192,
+      "sha256": "d1a956a7ee2870cab4dfce46d29c187e551329405c4cd460567d69cafb6533b9"
+    },
+    {
+      "path": "Industrial Communication Cable/QC44A00/QC44A00 (5).jpg",
+      "bytes": 250402,
+      "sha256": "b0d85a0b6b1248b872ed857edca95bbc4287431732e94fdc39d0629826722427"
+    },
+    {
+      "path": "Industrial Communication Cable/QC44A00/QC44A00 (8).jpg",
+      "bytes": 52800,
+      "sha256": "888f7937844a22c820617fe30bda32291a10fc00fac5332b2595237aefbf45d6"
+    },
+    {
+      "path": "Industrial Communication Cable/QC44A00/QC44A00 (4).jpg",
+      "bytes": 278675,
+      "sha256": "0efa6c7971762d3ff1cdba4f69491f1bbf20e1d6d4a1916da510954ec451f08e"
+    },
+    {
+      "path": "Industrial Communication Cable/QC44A00/QC44A00 (3).jpg",
+      "bytes": 288989,
+      "sha256": "6d39154384edf5037e87dc623318fe1f6e5f6efd05491ca17b11325f96d752ec"
+    },
+    {
+      "path": "Industrial Communication Cable/QC44A00/QC44A00 (2).jpg",
+      "bytes": 454509,
+      "sha256": "507c542ad60c61309edbfabbb0dc62bce832bb6758d03a33f6f5dd75af04c00e"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (12).jpg",
+      "bytes": 313729,
+      "sha256": "c51621b6ec97b7b01ce28e9462543bd7a92f2a41890c02080ee6aed343cd616e"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (1).jpg",
+      "bytes": 48733,
+      "sha256": "33f8d4bb71883a1b1435391d1704ce5219b5682f0e810c462adba5e38ba862d8"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (13).jpg",
+      "bytes": 345918,
+      "sha256": "21ebd051deb37a660b291c85c9bef9e0bd99dbfc0e454c107e5b10b4028be0ad"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (6).jpg",
+      "bytes": 190837,
+      "sha256": "38feff9b24d05b4fce5e2947c8002350cdb0c2a8fe42b4286b00f481cd0aec99"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (7).jpg",
+      "bytes": 18381,
+      "sha256": "08e9c8d17f60c2d5b48a10bb4b0d789da72f8e9b076934a92934c546ead7ef49"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (4).jpg",
+      "bytes": 65568,
+      "sha256": "9ee75f12d0308bc68381ae2a5efd20196671f32117933bd90bbc8bc9ea1493b8"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (8).jpg",
+      "bytes": 193336,
+      "sha256": "fb516fd0e66745a15b65f889aa925e1dd79624b308b5772c0ea68fa9581a29e0"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (9).jpg",
+      "bytes": 883510,
+      "sha256": "3a9fa4c417923f81cb0a85584722c72caa6c3d61f56bd6468830d31d7361d36e"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (5).jpg",
+      "bytes": 59965,
+      "sha256": "d1854ec0d7f2055c7c662f23703df464cc227728dbb94e02d00a0b9ac983ae05"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (2).jpg",
+      "bytes": 35318,
+      "sha256": "3f451a5397b24a2a99814ab3de61e1315d22304017ac65a7505c08b5946d7940"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (10).jpg",
+      "bytes": 166952,
+      "sha256": "7525eb2506439a33e1710d51e59ea55d2fc08129f18c441a1a003f35f0f4d839"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (11).jpg",
+      "bytes": 70976,
+      "sha256": "dd6d43054f34fb9b5368dcaaa1e768de46dc5eaa39426b52e6b17f14389ac01a"
+    },
+    {
+      "path": "Industrial Communication Cable/QC41A00/QC41A00 (3).jpg",
+      "bytes": 125362,
+      "sha256": "24a759a5e7896043a98844420438de2cb35ef7eee1b8bf81753fd2c87088ac3c"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (6).jpg",
+      "bytes": 59639,
+      "sha256": "a9f0d21b0d66f61bd9a89d034218524ba2ec255fd3242821675a5fe9301cfae1"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (13).jpg",
+      "bytes": 130337,
+      "sha256": "e58d87c7a3f7ba9d709c26684806c37a7f43321c4133c0429eea02be4ffd2421"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (12).jpg",
+      "bytes": 229208,
+      "sha256": "96d714d461b0aa41243b35abccbbe80baf61210bc66eef4e85b27513fb277ced"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (7).jpg",
+      "bytes": 62493,
+      "sha256": "6c20f695307494fa617dc3772c2f443cb34b5c71f098e88b221062d128d56958"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (14).jpg",
+      "bytes": 76893,
+      "sha256": "1bfcf1d7fe173069df47bff8bb21b77ba96b548aad49e16a3da1f466ba18b374"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (1).png",
+      "bytes": 48520,
+      "sha256": "e615660ebac7a006d231c005498c742cd4cc7f26cd196878bc96e840b636df0c"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (1).jpg",
+      "bytes": 558305,
+      "sha256": "64b3b84862f6ed1d5b1e2649f670b4c188e13b469a85831b00f3d58045e6cbb8"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (2).png",
+      "bytes": 104528,
+      "sha256": "4c2f3a3204d57df63c3953a5390f9d6c1a21250973bbb76cafc2935402aaf685"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (2).jpg",
+      "bytes": 130306,
+      "sha256": "7569f85f93e1e33e84834231e87dc2d2d21e2a8f9866e8c0e4919b6461f01eaf"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (3).jpg",
+      "bytes": 94295,
+      "sha256": "5b758fce62d2b89ecdafdf53b43747896215f55af3eaa0af520871937fe881a0"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (3).png",
+      "bytes": 84020,
+      "sha256": "88b5da1b0179fa1891fe9034f6a933fc7019a94da9b6496ff9a4e1ebfb5b4a0f"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (11).jpg",
+      "bytes": 70519,
+      "sha256": "652d7660023ef6c3de8071419f317c551347e2147d4efde845f368bc8555f4de"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (4).png",
+      "bytes": 96181,
+      "sha256": "83977d0362a1b82fbab964dad24caa190bac0f10b1f8ef0a0a56714a76bf52ab"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (4).jpg",
+      "bytes": 73369,
+      "sha256": "5fbb1b4c2956c98e351e8b6887155257df8644822f689bf39fad7d3a7c2d29cf"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (8).jpg",
+      "bytes": 125806,
+      "sha256": "00ef97966f6af928094c8fe385c9e7ccfc337f93f09f33131260328e24c4b2cb"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (9).jpg",
+      "bytes": 73369,
+      "sha256": "5fbb1b4c2956c98e351e8b6887155257df8644822f689bf39fad7d3a7c2d29cf"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (5).jpg",
+      "bytes": 48553,
+      "sha256": "2dc86ecf5d7bdcf939360c0b8382f7853e104c4109e5b19c3bae79216f847bec"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (5).png",
+      "bytes": 81450,
+      "sha256": "710ed79d34a9c7235969ebbd70196cb3ad22b45dae782d39270845f5add2b0ee"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A01/QC13A01 (10).jpg",
+      "bytes": 85414,
+      "sha256": "cb8f170dd91949e0daca546132bc64b4de59dfb19263d7824bcb74f0da1dbfa8"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (6).jpg",
+      "bytes": 69811,
+      "sha256": "91865d8edb6b701ba108528f7b45ca760bb75313be804b8f31e1a0b3653b7618"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (1).jpg",
+      "bytes": 57035,
+      "sha256": "f1cb8032a7c7f88ddd481a0571d4e763a1872380a584ab9b193fb3f55f978372"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (1).png",
+      "bytes": 34185,
+      "sha256": "77c9bcdceafb008aeffa4acf235fa7cfe8e89413de73acbf87fc96c316f57f85"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (3).png",
+      "bytes": 110249,
+      "sha256": "cb21097bfd6b92514e2d43704d10f4b1505cfe4ba9a1e9f32a244ea1fdbfc239"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (3).jpg",
+      "bytes": 100045,
+      "sha256": "510f99cb759257588624198de17fde3c6a106574b2686aa9a1c62c3937401334"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (2).jpg",
+      "bytes": 123607,
+      "sha256": "86cc8c9054a4b82429484418e4c1ac50980be45d556048c08c04ffb10b139acd"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (2).png",
+      "bytes": 101685,
+      "sha256": "36905253e26ade9f69ee69022f29cc25628f48760296193876f1e6db8dad9871"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (5).png",
+      "bytes": 83993,
+      "sha256": "c871222fedb5914621331bdca32d911d9d001490cf2e218d850759a793cce6c8"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (5).jpg",
+      "bytes": 80021,
+      "sha256": "e87712e7c1aec70817dc23dd3762bd94a0dd5915202b5ffc93d06593cde5ff1c"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (4).jpg",
+      "bytes": 68771,
+      "sha256": "cb00b6b9e7dd19b36684d1b8f3b09f1976cbd509b56ae6698153c372427bbc92"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A00/QC13A00 (4).png",
+      "bytes": 120427,
+      "sha256": "1534747725938c4270eebefbbb40cbec6cfdc2e1451545b5bb55294a85ad85c0"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (1).jpg",
+      "bytes": 2397151,
+      "sha256": "97dfaa1ffcb460c271a1abdcdc8a4e9ceab7dd0b327490de645b1c4ae90d6f01"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (1).png",
+      "bytes": 491078,
+      "sha256": "c56a022b45cd233b31389ac8ca2c7d2b75fdf5f49df2ddf948289d40373a35ca"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (7).jpg",
+      "bytes": 88741,
+      "sha256": "6d54a59efcf7c9f28c3ac4d3e22419ee1490e0dbeb85898ca3ab11aaec12761c"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (6).jpg",
+      "bytes": 75423,
+      "sha256": "862c77f46e57178830e74881431cb11822db7ec13455ed8f45c72252740c0736"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (5).png",
+      "bytes": 466426,
+      "sha256": "643e6ab8c4523e422d436225b1780dbd1a1a68175d592b497d24a3d0f195093b"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (5).jpg",
+      "bytes": 22836,
+      "sha256": "e765d549b6c237bedc932effcdba5692be29d30f243c717ffef4bcc64049e884"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (9).jpg",
+      "bytes": 141295,
+      "sha256": "3e67ef828b557195dd0cc010275bb6e58a8d32c1f38f29e645ac811104a2e1f3"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (8).jpg",
+      "bytes": 160579,
+      "sha256": "ac38d843bc081f0f96936595bbf51e3ec1cd1d35c74c1ed22144117e143eacb9"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (4).jpg",
+      "bytes": 57247,
+      "sha256": "e453c039f1aa61bf7733a90985b9c0a57e839a0badc8a7ef21dfbb38487df2e1"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (4).png",
+      "bytes": 420509,
+      "sha256": "8533e8c96fe0be437f23e9550094bec9d348bf3bfc9fa9110ca7967aacaea9b3"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (3).png",
+      "bytes": 477256,
+      "sha256": "fe179135c5e0d7f2636cb7f17c5292456487e6b77f2f76d314096c20faab1f6d"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (3).jpg",
+      "bytes": 49755,
+      "sha256": "92d51ddfdbf613b9f9a8a281ca13a5cf7ff3b8e3f5e8cd7805b88a68e2aac2e7"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (2).jpg",
+      "bytes": 116162,
+      "sha256": "c647728e74955885d0bbd5be280a55c3fd2ff49c3a4fd3a295d5c559520719df"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B02/QC10B02 (2).png",
+      "bytes": 497566,
+      "sha256": "e1f3e0a25bf8ab7a8b7c4596335781660548c6fdf9c5e20c5ef62223595cdb3a"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (2).jpg",
+      "bytes": 495472,
+      "sha256": "1910f87880bd39cb291cfdd99b936aa9db58fb0727ae8f6f2cda58562d8adead"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (2).png",
+      "bytes": 2272696,
+      "sha256": "08db8208e0398efe807945134152a87231a6f5ff86f11f7f5249f794a0f41786"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (16).jpg",
+      "bytes": 134313,
+      "sha256": "76788cb6f6058c23148a9c4fb8cae8eb4a1c0a10c9098526e2208eb54665e74f"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (3).png",
+      "bytes": 2343888,
+      "sha256": "1a4c752a8622c12cf599ef2a0fc6a0df98964ada3e8c30c1fe747155aa4f7b42"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (3).jpg",
+      "bytes": 38158,
+      "sha256": "428a3f29b950a181524727225f03c8f7562c4648f01b3153f66379a63a766737"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (10).jpg",
+      "bytes": 165973,
+      "sha256": "9a7f939171e671e4fe212e1b5e7b3d31d10f02bae62e19ec5ae0f65283c46a8e"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (4).jpg",
+      "bytes": 26996,
+      "sha256": "00ca557c6d3be1b29af7dc6844b90b78606f22d7657220a67e83b0985ff6143f"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (4).png",
+      "bytes": 356262,
+      "sha256": "e94dbea75bc309b86ff754699a72c1d0e9526b518bb343d4e7c123d43654e902"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (5).png",
+      "bytes": 846195,
+      "sha256": "a46e3d5706fabd5d1e952b82470d02174d5718c0201f324ec64ddf6c40eb9d61"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (5).jpg",
+      "bytes": 33827,
+      "sha256": "bb7d2c243f66718c2dd16857328b9f6ad4db90b07bca15b247da82aafdcf014c"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (11).jpg",
+      "bytes": 242858,
+      "sha256": "07efab6ea5aed5802115736f228748ca31a00bb2c3d888730b297c800091f5d1"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (9).jpg",
+      "bytes": 371364,
+      "sha256": "35b779544032afe3fab4a6b9c19afe0131835527ab13c2a302a34e26587b5617"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (12).jpg",
+      "bytes": 60723,
+      "sha256": "a47f6c575b2ffb68076eaf55bdd305e652c306d9b152927a3ac3d1a1cd0252fb"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (6).png",
+      "bytes": 2040059,
+      "sha256": "69a4e3711601cdd2e83f529b5055a8d4781fd4a6bf203323ab58f7d716c2d4d2"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (6).jpg",
+      "bytes": 26383,
+      "sha256": "3abc15a8cce50d7e5ed8eed381514c6167e162b1c719e8cea84bc036d5f4f352"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (13).jpg",
+      "bytes": 36658,
+      "sha256": "8945f0c8b001c2c2b9009a09da5ec1ca616fdf9cac136fc3676c36846efa7ee4"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (14).jpg",
+      "bytes": 33065,
+      "sha256": "a2cd72be7672fe780c819bb7cb2222b9a8c1ca8a998fbb1b53bc070b1ef42970"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (15).jpg",
+      "bytes": 31209,
+      "sha256": "b8cec28d16a59d2f8fb751083212ed88abe5826337038d5415c32a8e823033b3"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (1).jpg",
+      "bytes": 171384,
+      "sha256": "6382a0e96dd11c082fbaf1f7fb292ed69c917553ea66bddf5d027c17e556af4e"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/QC12A00 (1).png",
+      "bytes": 2170519,
+      "sha256": "2387cfd21f2ad9f92f792e393a843f0cbb7f0dc296a8ad97d0e63d6d3cb9de8b"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/原图 (4).jpg",
+      "bytes": 384934,
+      "sha256": "43bd8109715774cf8db71116c2769fee2f36072c7ee3c3dc8e2c831d06872988"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/AI生成 (1).png",
+      "bytes": 1869205,
+      "sha256": "08598f0ef90c8570e9a719bba52b19c67aeee20f027d1165702fb5d1e9dacaf6"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/FS30C00 (4).png",
+      "bytes": 1518531,
+      "sha256": "e0716a5656d4b73d4f67f7b173bfb47dd37ef2fd2514c97d2a3881e40c361bd9"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/原图 (5).jpg",
+      "bytes": 7934197,
+      "sha256": "4f31120cef15f59d7e6702d5fc059347f12d0cf4b9f97a40c08e2c8e6a9ee7d8"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/FS30C00 (2).png",
+      "bytes": 435984,
+      "sha256": "1b6868bc9b7a179ba10a62d12948f1ce9836fe5d59af929c0ee2ce4406103fa4"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/原图 (2).jpg",
+      "bytes": 349501,
+      "sha256": "9f4e44653c2d579120a33aa09d11d0c9410d95f5686f9a13ff9dbaf60d65e767"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/原图 (3).jpg",
+      "bytes": 343158,
+      "sha256": "c521c6269451b990a62fc50a0d84d12a3e65fa2cc2d4eab34f0c1a4100d9db2e"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/FS30C00 (3).png",
+      "bytes": 453325,
+      "sha256": "054d2020ad8c736a60fd1581cc5e0756c329d2284eb64f77465bb7ff64c0a995"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/原图 (1).jpg",
+      "bytes": 2948630,
+      "sha256": "a7b8b42cff334ada05bf5e0d5266dd309edb41735e0e6945143d7521b2d34e68"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/原图 (1).png",
+      "bytes": 3109826,
+      "sha256": "f03f433d9676fac2eb0c64d930bd9f469b0bf7770a98560d85eebe298416a376"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/AI生成 (4).png",
+      "bytes": 2995561,
+      "sha256": "57dc049adeeb56bc74f7d175eb5d082c3a31c79bf73c44e37b99eff929e37282"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/FS30C00 (1).png",
+      "bytes": 489828,
+      "sha256": "787d263c8cd73d3dc2b501c41302039764e359a94f5cda30b324ae1dc99e8e20"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/AI生成 (3).png",
+      "bytes": 2486868,
+      "sha256": "946896442536d62bb6ed467fb12c52a38a9034eb98afbc4f330eeb50b65697a9"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/实物图/AI生成 (2).png",
+      "bytes": 2774323,
+      "sha256": "179eefca902a3bb76d14d851d9d25377c0143dcd7947d18f5a078563ed662d83"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/兆龙/QC12A00 (2).png",
+      "bytes": 418560,
+      "sha256": "c9b0a29fe31eb1a2e27cbb1ca8ebe0262280f970fc6b7a8f3a923283a2b38f22"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/兆龙/QC12A00 (3).png",
+      "bytes": 474880,
+      "sha256": "772fbc53656dac0465b797a33c32a9198b302e7d2ddd6b2288af146965c72e82"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/兆龙/QC12A00 (4).png",
+      "bytes": 475013,
+      "sha256": "a53b1bf4114003ebc71f1b37f52f2b5ee2733faa58911506bde096758bda97fe"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/兆龙/QC12A00 (5).png",
+      "bytes": 382594,
+      "sha256": "d23d07f904a4bc2b5f298bbdd9b2075a13063d261606e11688514eba7dc4f767"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A00/兆龙/QC12A00 (1).png",
+      "bytes": 422355,
+      "sha256": "0d63db291dc6a76fd5898537f1304860e7bb98f8f287a48b968cc0e96c256309"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/QC12A01 (3).png",
+      "bytes": 2592398,
+      "sha256": "050fe4ecbd0bc8f97c480bd6ad5c7684280d85f50d13066ce52322fd07fe8309"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/QC12A01 (2).png",
+      "bytes": 1869419,
+      "sha256": "47a530ac652f8d0cd118196766522483418f7a603defce195cfe49e1637898bf"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/QC12A01 (5).png",
+      "bytes": 2060692,
+      "sha256": "8c5e72ab87de118596c6a96097fc487704453110d10a3bac5fb11b08aa69ba40"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/QC12A01 (4).png",
+      "bytes": 2141303,
+      "sha256": "d2f8b9c30416339e037859b684abe64a88878feea2f45443ce3df476d8b60fb9"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/QC12A01 (1).png",
+      "bytes": 2243487,
+      "sha256": "c6dc066e93ce5e37028100f0a1f6317ee4555bca86ea45fec184479ccca57cf8"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/压缩后/QC12A01 (3).png",
+      "bytes": 484184,
+      "sha256": "d90cc664b8c4b2cc6c8b4c207a3480815fb5b200f26379636b6db174ae5b3ad0"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/压缩后/QC12A01 (2).png",
+      "bytes": 510448,
+      "sha256": "6ca3782464ef89def3c64b65f5616c2ed875c9443ca852734ae366ded5226043"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/压缩后/QC12A01 (5).png",
+      "bytes": 380668,
+      "sha256": "546a37e736a86b7fed9eb910015ca76c7ec1eb60004c9cb64d427fa30eff8ee7"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/压缩后/QC12A01 (4).png",
+      "bytes": 411078,
+      "sha256": "d397bbe7720981d5ebe32a749887550b9dd37ce92617f67fa1f32ec926a1cf1e"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/压缩后/QC12A01 (7).png",
+      "bytes": 410972,
+      "sha256": "1ee222225b3360e502ccc4d75479783dc82b1fb85092d20ebd975b2c62d16480"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/压缩后/QC12A01 (6).png",
+      "bytes": 467728,
+      "sha256": "4fa1fd0ca878fa782d8930ba1aa2091788a533d44ca553165d366520e1a6c6e9"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A01/压缩后/QC12A01 (1).png",
+      "bytes": 452569,
+      "sha256": "0c68b607eba6d3bdffd8a84a5ac4e234cba08f7072af88bd10c6b7b946fbf247"
+    },
+    {
+      "path": "Machine Vision Cables/QC11C00/QC11C00 (5).jpg",
+      "bytes": 34908,
+      "sha256": "fb6ddb142deb54b42786ea0f4b51e82f6ab2a118df5194153664642607cf8846"
+    },
+    {
+      "path": "Machine Vision Cables/QC11C00/QC11C00 (9).jpg",
+      "bytes": 36243,
+      "sha256": "547e3b0b820d38cb1cea44c730c0f9defb83d3492639c0aece16056b1248bace"
+    },
+    {
+      "path": "Machine Vision Cables/QC11C00/QC11C00 (8).jpg",
+      "bytes": 36564,
+      "sha256": "5c381a406e82b0051e2693f01e68e2a4d7e3f62595e61aa8003010a5c1a1425b"
+    },
+    {
+      "path": "Machine Vision Cables/QC11C00/QC11C00 (4).jpg",
+      "bytes": 41173,
+      "sha256": "888deeca669ab4bd2f2b903babb42177376b7d2df40eaabe3ec7bc4df5c5e2c9"
+    },
+    {
+      "path": "Machine Vision Cables/QC11C00/QC11C00 (3).jpg",
+      "bytes": 96541,
+      "sha256": "2e5f639f0d6f2cd5d3d66e52b417b455d009a15660eff380c6b1003846df711e"
+    },
+    {
+      "path": "Machine Vision Cables/QC11C00/QC11C00 (2).jpg",
+      "bytes": 88378,
+      "sha256": "1d712910bdc1163b9d4afee3590b8c383dee6e6ef2528eb430939a9922347173"
+    },
+    {
+      "path": "Machine Vision Cables/QC11C00/QC11C00 (1).jpg",
+      "bytes": 20370,
+      "sha256": "2c697e0cebe0c69122906e5bf566bc3f8682459fe3a104389095f0fda1c942ea"
+    },
+    {
+      "path": "Machine Vision Cables/QC11C00/QC11C00 (7).jpg",
+      "bytes": 89719,
+      "sha256": "435dde047a7ec2458ab5ca3242d22a1c7bad8f98ccd9276f240a4ed82e2b59f6"
+    },
+    {
+      "path": "Machine Vision Cables/QC11C00/QC11C00 (6).jpg",
+      "bytes": 37595,
+      "sha256": "8a642911336f86afe623133e9182ec44bb469d94547f4dbda88d1fadb8a5c10d"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (3).png",
+      "bytes": 1352813,
+      "sha256": "0fa8b0318ce9dd9a6c9767f10d6ad0b440ddc675fd8acce8dbdd3a6753f678f0"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (3).jpg",
+      "bytes": 108745,
+      "sha256": "24d73c9903234b660462fb9f843909609b4c77badcb77873c2c1102569a7bd68"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (2).jpg",
+      "bytes": 48035,
+      "sha256": "9e4fd33f64da3f5833fd89d2dbe68da75ceeef357051aa30a814c5849ae42c99"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (2).png",
+      "bytes": 1593282,
+      "sha256": "99c553ed44d8dadcbc89ac5a223c0d0eeeb9df920a1b751ac8709eb75ef4ec25"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (5).png",
+      "bytes": 1577441,
+      "sha256": "861608f1652d26f1053dff02b8e428229d93f4aafb15eeb174585759545c784b"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (5).jpg",
+      "bytes": 104364,
+      "sha256": "9b9422875ce2327a781ee52095ada9d241f1f791b54d74e0a731ee980a67ef97"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (4).jpg",
+      "bytes": 113086,
+      "sha256": "79e44b71221800d65e4ce222c09b4a2c463f7f1968dddd85d7526ae4630a24fc"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (4).png",
+      "bytes": 860576,
+      "sha256": "1bdc2e64db5141819055399c80b26483e7bc6c028cb02fdc03f823f85572911c"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (7).jpg",
+      "bytes": 133825,
+      "sha256": "4c272dc1f488c52ff54e8112b6debd8fae04c4fe7a2a14eb60a220c038614137"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (6).jpg",
+      "bytes": 28372,
+      "sha256": "c50f33993907b63182dad67fadbfbad3d831e52febada67ed4057603e2807082"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/GigE Vision RJ45-M12 A8-不能直接上传.mp4",
+      "bytes": 4605716,
+      "sha256": "47b97600191bd0d17f524841b83a5aa78c2b07e1f95cb393dd4b70b09c86e53f"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (1).jpg",
+      "bytes": 49537,
+      "sha256": "99e212f2b9efa531b65f3671cb6c95e13b7c3981d1052006a74d8110d7d9bf32"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/QC10A02 (1).png",
+      "bytes": 1421514,
+      "sha256": "153e245d8c42b4ff2e8b23dcdcad189dd5ecc8e8c3f1c795dcdb716ca5341ea3"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/压缩后/QC10A02 (3).png",
+      "bytes": 466426,
+      "sha256": "643e6ab8c4523e422d436225b1780dbd1a1a68175d592b497d24a3d0f195093b"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/压缩后/QC10A02 (2).png",
+      "bytes": 420509,
+      "sha256": "8533e8c96fe0be437f23e9550094bec9d348bf3bfc9fa9110ca7967aacaea9b3"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/压缩后/QC10A02 (5).png",
+      "bytes": 497566,
+      "sha256": "e1f3e0a25bf8ab7a8b7c4596335781660548c6fdf9c5e20c5ef62223595cdb3a"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/压缩后/QC10A02 (4).png",
+      "bytes": 491078,
+      "sha256": "c56a022b45cd233b31389ac8ca2c7d2b75fdf5f49df2ddf948289d40373a35ca"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A02/压缩后/QC10A02 (1).png",
+      "bytes": 477256,
+      "sha256": "fe179135c5e0d7f2636cb7f17c5292456487e6b77f2f76d314096c20faab1f6d"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B00/QC12B00.jpg",
+      "bytes": 130846,
+      "sha256": "6ad2b002d569fd4c0d4af1ad8ffbbc13e224efe3a17a2078d252a2c1f8d07b3c"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B00/QC12B00 (6).jpg",
+      "bytes": 132797,
+      "sha256": "668500e4cde87ae3616e9061f4ef3dc840e2bf551d43378e072a6cf348abcbbf"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B00/QC12B00 (4).jpg",
+      "bytes": 118224,
+      "sha256": "e30eb5dcbaffef2bf635c73d78a0b21c6d7829ea98b29d33eb32b0bdabeac11f"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B00/QC12B00 (5).jpg",
+      "bytes": 131524,
+      "sha256": "946188c3e20b6be2ce582a0c5dd9522bddea56cecaefc6b92f9826fdcac5133e"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B00/QC12B00 (2).jpg",
+      "bytes": 74149,
+      "sha256": "bfbc95e409bbc57a25e188f2a89f6ce0b03cfa97495ef696b7e87a779517e294"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B00/QC12B00 (3).jpg",
+      "bytes": 82279,
+      "sha256": "0a5d35d9d550eeb34b3c828dc3a6a0e15677e5d130ef6a3f2f5cbd9d38d32bd7"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B01/QC12B01 (1).jpg",
+      "bytes": 116982,
+      "sha256": "c68c03faaac0d395776758080393ce6ba65015820dc2db756ca19be54349d134"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B01/QC12B01 (4).jpg",
+      "bytes": 129524,
+      "sha256": "46821a5eea82370b35d006bd5802b09bc4ebfc29b4f9efae5e8ecd121ce81d70"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B01/QC12B01 (3).jpg",
+      "bytes": 82554,
+      "sha256": "c685d8fd26fb9ba6b68bee411daec8db811736b174ce5daf3554ab8f71f6f6bd"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B01/QC12B01 (2).jpg",
+      "bytes": 130864,
+      "sha256": "b8531fd4d47758f154547a54e1dfa372b16d95e902a9dbc37ddbda688e51c877"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A02/QC14A02 (1).jpg",
+      "bytes": 43614,
+      "sha256": "87398f528af58ccf079edb0ceda08561fcfcd518eb9b0d6c343d99d9e5389aec"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A02/QC14A02 (3).jpg",
+      "bytes": 33476,
+      "sha256": "e16c7011a1f24656ddbf7d492f1b4286a617c8c4bedf9ed058210b6dc67d767c"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A02/QC14A02 (2).jpg",
+      "bytes": 169229,
+      "sha256": "53237aeefe81adce3b932963cc657e1c03a2ed7dfc926ca37388b1e1d85fb824"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A02/QC13A02 (1).png",
+      "bytes": 72468,
+      "sha256": "f516c191106379c5b69b365b3a383c002e6e3de964719301b06ac2e76e36af44"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A02/QC13A02 (4).png",
+      "bytes": 80480,
+      "sha256": "e229d7bcd7564ca74ebd8c25ff874d00a0bfb5443c558075d89c9fc6088d8aa4"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A02/QC13A02 (5).png",
+      "bytes": 85525,
+      "sha256": "dc54f242ab54a88a6dec7598bab27580ae476b2863135d649b5416a4be4c0311"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A02/QC13A02 (2).png",
+      "bytes": 43577,
+      "sha256": "a6b5375ae35e7234f0bd887d56b3fdea46bcfe74844f13ed0c7cfed40b48851a"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A02/QC13A02 (3).png",
+      "bytes": 91160,
+      "sha256": "5bd301f3570476f0b802becae9dea4178a5cec4caabb2ce9808a9268945a114e"
+    },
+    {
+      "path": "Machine Vision Cables/QC11B00/QC11B00 (2).jpg",
+      "bytes": 149236,
+      "sha256": "2523202792e13631ffab48934863ed1c070089295d5e4f1cb32e15d196ebcf61"
+    },
+    {
+      "path": "Machine Vision Cables/QC11B00/QC11B00 (5).jpg",
+      "bytes": 28828,
+      "sha256": "3798117981c8f1c71eade1adaba2053138ab505d5a16df4713e56ec2b1a9c46a"
+    },
+    {
+      "path": "Machine Vision Cables/QC11B00/QC11B00 (9).jpg",
+      "bytes": 62628,
+      "sha256": "22326a899f412cfa75e1cf260fa36ba5013b3264202e111d5d9c85dc9ad303b1"
+    },
+    {
+      "path": "Machine Vision Cables/QC11B00/QC11B00 (8).jpg",
+      "bytes": 31575,
+      "sha256": "c2e386cd925564754406815a09ee4b9af2f5644936149a5f4540f058c4828063"
+    },
+    {
+      "path": "Machine Vision Cables/QC11B00/QC11B00 (4).jpg",
+      "bytes": 70860,
+      "sha256": "edc1f1bc61406c7ec663d8fe9c1b583328d466e33203e3bc480a3ebf0c9039fc"
+    },
+    {
+      "path": "Machine Vision Cables/QC11B00/QC11B00 (7).jpg",
+      "bytes": 30859,
+      "sha256": "edce43037581b084a6f2c3de1366f3ce006ca4ca4efec3e27705744985b29bfe"
+    },
+    {
+      "path": "Machine Vision Cables/QC11B00/QC11B00 (6).jpg",
+      "bytes": 30671,
+      "sha256": "b90c7e21f20ee377a69687767c59ab6aad7fbb0d3c399a18ba72ed66b32f9243"
+    },
+    {
+      "path": "Machine Vision Cables/QC11B00/QC11B00 (1).jpg",
+      "bytes": 108881,
+      "sha256": "e50c09d7d01060d838a71042d242ddc396f72ef4fad0078771c3359e6c5ab4d4"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A03/QC13A03 (1).png",
+      "bytes": 87301,
+      "sha256": "60bfd7dd1dfabf210ccc342a963a44874e05856adf5c11ee525b046842a3bfc9"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A03/QC13A03 (5).png",
+      "bytes": 87385,
+      "sha256": "0089e03f3c78813f01d6c59bb5b11bdd31bddd0d5fcd1ccacc63417ca2123425"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A03/QC13A03 (4).png",
+      "bytes": 31699,
+      "sha256": "54448524ed4de4628238e138f0b8b3e305df677930a0d08221e3c51e1451fd4e"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A03/QC13A03 (3).png",
+      "bytes": 73865,
+      "sha256": "3a30f89c93605f32b0158a08568a34d9c93c365883fc343e6ff007fdf6cb61f1"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A03/QC13A03 (2).png",
+      "bytes": 79163,
+      "sha256": "e6992dcace4d1cf597e5594504543cb5d5441523467c3e539cdeb5394789e5c4"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A03/实物图/QC13A03 (1).jpg",
+      "bytes": 297531,
+      "sha256": "ae8150799a791ed9c42456c09154e47a7cadfd00dced6b224905d2d902f117a5"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A03/实物图/QC13A03 (4).jpg",
+      "bytes": 374359,
+      "sha256": "2dc91f6462db82792cfdda269cab4385635c6342a7b8f748e7b988d2fdf0349c"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A03/实物图/QC13A03 (3).jpg",
+      "bytes": 375476,
+      "sha256": "0e34062d3666e9237e42c2eb227f75325beaef193498d37dfc2993155f8cfcd7"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A03/实物图/QC13A03 (2).jpg",
+      "bytes": 379815,
+      "sha256": "bdae70ed8eba5fdbe2ee7acb28d94bfacf0edd30aca1faab9b7714894eaa900b"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (5).png",
+      "bytes": 30526,
+      "sha256": "82b857fdabc5b5d3d4fc2d898af8675ef57b2f3ae99aca4be940cbb0a1c0615a"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (9).png",
+      "bytes": 1670842,
+      "sha256": "b20bded1a6e804acf072aa7b76358b4173fb3d766fea072616a304ef1c2126bd"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (8).png",
+      "bytes": 1594827,
+      "sha256": "ed5d2eb9b00a813401b8c8137e75e194c822b94fc17a295b72edcd6905265a85"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (4).png",
+      "bytes": 88445,
+      "sha256": "aa170415202f6ab94f2a2ae6749ecea69bb114317675a56a0db23ede00734230"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (4).jpg",
+      "bytes": 58290,
+      "sha256": "4bb48ce527a2396824667c61b0aba5137b5ee4b5c8e059c8082a28bba2e3c5f5"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (3).jpg",
+      "bytes": 24514,
+      "sha256": "a7e743cd66862f051518d71488ef0186f8925eb7334acd85a7c59cdbcaef821f"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (3).png",
+      "bytes": 76457,
+      "sha256": "3205f8f2bde0432e8c8689798f69423d296dff4892af4fca2e38f567072cad48"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (2).png",
+      "bytes": 100974,
+      "sha256": "1f064af86f35f16eae82e5a6cc98fca35381cc6c9c63722b2c223af42b6ff959"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (2).jpg",
+      "bytes": 33244,
+      "sha256": "f934835f9164abec9ac56feeadd8125651afe0e5bf9cf8ac2bc6c9b13157e46f"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (1).png",
+      "bytes": 73503,
+      "sha256": "b537ff765d24f4c7b1da6d70bab2ecce95e4149617d3a2a7b2e68e331c5a9a8f"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (1).jpg",
+      "bytes": 57618,
+      "sha256": "cc0993c24226e85f8578015f8f2ec33f33799e2975d67ea999cf60ac85a77fd4"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (7).png",
+      "bytes": 1946556,
+      "sha256": "8acb569f8feae0978a84493116d2ef20a798dc74f5bed6e65f9bfc6e4f614d0d"
+    },
+    {
+      "path": "Machine Vision Cables/QC13A04/QC13A04 (6).png",
+      "bytes": 1720046,
+      "sha256": "98496c64c72df20b28f449bdd703150c94caaf3347ff3c8cd845055757164cec"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/QC10B01 (7).jpg",
+      "bytes": 29214,
+      "sha256": "418201fedad49620d0b47ea24d6dd03849a67f618f40cb20ebc19148621d2319"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/QC10B01 (6).jpg",
+      "bytes": 39921,
+      "sha256": "e60553794df91b3a6807da97f0f0fe9b37f79f4c5b50536f141f13df71437f87"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/QC10B01 (1).jpg",
+      "bytes": 440599,
+      "sha256": "8db2ed5e74012578d309ad791fb3cfb407cc5661504f808a44087d3b6b1034ff"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/QC10B01 (10).jpg",
+      "bytes": 72501,
+      "sha256": "bfbd347320646af6ebf5da1eac950ca9748c501c748aa476c15a3d9ed42ddd5a"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/QC10B01 (3).jpg",
+      "bytes": 483732,
+      "sha256": "4953a0481b33db97f927d31c8c80d53a9ed0bd2c3b626248863500efb59aeea1"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/QC10B01 (2).jpg",
+      "bytes": 829463,
+      "sha256": "e2d9d0bc12f8ea22f28557957d1f37cd347f1976620c7672e1576960eea2c527"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/QC10B01 (9).jpg",
+      "bytes": 101341,
+      "sha256": "3886ffb7c92af18b0f267d04eb6f878e108ab91a71094b3a386444d658ed2173"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/QC10B01 (5).jpg",
+      "bytes": 69819,
+      "sha256": "57997f9a560fdd5ea2214d5dd46fb70bca75695d9c1fd9cfb5aa8fc352829268"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/QC10B01 (4).jpg",
+      "bytes": 150190,
+      "sha256": "763d95bc0cd18b7cc06a2e97c891c94202155989d979bde7a5341d6eed609e55"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/QC10B01 (8).jpg",
+      "bytes": 190269,
+      "sha256": "39ac16e1a19586e66af4f8ee501af83e1d919aca6f08c0fa2d6f01b325093ec8"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/FS30A04 (2).png",
+      "bytes": 453873,
+      "sha256": "44d441b43048ddccb0baf8093064709fb62e089d05da70ea3bcadc6b052a6fe9"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/原图 (4).jpg",
+      "bytes": 600696,
+      "sha256": "1f4859d293d33dded59eedbc488c539d9cf5ccc98d74b63136a7c0e4ac77580e"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/AI生成 (1).png",
+      "bytes": 3537408,
+      "sha256": "b30e1a41099463dc76ade8c9c9850b1081027cab1ae1f9a1f007025af5f2c8f5"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/原图 (8).jpg",
+      "bytes": 664068,
+      "sha256": "66166ce29db726cd5672f5924e24ff71f48115b5aff992570bacbaaaf0389c6c"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/原图 (9).jpg",
+      "bytes": 438883,
+      "sha256": "f6802d2ed4af3b33feba0ffe3ef52be743ed47272db59d90c2227100ed99c41b"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/原图 (5).jpg",
+      "bytes": 409584,
+      "sha256": "10ca67795f2a4c9917365fb1e05c8189f9798792a172b54a35c955644f46e6a7"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/FS30A04 (3).png",
+      "bytes": 454814,
+      "sha256": "adc88b5d405ad58ef400f8727c2a452e8653b7c7aab409b829356e57ac30b55b"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/FS30A04 (4).png",
+      "bytes": 447145,
+      "sha256": "4847cac679f8759c6743a54ceac1adc835c073c7e142df8d2879ecf4905ac61b"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/原图 (2).jpg",
+      "bytes": 546156,
+      "sha256": "8475730cd2f6831dae794c95cb0a0690c62058c75a81e45a5ec5abd6ec6ed529"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/原图 (3).jpg",
+      "bytes": 513941,
+      "sha256": "4e47b6fe94b0015bbd5749e2253f866ad5bf1e35771d196db9daffdd074686a0"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/FS30A04 (5).png",
+      "bytes": 502813,
+      "sha256": "0ee7bffd6b29b88f8a09bcc56561e35590848016da3467e20dcfdf66e1b1bafb"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/AI生成 (6).png",
+      "bytes": 3341994,
+      "sha256": "2874bcaf980de0eee3a324403e682c0897d1cacd3f614ad198b8b82f67641d64"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/(1).png",
+      "bytes": 2305096,
+      "sha256": "d5bc55e672eb03e761b4543fdea3d0ec99ac1e1560c8571678ff2a4868780250"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/AI生成 (5).png",
+      "bytes": 476998,
+      "sha256": "2e0ef00b049d91af7b8320ce757d9d352309442d24eeb35d9741a1d71f24ad09"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/原图 (1).jpg",
+      "bytes": 492312,
+      "sha256": "a3cc9634263c7dfe2d83455f833b2587e002dfd5c54369d31ab4919b4f7edccb"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/AI生成 (4).png",
+      "bytes": 2009620,
+      "sha256": "a7b7636c99665c0c0425f7e6aa9e2b378ca4aeea7a91d6bf78bcb822566c3b1f"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/原图 (6).jpg",
+      "bytes": 487436,
+      "sha256": "905a552ea65cd59b8358a4655694909958328d167ce5a2e3acf34f998d19de6f"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/AI生成 (3).png",
+      "bytes": 3059519,
+      "sha256": "8910a01b5ea605b979f064c2997d20cb07b6ba80ca95cce0784566e7ac1809fd"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/AI生成 (2).png",
+      "bytes": 3725108,
+      "sha256": "bf230893da52235744b887a5f21204fff3d7df52724a31dd5210a37c88bef345"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/FS30A04 (1).png",
+      "bytes": 490945,
+      "sha256": "885872ce2534a973dce5a19295839d5ac173c8f4ba0f0e3549c5480e9aa56cdd"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/（0）.png",
+      "bytes": 2154880,
+      "sha256": "ebebd8643ed40aec116fa8c3cc303fd1f8e5266d722f61913dd734920ade5d2b"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/实物图/原图 (7).jpg",
+      "bytes": 486791,
+      "sha256": "1286661706907f40408fcc42fd471bd66382b7ea7d22cec162de7747d6ceec24"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/兆龙/QC10B01 (1).png",
+      "bytes": 222577,
+      "sha256": "8d5e5b59c328aab944f62cb9970ecb7307fe4701ce7a775a386a71ab7a90c9a1"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/兆龙/QC10B01 (3).png",
+      "bytes": 135439,
+      "sha256": "5ad9cef5d66c7b2db69238723f66e2e4d3450dab5144d67db41a495a7bd656b0"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/兆龙/QC10B01 (2).png",
+      "bytes": 238834,
+      "sha256": "4da951e97f37953fc93867ad4903da52e08dccc9803ffc349abd7cb1a76a7b95"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/兆龙/QC10B01 (5).png",
+      "bytes": 173975,
+      "sha256": "f3605bd1461b1a4cfaf66836f9d67b803efa8ec956ff12ce84bb81e003e38054"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B01/兆龙/QC10B01 (4).png",
+      "bytes": 285463,
+      "sha256": "67af17cb5e0b017e664492e267bad871afc9b066a00799d1edd1166b59e28fd9"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B00/QC14B00-MALE (1).jpg",
+      "bytes": 100258,
+      "sha256": "72328e96a2b2cf3cbc635b9e59b0bb2b422f67e1d244a485e68ecf325e5a6158"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B00/QC14B00-FEMALE (3).jpg",
+      "bytes": 91209,
+      "sha256": "66f02f4eaac22bd9f7d5b2786e24c7a1391e3e8dce26293c39f60c00c4589bc5"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B00/QC14B00-FEMALE (2).jpg",
+      "bytes": 93534,
+      "sha256": "7f12820b9daef6eb57edf66a4bc2a4ad79535428d21dfdcc9efd1f0f59a3ea04"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B00/QC14B00-FEMALE (1).jpg",
+      "bytes": 102455,
+      "sha256": "b020cf4a2529fc08865d190d2fdee3421ed15179e733a5203d88afa1114200a7"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B00/QC14B00-MALE (2).jpg",
+      "bytes": 92121,
+      "sha256": "716acd9a340be5e6fd208240b47839e9fa475b76634cea489b9820f57bf1a029"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B00/QC14B00-MALE (3).jpg",
+      "bytes": 91172,
+      "sha256": "011a82a48e76ff698e972429a28e46ddc748555e315bb0015073fb1398e894f3"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/QC14B01 (3).jpg",
+      "bytes": 152775,
+      "sha256": "842818b44062c3a77a7ca1ac0626e01d3ea02c3803dc4025c92660b7db07173c"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/QC14B01 (2).jpg",
+      "bytes": 124191,
+      "sha256": "875e46853313b8649cde2854b670c01ff17b5fe938a9606f7c2c5832cd7156fd"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/QC14B01 (5).jpg",
+      "bytes": 64122,
+      "sha256": "2e60e70d962b307537059690872d535626b2f29c09961722d16f53fd3a4091b0"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/QC14B01 (9).jpg",
+      "bytes": 79002,
+      "sha256": "c63ec14da0f237b3faca0c86fa1d112c26124571c72d578d39d5cc0c14170e88"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/QC14B01 (8).jpg",
+      "bytes": 58960,
+      "sha256": "1b60932a933e1318554ac8bb1558d8b8409a9ff763dbcecf0903c7f4ba1e06af"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/QC14B01 (4).jpg",
+      "bytes": 151239,
+      "sha256": "0d1f5fe2e674bd4202990fc64b39253f86b55f8945ab09c9a8aa0f56035b47b5"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/QC14B01 (7).jpg",
+      "bytes": 35055,
+      "sha256": "069ae9ba72deb61792f75b9c0f42fc53d6944a72d677d1565026fc6709a74f1c"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/QC14B01 (6).jpg",
+      "bytes": 50606,
+      "sha256": "bbe241a527993d2c3f86c31868cc98863e2b64bb9c0aca5cbecaef04eb23be9d"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/QC14B01 (1).jpg",
+      "bytes": 36965,
+      "sha256": "53c1a8d3bfec26cdb436931d40f3776866e21ba847682f4029e94afbddcc12b8"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/QC14B01 (10).jpg",
+      "bytes": 2925590,
+      "sha256": "c283505169fcd407145efe38073979689bf0b6a47115267d0b0fd3dbae890580"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/压缩后/QC14B01 (3).png",
+      "bytes": 393370,
+      "sha256": "44517bb2675b8fc1b329c215537b2fb3937893f802c96843658f08cb01aec5bb"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/压缩后/QC14B01 (2).png",
+      "bytes": 488560,
+      "sha256": "059ee90d21508a95da4f4d1245c30b1107e4d601843b18ae9976357023a98972"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/压缩后/QC14B01 (5).png",
+      "bytes": 425808,
+      "sha256": "f83aee5af3cddd27cdf6850122db29ceed093fb318f4db7989eae05a929d8a92"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/压缩后/QC14B01 (4).png",
+      "bytes": 473461,
+      "sha256": "0b924093e78b94fc84ea9739f87c2d0825d7d3affca8ce38a07c371a8f365462"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/压缩后/QC14B01 (1).png",
+      "bytes": 498742,
+      "sha256": "dc6da83d3cd3fa200c14dc6cb8d0cf2851a9ac5864c95e334e71055b34429101"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/兆龙/QC14B01 (3).png",
+      "bytes": 2794841,
+      "sha256": "c0154edeccf24d340e9ae382ed37c8137f6cd64b08723fb8fd223803a878a405"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/兆龙/QC14B01 (2).png",
+      "bytes": 1894060,
+      "sha256": "5f6f4b4b0e51eb2b2893d0362718a72dd684046d8180bdf54557d2d394f6f639"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/兆龙/QC14B01 (5).png",
+      "bytes": 1923582,
+      "sha256": "5a0921b5b651ee5f84ac5e7066166616e7592370da779755dbea59c0c642b9e6"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/兆龙/QC14B01 (4).png",
+      "bytes": 3126514,
+      "sha256": "3fd9bbeb36bbb1375d419b9a84907e636b57c9c80f968a4095fbfc70f52f9309"
+    },
+    {
+      "path": "Machine Vision Cables/QC14B01/兆龙/QC14B01 (1).png",
+      "bytes": 2136066,
+      "sha256": "5be740865a069d8b3641c5bd25d1127b3cebae4d331b0ec82f323b39efe88f0d"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A02/QC12A02 (5).jpg",
+      "bytes": 67869,
+      "sha256": "e59c7cc61216e8047971275869377fad27a2a1add3a2008941d672d5fb96a3e2"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A02/QC12A02 (3).jpg",
+      "bytes": 57183,
+      "sha256": "264eec88227850833e738e16a6ff6b0d71cde3bbbc0b53666cdaa2108e532de1"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A02/QC12A02 (2).jpg",
+      "bytes": 69775,
+      "sha256": "0069f857354acf8ae045a1aa7c700e1931f4509214b0d788c62addc08503642f"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A02/QC12A02 (1).jpg",
+      "bytes": 74386,
+      "sha256": "86daec2a6571d2030360f35ff4f91d741b8a59afeacef73a7ffc2f897cda300e"
+    },
+    {
+      "path": "Machine Vision Cables/QC12A02/QC12A02 (6).jpg",
+      "bytes": 69885,
+      "sha256": "77843d43473d0200cce181bf8423cae9a4de97c17b21d9e5c4267676df685e8d"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B00/QC10B00 (6).jpg",
+      "bytes": 119423,
+      "sha256": "b74aa73955181216eadf261cc98a1c1878230f0681880baaa051c1dabce81548"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B00/QC10B00 (7).jpg",
+      "bytes": 263861,
+      "sha256": "3bab9671fe42359fc3e1fd5124f0261878dce17849718ef2c0c9336b0d79f1b7"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B00/QC10B00 (11).jpg",
+      "bytes": 37452,
+      "sha256": "4fdbaedb87d8009d8bb3a65e370397581a483bcef1fe21bde6a691e17e1dcc65"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B00/QC10B00 (10).jpg",
+      "bytes": 602069,
+      "sha256": "3396fecc347758608a8179757cdaadbec6090ea47cfe74e5032fb0e6648086da"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B00/QC10B00 (3).jpg",
+      "bytes": 97758,
+      "sha256": "ecb002bab1021c99e1be61106e5894093265e8f20d75fe5e25bd0d36994c05cf"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B00/QC10B00 (8).jpg",
+      "bytes": 227406,
+      "sha256": "16dc354ed10d6ac6fde7b50bf30639c72a24caafd4205ec3d362870013ce814f"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B00/QC10B00 (4).jpg",
+      "bytes": 44256,
+      "sha256": "3c25c075771aa11c91d3a385d3b7644afa7291ce4ac21b246a97eeb33126e219"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B00/QC10B00 (5).jpg",
+      "bytes": 33644,
+      "sha256": "ff22640b21cb54b34e86cd7ebe696f6ebe07ce6ca80618b87a2432eec5599102"
+    },
+    {
+      "path": "Machine Vision Cables/QC10B00/QC10B00 (9).jpg",
+      "bytes": 391507,
+      "sha256": "397abefd5985963d0f582d269b6f9cff128c6ea300a453919c2e32891b535691"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (11).jpg",
+      "bytes": 28408,
+      "sha256": "ce74d70c32ed30976c5a024141ec812dd7c2a8ac96fe3cadc2b4bbbfc2a1a35e"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (1).jpg",
+      "bytes": 124590,
+      "sha256": "0cb5a5a2edd71e51accfc810064d52001f7f4e4730b931f2b233d36d6f115d8e"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (1).png",
+      "bytes": 380270,
+      "sha256": "980a80fd10732c9ce42385725aad6ecfb374e756f862436b141938522e010f75"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (10).jpg",
+      "bytes": 41539,
+      "sha256": "ad17043569f94359fdd4221444de40c72e33cd47bca833d36609cca408c30972"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (7).jpg",
+      "bytes": 77658,
+      "sha256": "9f44933cc098b3197d9d24843c701b91ba90b47ae43c2cea250a9827d94cfebd"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (6).jpg",
+      "bytes": 20348,
+      "sha256": "a0328877db6f895dfc19b796ab3cabc12f77ad0b82dccb05025c49c49a2f61c7"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (5).jpg",
+      "bytes": 32036,
+      "sha256": "8056c47040e0d62b5837ba3a260077d3712a711be2a12480219b5dcdfb23ddb3"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (9).jpg",
+      "bytes": 21744,
+      "sha256": "5dbaf16c6ed895f91f5121f1a11657304814402aacbe3a14286f7a86a305d518"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (8).jpg",
+      "bytes": 12306,
+      "sha256": "d033ef6bd4f3ab2429f5f6ca127706f81a9d68cdfbca554e96262002634081bb"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (3).jpg",
+      "bytes": 128529,
+      "sha256": "1bb782037f78ab50ffe97d0735b291e84571fd8fec42c825d2dfce62842152a6"
+    },
+    {
+      "path": "Machine Vision Cables/QC11A00/QC11A00 (2).jpg",
+      "bytes": 165321,
+      "sha256": "944d544e1eccb07d717d4f05a1eabd84c1a24651c4399a6006d0be052cffb135"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A01/QC10A01 (9).jpg",
+      "bytes": 72501,
+      "sha256": "bfbd347320646af6ebf5da1eac950ca9748c501c748aa476c15a3d9ed42ddd5a"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A01/QC10A01 (5).jpg",
+      "bytes": 576577,
+      "sha256": "e6b95e01f168dd044dcc1f9464c73610a72472bedf2b0c720ee0dff613c033ba"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A01/QC10A01 (4).jpg",
+      "bytes": 266852,
+      "sha256": "763559dcba512dbc7a45a0ee98308b383cd92ab299bd7c213f88e0d531590053"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A01/QC10A01 (8).jpg",
+      "bytes": 148165,
+      "sha256": "33eb581234d18e493741079c84a97f09782125b86509ebc7949d64d87cf188d9"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A01/QC10A01 (3).jpg",
+      "bytes": 52547,
+      "sha256": "f566d66eeb679a57d81c096018ea2f2ce5139e109b58b13fc5e29e0267cc8628"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A01/QC10A01 (10).jpg",
+      "bytes": 25595,
+      "sha256": "1da90a95a081063b62d22e6fa0e273be06259a1d9d72692a8e8ff7bafa9f52c5"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A01/QC10A01 (1).jpg",
+      "bytes": 41311,
+      "sha256": "b95a3ab17e72f7c234ee560e5553dab8fc7ff23de662a0e772b79a80820d539e"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A01/QC10A01 (7).jpg",
+      "bytes": 503450,
+      "sha256": "82f5dcf1077dec6f092a56ca20a23deabc451104818489eb4752b015a12fea30"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A01/QC10A01 (6).jpg",
+      "bytes": 485040,
+      "sha256": "ccf8a1c16f1df5100b1d3bc2f8adba03dab6c6433ac69310fc5382c5896275b5"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (1).jpg",
+      "bytes": 33479,
+      "sha256": "4a204f8eba5ab2d0eeb9a474a854083a2cf0d5409568ffad2edfaa8b02a6e038"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (1).png",
+      "bytes": 49305,
+      "sha256": "d6d0bc7faba91811faf34b48e8b29d0f47df82a4ed5817a5d0c7f30a4cbdcfed"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (6).png",
+      "bytes": 1818910,
+      "sha256": "055d3aa66093ae0650cf707cc49048f077fe6e7adf9bec63586532510dadd1e5"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (4).jpg",
+      "bytes": 69869,
+      "sha256": "b0171ca0b426d8708407fec328bb03618b59b8df694fe4cfa99604a1ad36563d"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (4).png",
+      "bytes": 55424,
+      "sha256": "543e05abfdce692c4a7ace54509cabbc36d9e393d6b7e0c7040b808141bd8169"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (5).png",
+      "bytes": 90275,
+      "sha256": "47cd75e9839fa3df5a1400896384afeed3a540ffeb290fdfdc9e97797a4e97e9"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (5).jpg",
+      "bytes": 97705,
+      "sha256": "f0ef6c2175a1b9d375a23d46fb1ca56f15c00f931c3e64f4d1b49f180d03250e"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (2).jpg",
+      "bytes": 37002,
+      "sha256": "06591b0100f07f9356b29332314dac27c051d0b08508145ac451c660b0a92a0f"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (2).png",
+      "bytes": 54006,
+      "sha256": "de7420b05a5039324a9fb592ebb38620343607da71cb9862edc17d53eb425075"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (3).png",
+      "bytes": 75417,
+      "sha256": "25cf6cbf64cc16ee01105c8fce67870b9fa368d00663aa48cbbd29396f874895"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A00/QC14A00 (3).jpg",
+      "bytes": 72915,
+      "sha256": "f4b8bb7d124515f36656d45a1f89d32011fe0338f94ba5d8c5bb6795b6963f09"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B03/QC12B03 (1).jpg",
+      "bytes": 116209,
+      "sha256": "d1d1f5e7d931234c8415d89d53b98c3020134e7b77e4ac826429047be7278fff"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B03/QC12B03 (2).jpg",
+      "bytes": 177700,
+      "sha256": "12866ace3a41104f85b175406b7cc513b0cb69c4cdae866891e71fda3c4d8221"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B03/QC12B03 (3).jpg",
+      "bytes": 230540,
+      "sha256": "3168204021e58f1da52760b45c5b67580064d6209cd067eb8bcecf87b18ab991"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B02/QC12B02 (1).jpg",
+      "bytes": 123173,
+      "sha256": "15f04f37ce39122b2e8f43db2faf88d8e0506044d94ed8e6942ada600a05d324"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B02/QC12B02 (3).jpg",
+      "bytes": 117629,
+      "sha256": "926d0830b397efb8f6004a1477b453f7a778adeb2ebda6016890d45aebf08921"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B02/QC12B02 (2).jpg",
+      "bytes": 114540,
+      "sha256": "bc63aba7ffa5cfa9e3244bdbe637f2dcee6adead87ba1ddaa2f7847cfa221a43"
+    },
+    {
+      "path": "Machine Vision Cables/QC12B02/QC12B02 (4).jpg",
+      "bytes": 67582,
+      "sha256": "318357d3b13505d6424002299701ad79bba85eed561d71bb70cae520ca69438b"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A01/QC14A01.jpg",
+      "bytes": 48374,
+      "sha256": "b1f2103782cea0fb05b906df7a8b991677ba97cd948498bb362e6ab83882b05b"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A01/QC14A01 (3).jpg",
+      "bytes": 181109,
+      "sha256": "5fee2c9e25a1680a4f42467c2a5fc434aee529f9400e8630e9600f893d9ffd58"
+    },
+    {
+      "path": "Machine Vision Cables/QC14A01/QC14A01 (2).jpg",
+      "bytes": 365146,
+      "sha256": "d687b53047210f832740c082ceb1e87352c6cd253e6464a8c19140cc2579615c"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A00/QC10A00 (8).jpg",
+      "bytes": 227406,
+      "sha256": "16dc354ed10d6ac6fde7b50bf30639c72a24caafd4205ec3d362870013ce814f"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A00/QC10A00 (4).jpg",
+      "bytes": 44256,
+      "sha256": "3c25c075771aa11c91d3a385d3b7644afa7291ce4ac21b246a97eeb33126e219"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A00/QC10A00 (5).jpg",
+      "bytes": 33644,
+      "sha256": "ff22640b21cb54b34e86cd7ebe696f6ebe07ce6ca80618b87a2432eec5599102"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A00/QC10A00 (9).jpg",
+      "bytes": 391507,
+      "sha256": "397abefd5985963d0f582d269b6f9cff128c6ea300a453919c2e32891b535691"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A00/QC10A00.jpg",
+      "bytes": 37452,
+      "sha256": "4fdbaedb87d8009d8bb3a65e370397581a483bcef1fe21bde6a691e17e1dcc65"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A00/QC10A00 (3).jpg",
+      "bytes": 97758,
+      "sha256": "ecb002bab1021c99e1be61106e5894093265e8f20d75fe5e25bd0d36994c05cf"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A00/QC10A00 (10).jpg",
+      "bytes": 602069,
+      "sha256": "3396fecc347758608a8179757cdaadbec6090ea47cfe74e5032fb0e6648086da"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A00/QC10A00 (6).jpg",
+      "bytes": 119423,
+      "sha256": "b74aa73955181216eadf261cc98a1c1878230f0681880baaa051c1dabce81548"
+    },
+    {
+      "path": "Machine Vision Cables/QC10A00/QC10A00 (7).jpg",
+      "bytes": 263861,
+      "sha256": "3bab9671fe42359fc3e1fd5124f0261878dce17849718ef2c0c9336b0d79f1b7"
+    },
+    {
+      "path": "Industrial Display Cables/QC62A00/QC62A00 (1).png",
+      "bytes": 1565991,
+      "sha256": "e798300e961119422800a58165f5c888386e7d2be1cd10cc02e6e9c5929e9933"
+    },
+    {
+      "path": "Industrial Display Cables/QC62A00/QC62A00 (5).png",
+      "bytes": 2027509,
+      "sha256": "9615ff7a0e8551faa0b6f2e6918403fe37521e4657f37674eb19b622d3e565e1"
+    },
+    {
+      "path": "Industrial Display Cables/QC62A00/QC62A00 (4).png",
+      "bytes": 2045370,
+      "sha256": "215216f3c07bc2f1dd593f7823b69cff9f730abf3a3f6cd9da4a17ecb9c58d29"
+    },
+    {
+      "path": "Industrial Display Cables/QC62A00/QC62A00 (3).png",
+      "bytes": 2212721,
+      "sha256": "747ff7cf62d63c46e52ce51063476f6bc36ca76f2fb94f28b3875c832fa8ed80"
+    },
+    {
+      "path": "Industrial Display Cables/QC62A00/QC62A00 (2).png",
+      "bytes": 1780239,
+      "sha256": "3ffed868ef8354ddac7c32a95d048966c768dea66863bda5e0f36ba3417b95d8"
+    },
+    {
+      "path": "Industrial Display Cables/QC62A01/QC62A01 (1).png",
+      "bytes": 1745837,
+      "sha256": "b59d1dc4b891d8ea151bbc773a0c3fabf5a0371b292b6af6bff56df39adca266"
+    },
+    {
+      "path": "Industrial Display Cables/QC62A01/QC62A01 (4).png",
+      "bytes": 1651385,
+      "sha256": "98dbeddd19769cc109a2bbe43ffc8a5c580337ec9f93c2453dc65c186305d1d4"
+    },
+    {
+      "path": "Industrial Display Cables/QC62A01/QC62A01 (5).png",
+      "bytes": 1988618,
+      "sha256": "ecc5f566509ecf82eb3a9ebcbd5a2b6f8170f8c79db4010843604e8871094bcf"
+    },
+    {
+      "path": "Industrial Display Cables/QC62A01/QC62A01 (2).png",
+      "bytes": 2314075,
+      "sha256": "be75cf4a3c16d47f162b13eff24884cd963ee277d32153ca8b5001e22bc9de69"
+    },
+    {
+      "path": "Industrial Display Cables/QC62A01/QC62A01 (3).png",
+      "bytes": 1660429,
+      "sha256": "9cf147649e75313271044f96784400ae8c63a4218452ac1ad63d8ff1d2d577fc"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B00/QC62B00 (3).jpg",
+      "bytes": 534542,
+      "sha256": "261788a046f679fd3cb4d42417d9ec846d6b834dc498efbd80e03db4cb03b065"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B00/QC62B00 (2).jpg",
+      "bytes": 668228,
+      "sha256": "63e95e9beee8efc135f61d0a11cf440e2bad426cb920f3e59eff38d779d873f2"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B00/QC62B00 (4).jpg",
+      "bytes": 665798,
+      "sha256": "b3b3d5d8d2a01ed5f7c733d443aa907767e8269d658946da2900d96cda66a0b1"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B00/QC62B00 (1).jpg",
+      "bytes": 665789,
+      "sha256": "bec341a5ff7ba062145e296758f57771924da75dd8b302f36d1a6644bde335cb"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B01/QC62B01 (3).png",
+      "bytes": 1333874,
+      "sha256": "4ee100aab9a96bb1fe6b2c7532033c7e8a931fa4140a4f37aea6b7f9a737fbdc"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B01/QC62B01 (4).png",
+      "bytes": 1288940,
+      "sha256": "0bf719fa35fd223891841400eb343e13ef0f6a7a9b23c8a428d0322343fe8c8d"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B01/QC62B01.png",
+      "bytes": 1408507,
+      "sha256": "7bbbc0591194b298bb37544585ea01800ad9bdc2ec6882fd90ec486345792493"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B01/QC62B01 (1).png",
+      "bytes": 1423241,
+      "sha256": "679c032656e479551479f6f004eefdc516e4612643451800e242dd2298727402"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B01/QC62B01 (1).jpg",
+      "bytes": 461647,
+      "sha256": "0f2f8da28ca3043ee81e7fb9219e72a7d71fb5d76e7e1949a1606cd4c4efe66f"
+    },
+    {
+      "path": "Industrial Display Cables/QC60C00/QC60C00 (3).jpg",
+      "bytes": 148826,
+      "sha256": "29910162922383c12901928b647874984205d0e42ba1da1600d023024e60dc64"
+    },
+    {
+      "path": "Industrial Display Cables/QC60C00/QC60C00 (2).jpg",
+      "bytes": 201985,
+      "sha256": "52d10aa90591d4cad1bc3832efe04f15b35cac1b63c3630cbf2ba8d926d8168a"
+    },
+    {
+      "path": "Industrial Display Cables/QC60C00/QC60C00 (5).jpg",
+      "bytes": 152803,
+      "sha256": "79111dd7dc85a97f27d3781304a974cbea8b1023802d16f11afef8e98a781c9e"
+    },
+    {
+      "path": "Industrial Display Cables/QC60C00/QC60C00 (4).jpg",
+      "bytes": 135306,
+      "sha256": "77d47e765a17b069d507d7b03b6003e141465f03363aab4c9caae4e8306871c1"
+    },
+    {
+      "path": "Industrial Display Cables/QC60C00/QC60C00 (1).jpg",
+      "bytes": 125827,
+      "sha256": "92eabb47121fac9951115ffac576f71e8209af5858ed378b0d9bcae1a6d47527"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C00/QC61C00.jpg",
+      "bytes": 168920,
+      "sha256": "01a956ba7f65ef9128b18090fd513e73e68a54f42deb58350ac06ccc212ef5db"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C00/QC61C00 (1).png",
+      "bytes": 1861988,
+      "sha256": "19f0a091f890a497fdaa104ad7987f4cc2fcfd931d6aeec882dae6cd42c5874c"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C00/QC61C00 (2).jpg",
+      "bytes": 221539,
+      "sha256": "38bce09953e8ba4f4dbfb52b44005fd84e0ae1e6efaf7e1621a4d9e7b42bea00"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C00/QC61C00 (3).jpg",
+      "bytes": 252166,
+      "sha256": "5e3f5318f7a9888cb7ff33732f66b3f4f23243f2ccc7cf53fa338983ed451677"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C00/QC61C00 (4).jpg",
+      "bytes": 236350,
+      "sha256": "812446a67229490681739f8c9e86c34a2f9c236c463ef1b8f58182461e2c5068"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C00/QC61C00 (5).jpg",
+      "bytes": 433751,
+      "sha256": "3d12b7c5e531ff8e88650c744cf5e9f39c93f2f06d80ccff98d188080b4e50bc"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C01/QC61C01 (7).jpg",
+      "bytes": 281204,
+      "sha256": "3f164cb0e3c4da882e0218e98e7857c2844e1346e3bc007acf9150693415091c"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C01/QC61C01 (6).jpg",
+      "bytes": 258998,
+      "sha256": "47a4548facfaa8302a457f7f698c51b53e5897a9ec13ef688282dbe3b27d7b39"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C01/QC61C01 (1).jpg",
+      "bytes": 231559,
+      "sha256": "e3afb51d9e3c6dbf93fc8c525a0436a1db74ba3127c959526054faefc9cb03f6"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C01/QC61C01 (3).jpg",
+      "bytes": 284363,
+      "sha256": "a879ffcd53f3282b4587facac571446481e4db5da07c9a5ae3221c16633e08dd"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C01/QC61C01 (2).jpg",
+      "bytes": 355867,
+      "sha256": "d12d45dcd59be50216f4a9ea238591e10b45a168ed3d36d3244fc7ba2fbef64f"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C01/QC61C01 (5).jpg",
+      "bytes": 289856,
+      "sha256": "917bfb086a1217f884090194ac9d57bf357d04ea1eabe18281ab359e149d1c47"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C01/QC61C01 (4).jpg",
+      "bytes": 294844,
+      "sha256": "cfcdc9fece0f7e45d0e694dba1879de577c4f3c4c016b83f1a3d0042799957f1"
+    },
+    {
+      "path": "Industrial Display Cables/QC62C00/QC62C00 (4).jpg",
+      "bytes": 54112,
+      "sha256": "4124d099c69b57f1fd1ec02fee07457e3faf4f25851f52a3e69001c0937f3bdc"
+    },
+    {
+      "path": "Industrial Display Cables/QC62C00/QC62C00 (3).png",
+      "bytes": 1435040,
+      "sha256": "8a6358eb5f82b428d43c5c45b3265ed38216bcc3a7de8aa478d6c6e70c50ebf5"
+    },
+    {
+      "path": "Industrial Display Cables/QC62C00/QC62C00 (2).png",
+      "bytes": 1297500,
+      "sha256": "82871f4d98185d772d3663a271ce96eb56f1799767278cdbaae7386c42b61407"
+    },
+    {
+      "path": "Industrial Display Cables/QC62C00/QC62C00 (1).png",
+      "bytes": 1387572,
+      "sha256": "34d78c90b6968fa0e328f6abf21a48012810829587a256c23bdf09c4cd6cd113"
+    },
+    {
+      "path": "Industrial Display Cables/QC60B00/QC60B00 (5).jpg",
+      "bytes": 761608,
+      "sha256": "05b9839497e8286f08d637dfbc9073ea0d969851423aa8e95efa676b011824d2"
+    },
+    {
+      "path": "Industrial Display Cables/QC60B00/QC60B00 (4).jpg",
+      "bytes": 190109,
+      "sha256": "afec5a7ac9b31fbbd9615d9f6a4cd00e1951415f78803e433d700c785a9c1b43"
+    },
+    {
+      "path": "Industrial Display Cables/QC60B00/QC60B00 (3).jpg",
+      "bytes": 274802,
+      "sha256": "07f0dd21ea4f0df805c2c084d8b85fe6fdf2f26a386129bc572e6ce4e6fb58a1"
+    },
+    {
+      "path": "Industrial Display Cables/QC60B00/QC60B00 (2).jpg",
+      "bytes": 172019,
+      "sha256": "3d79eb4cd714489d93bd35de8d1b9bec1ca82eac2a0bff88624203fa1062da30"
+    },
+    {
+      "path": "Industrial Display Cables/QC60B00/QC60B00 (1).jpg",
+      "bytes": 69652,
+      "sha256": "94dda2ad189a5eba53f33a00c4b56d42a3ed4a181cdcd6e0a941d162a005ca7a"
+    },
+    {
+      "path": "Industrial Display Cables/QC60B00/QC60B00 (6).jpg",
+      "bytes": 774437,
+      "sha256": "727f8a1a8f320a1c20859afe99c7ececa7c1bc9d8fa8b8d0e728720bb77646c0"
+    },
+    {
+      "path": "Industrial Display Cables/QC62C01/QC62C01 (4).jpg",
+      "bytes": 54112,
+      "sha256": "4124d099c69b57f1fd1ec02fee07457e3faf4f25851f52a3e69001c0937f3bdc"
+    },
+    {
+      "path": "Industrial Display Cables/QC62C01/QC62C01 (2).png",
+      "bytes": 1697962,
+      "sha256": "a528c8a27bdd73684c0b03f7216248d74f41ff705e05a15fea89e9b0cbdc0567"
+    },
+    {
+      "path": "Industrial Display Cables/QC62C01/QC62C01 (3).png",
+      "bytes": 1643222,
+      "sha256": "047c913d22ca6ac74ab0f2b7eca02992e7d7d737cdfd27f54e0e9ec5c7b3075d"
+    },
+    {
+      "path": "Industrial Display Cables/QC62C01/QC62C01 (1).png",
+      "bytes": 1733665,
+      "sha256": "764a9ebdc053a06cba7283daf4b74787ca3c4501a9559b794fabf806b6329c0a"
+    },
+    {
+      "path": "Industrial Display Cables/QC61B00/QC61B00 (1).jpg",
+      "bytes": 101895,
+      "sha256": "e650e04f8792d49b28cf7ed4e35dc351b533efc7df1aeaf1db9b9a27b60433b8"
+    },
+    {
+      "path": "Industrial Display Cables/QC61B00/QC61B00 (4).jpg",
+      "bytes": 176526,
+      "sha256": "cb5df12afead9db1b9658c6465d6245190b74004051da0ae8962096ebccdf5f6"
+    },
+    {
+      "path": "Industrial Display Cables/QC61B00/QC61B00 (2).jpg",
+      "bytes": 98362,
+      "sha256": "1cb530a0d1df3848f18ffbc3f94961b27706a246d59a918fdae817a941a531bd"
+    },
+    {
+      "path": "Industrial Display Cables/QC61B00/QC61B00 (3).jpg",
+      "bytes": 150934,
+      "sha256": "b673a5f2b7ddead18a364b8646bd4d014d045a8dad0a0c6821bd8963260e42db"
+    },
+    {
+      "path": "Industrial Display Cables/QC60A00/QC60A00 (7).jpg",
+      "bytes": 163501,
+      "sha256": "bc6d8f35df77f974c0ce834f02c34bbb71ff94f9b8e450e6b35b6a3007467e2b"
+    },
+    {
+      "path": "Industrial Display Cables/QC60A00/QC60A00 (6).jpg",
+      "bytes": 146848,
+      "sha256": "74a595a25254726c1c3ae040f2eef381e54bed198287c871cffc1cd983a8e99c"
+    },
+    {
+      "path": "Industrial Display Cables/QC60A00/QC60A00 (1).png",
+      "bytes": 349268,
+      "sha256": "5aab502125109c890f212e387a892a587ff43fea4d104bedaac4d5cecd0d7240"
+    },
+    {
+      "path": "Industrial Display Cables/QC60A00/QC60A00 (3).jpg",
+      "bytes": 103864,
+      "sha256": "435f17f7d13af58163c6675d548607341baaf315ea88be789f315e986c5a3315"
+    },
+    {
+      "path": "Industrial Display Cables/QC60A00/QC60A00 (2).png",
+      "bytes": 459761,
+      "sha256": "e1b6c00adee83f30b7fe2352469fc602a9c2002cce227d8a2a4431ad7769a71a"
+    },
+    {
+      "path": "Industrial Display Cables/QC60A00/QC60A00 (5).jpg",
+      "bytes": 270670,
+      "sha256": "d1830b11229d6465d98e826f4913afae90ec46d852f5475f4f5efa9f2b809c5a"
+    },
+    {
+      "path": "Industrial Display Cables/QC60A00/QC60A00 (4).jpg",
+      "bytes": 141826,
+      "sha256": "5d651f7a0d19886d772236b72e123fb04877f07f17044ec0410ba9ed8c123d0b"
+    },
+    {
+      "path": "Industrial Display Cables/QC60A00/QC60A00 (8).jpg",
+      "bytes": 82424,
+      "sha256": "eac78e13852d7499fdd1b5895932a0db870b4fa78af5f82a670cac3a6e7ac825"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B02/QC62B02 (4).jpg",
+      "bytes": 354639,
+      "sha256": "802488f8b44754c6963b44e12552a576ab2a446557de5bc42e735af6597fae02"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B02/QC62B02 (5).jpg",
+      "bytes": 199868,
+      "sha256": "dc3f6d5dd63fb27cb6ec1c31074822101615b46649e151bf22b703f458cfb7f6"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B02/QC62B02 (2).jpg",
+      "bytes": 85580,
+      "sha256": "8f6e6e2ad0eac5c48e9166b00c33c15474e3c96cb1f4bc9deb98fe3ec02ba5c0"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B02/QC62B02 (3).jpg",
+      "bytes": 429881,
+      "sha256": "47e31c92df8f418fe548be3ac27bf631b48b0b43d5a48ee391ea200708585cd1"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B02/QC62B02 (1).jpg",
+      "bytes": 130069,
+      "sha256": "a5c13b944cb29dfa7ef3ffca6242567436f05a06084eff1da866bdd696c61d21"
+    },
+    {
+      "path": "Industrial Display Cables/QC62B02/QC62B02 (6).jpg",
+      "bytes": 392455,
+      "sha256": "b96fb9264b00a73bb6512740eaeef4c2c7c99678ee186eb1d61f1d37a42c73f5"
+    },
+    {
+      "path": "Industrial Display Cables/QC61A00/QC61A00 (2).jpg",
+      "bytes": 47191,
+      "sha256": "067b00a85c82559755a5a4666093a6059e386db28fe5f41cc35746bd36961528"
+    },
+    {
+      "path": "Industrial Display Cables/QC61A00/QC61A00 (3).jpg",
+      "bytes": 45733,
+      "sha256": "c4eb8b8f65eb80b339ad9f85e4cab375d8c6d10c8228c3c35818c5db1509a4e4"
+    },
+    {
+      "path": "Industrial Display Cables/QC61A00/QC61A00 (4).jpg",
+      "bytes": 46181,
+      "sha256": "d003a7f0dcfc82994633844b3245df56608d8ca79aba355f7d02b2d75028fdf7"
+    },
+    {
+      "path": "Industrial Display Cables/QC61A00/QC61A00 (1).jpeg",
+      "bytes": 165423,
+      "sha256": "765cceb6d44760b189bccca34b019962acc361ac9582125c682ebba085046772"
+    },
+    {
+      "path": "Industrial Display Cables/QC61A00/QC61A00 (1).jpg",
+      "bytes": 19044,
+      "sha256": "0d64f0763755361b0283d35e5935274ab74e2a365d6efdb667921271850f1960"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C02/QC61C02 (1).jpg",
+      "bytes": 96953,
+      "sha256": "fb5b15c7948b9721da26c85df01071b73c1481cccd230d94888eebebe4317b1e"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C02/QC61C02 (3).jpg",
+      "bytes": 51172,
+      "sha256": "148a46c228f08c0753fff7f9a7472b68dac91df410e526e89b8882034811314e"
+    },
+    {
+      "path": "Industrial Display Cables/QC61C02/QC61C02 (2).jpg",
+      "bytes": 29608,
+      "sha256": "bf87f7e487b8921bf94c9b6d1c131b5f6c0096de4eb9ab9ea9af038c6b419389"
+    }
+  ],
+  "oldProducts": [
+    {
+      "model": "FS30A00",
+      "slug": "fs30a00",
+      "category": "machine-vision",
+      "name": "RJ45 to RJ45 Screw-Lock GigE Camera Cable",
+      "interface": "GigE",
+      "connectorA": "RJ45",
+      "connectorB": "RJ45",
+      "mounting": "Straight; screw lock",
+      "lengths": [
+        "3",
+        "5",
+        "10"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs30a00-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "2"
+    },
+    {
+      "model": "FS30A01",
+      "slug": "fs30a01",
+      "category": "machine-vision",
+      "name": "Angled RJ45 Screw-Lock GigE Camera Cable",
+      "interface": "GigE",
+      "connectorA": "RJ45",
+      "connectorB": "RJ45",
+      "mounting": "Angled; screw lock",
+      "lengths": [
+        "3",
+        "5",
+        "10"
+      ],
+      "featured": false,
+      "images": [
+        "/assets/products/fs30a01-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "3"
+    },
+    {
+      "model": "FS30A04",
+      "slug": "fs30a04",
+      "category": "machine-vision",
+      "name": "RJ45 to RJ45 10GigE Camera Cable",
+      "interface": "10GigE",
+      "connectorA": "RJ45",
+      "connectorB": "RJ45",
+      "mounting": "Straight; screw lock",
+      "lengths": [
+        "3",
+        "5",
+        "10"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs30a04.webp",
+        "/assets/products/fs30a04-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/10gige-vision-cable-cat6a-sftp-rj45-rj45-straight-screw-lock.html",
+      "reviewStatus": "draft",
+      "sourceRow": "6"
+    },
+    {
+      "model": "FS30A05",
+      "slug": "fs30a05",
+      "category": "machine-vision",
+      "name": "RJ45 to M12 X-Coded Camera Cable",
+      "interface": "10GigE",
+      "connectorA": "RJ45",
+      "connectorB": "M12 X-coded 8-pin",
+      "mounting": "Threaded",
+      "lengths": [
+        "3",
+        "5",
+        "10"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs30a05.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/10gige-vision-cable-cat6a-rj45-to-m12-x-type-8p-screw-lock.html",
+      "reviewStatus": "draft",
+      "sourceRow": "7"
+    },
+    {
+      "model": "FS30B00",
+      "slug": "fs30b00",
+      "category": "machine-vision",
+      "name": "MDR to MDR Camera Link Cable",
+      "interface": "Camera Link",
+      "connectorA": "MDR",
+      "connectorB": "MDR",
+      "mounting": "Screw lock",
+      "lengths": [
+        "3",
+        "5",
+        "8",
+        "10"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs30b00-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "8"
+    },
+    {
+      "model": "FS30B01",
+      "slug": "fs30b01",
+      "category": "machine-vision",
+      "name": "MDR to SDR Camera Link Cable",
+      "interface": "Camera Link",
+      "connectorA": "MDR",
+      "connectorB": "SDR",
+      "mounting": "Screw lock",
+      "lengths": [
+        "3",
+        "5",
+        "8",
+        "10"
+      ],
+      "featured": false,
+      "images": [
+        "/assets/products/fs30b01-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "9"
+    },
+    {
+      "model": "FS30C00",
+      "slug": "fs30c00",
+      "category": "machine-vision",
+      "name": "USB 3.0 Type-A to Micro-B Screw-Lock Camera Cable",
+      "interface": "USB3 Vision",
+      "connectorA": "USB Type-A",
+      "connectorB": "Micro-B",
+      "mounting": "Screw lock",
+      "lengths": [
+        "3",
+        "5"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs30c00.webp",
+        "/assets/products/fs30c00-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/usb-3-camera-cable-type-a-to-micro-b-with-m2-screw-lock-5gbps.html",
+      "reviewStatus": "draft",
+      "sourceRow": "13"
+    },
+    {
+      "model": "FS30D00",
+      "slug": "fs30d00",
+      "category": "machine-vision",
+      "name": "BNC to BNC CoaXPress Cable",
+      "interface": "CoaXPress",
+      "connectorA": "BNC",
+      "connectorB": "BNC",
+      "mounting": "Coaxial",
+      "lengths": [
+        "3",
+        "5",
+        "10",
+        "15"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs30d00.webp",
+        "/assets/products/fs30d00-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/camera-cable-coaxial-75-bnc-bnc-for-high-speed-machine-vision.html",
+      "reviewStatus": "draft",
+      "sourceRow": "14"
+    },
+    {
+      "model": "FS30D05",
+      "slug": "fs30d05",
+      "category": "machine-vision",
+      "name": "HD-BNC to HD-BNC CoaXPress Cable",
+      "interface": "CoaXPress",
+      "connectorA": "HD-BNC",
+      "connectorB": "HD-BNC",
+      "mounting": "Coaxial",
+      "lengths": [
+        "3",
+        "5",
+        "10",
+        "15"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs30d05.webp",
+        "/assets/products/fs30d05-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/coaxpress-camera-cable-hd-bnc-to-hd-bnc-cxp-12-12-5gbps.html",
+      "reviewStatus": "draft",
+      "sourceRow": "19"
+    },
+    {
+      "model": "FS30E00",
+      "slug": "fs30e00",
+      "category": "machine-vision",
+      "name": "Camera Power and I/O Cable",
+      "interface": "Camera I/O",
+      "connectorA": "HR10A-7P-6S",
+      "connectorB": "I/O",
+      "mounting": "Circular",
+      "lengths": [
+        "3",
+        "5",
+        "10"
+      ],
+      "featured": false,
+      "images": [
+        "/assets/products/fs30e00.webp",
+        "/assets/products/fs30e00-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/hr10a-7p-6s-industrial-i-o-cable-7-pin-hirose-fixed-high-flex.html",
+      "reviewStatus": "draft",
+      "sourceRow": "21"
+    },
+    {
+      "model": "FS33A00",
+      "slug": "fs33a00",
+      "category": "industrial-ethernet",
+      "name": "RJ45 to RJ45 Industrial Ethernet Cable",
+      "interface": "Ethernet",
+      "connectorA": "RJ45",
+      "connectorB": "RJ45",
+      "mounting": "Straight",
+      "lengths": [
+        "1",
+        "3",
+        "5"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs33a00.webp",
+        "/assets/products/fs33a00-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/industrial-cat5e-sf-utp-rj45-rj45-shielded-ethernet-cable.html",
+      "reviewStatus": "draft",
+      "sourceRow": "2"
+    },
+    {
+      "model": "FS33A01",
+      "slug": "fs33a01",
+      "category": "industrial-ethernet",
+      "name": "RJ45 to M12 D-Coded Industrial Ethernet Cable",
+      "interface": "Ethernet",
+      "connectorA": "RJ45",
+      "connectorB": "M12 D-coded 4-pin",
+      "mounting": "Threaded",
+      "lengths": [
+        "1",
+        "3",
+        "5"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs33a01.webp",
+        "/assets/products/fs33a01-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/industrial-cat5e-sf-utp-rj45-to-m12-d-code-4-pin-high-flex-cable.html",
+      "reviewStatus": "draft",
+      "sourceRow": "3"
+    },
+    {
+      "model": "FS33A02",
+      "slug": "fs33a02",
+      "category": "industrial-ethernet",
+      "name": "M12 D-Coded to M12 D-Coded Industrial Ethernet Cable",
+      "interface": "Ethernet",
+      "connectorA": "M12 D-coded 4-pin",
+      "connectorB": "M12 D-coded 4-pin",
+      "mounting": "Threaded",
+      "lengths": [
+        "1",
+        "3",
+        "5"
+      ],
+      "featured": false,
+      "images": [
+        "/assets/products/fs33a02.webp",
+        "/assets/products/fs33a02-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/industrial-cat5e-sf-utp-m12-d-code-male-male-ethernet-cable.html",
+      "reviewStatus": "draft",
+      "sourceRow": "4"
+    },
+    {
+      "model": "FS33B00",
+      "slug": "fs33b00",
+      "category": "industrial-ethernet",
+      "name": "RJ45 to RJ45 Industrial Ethernet Cable",
+      "interface": "Ethernet",
+      "connectorA": "RJ45",
+      "connectorB": "RJ45",
+      "mounting": "Straight",
+      "lengths": [
+        "1",
+        "3",
+        "5"
+      ],
+      "featured": false,
+      "images": [
+        "/assets/products/fs33b00.webp",
+        "/assets/products/fs33b00-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/industrial-cat6a-s-ftp-rj45-rj45-10gbps-high-flex-cable.html",
+      "reviewStatus": "draft",
+      "sourceRow": "5"
+    },
+    {
+      "model": "FS34A00",
+      "slug": "fs34a00",
+      "category": "m8-m12",
+      "name": "M12 A-Coded 4-Pin Male to Open-End Sensor Cable",
+      "interface": "M12",
+      "connectorA": "M12 A-coded 4-pin male",
+      "connectorB": "Open end",
+      "mounting": "Threaded",
+      "lengths": [],
+      "featured": true,
+      "images": [
+        "/assets/products/fs34a00.webp",
+        "/assets/products/fs34a00-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/m12-a-code-4-pin-male-to-open-wires-cable.html",
+      "reviewStatus": "draft",
+      "sourceRow": "2"
+    },
+    {
+      "model": "FS34A04",
+      "slug": "fs34a04",
+      "category": "m8-m12",
+      "name": "M12 A-Coded 4-Pin Male to Female Sensor Cable",
+      "interface": "M12",
+      "connectorA": "M12 A-coded 4-pin male",
+      "connectorB": "M12 A-coded 4-pin female",
+      "mounting": "Threaded",
+      "lengths": [],
+      "featured": false,
+      "images": [
+        "/assets/products/fs34a04.webp",
+        "/assets/products/fs34a04-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/m12-a-code-4-pin-male-to-female-straight-cable.html",
+      "reviewStatus": "draft",
+      "sourceRow": "6"
+    },
+    {
+      "model": "FS34A05",
+      "slug": "fs34a05",
+      "category": "m8-m12",
+      "name": "M12 A-Coded 5-Pin Male to Open-End Sensor Cable",
+      "interface": "M12",
+      "connectorA": "M12 A-coded 5-pin male",
+      "connectorB": "Open end",
+      "mounting": "Threaded",
+      "lengths": [],
+      "featured": false,
+      "images": [
+        "/assets/products/fs34a05.webp",
+        "/assets/products/fs34a05-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/m12-a-code-5-pin-male-to-open-wires-straight-cable.html",
+      "reviewStatus": "draft",
+      "sourceRow": "7"
+    },
+    {
+      "model": "FS34B00",
+      "slug": "fs34b00",
+      "category": "m8-m12",
+      "name": "M8 3-Pin Male to Open-End Sensor Cable",
+      "interface": "M8",
+      "connectorA": "M8 3-pin male",
+      "connectorB": "Open end",
+      "mounting": "Threaded",
+      "lengths": [],
+      "featured": true,
+      "images": [
+        "/assets/products/fs34b00.webp",
+        "/assets/products/fs34b00-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/m8-a-code-3-pin-male-to-open-wires-straight-cable.html",
+      "reviewStatus": "draft",
+      "sourceRow": "12"
+    },
+    {
+      "model": "FS34B03",
+      "slug": "fs34b03",
+      "category": "m8-m12",
+      "name": "M8 4-Pin Male to Open-End Sensor Cable",
+      "interface": "M8",
+      "connectorA": "M8 4-pin male",
+      "connectorB": "Open end",
+      "mounting": "Threaded",
+      "lengths": [],
+      "featured": false,
+      "images": [
+        "/assets/products/fs34b03.webp",
+        "/assets/products/fs34b03-1.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/m8-a-code-4-pin-male-to-open-wires-straight-cable.html",
+      "reviewStatus": "draft",
+      "sourceRow": "15"
+    },
+    {
+      "model": "FS32A02",
+      "slug": "fs32a02",
+      "category": "industrial-communication",
+      "name": "USB to RS232 Serial Cable",
+      "interface": "RS232",
+      "connectorA": "USB Type-A",
+      "connectorB": "RS232 male",
+      "mounting": "Serial",
+      "lengths": [
+        "1.8"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs32a02-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "3"
+    },
+    {
+      "model": "FS32A05",
+      "slug": "fs32a05",
+      "category": "industrial-communication",
+      "name": "USB-C to RS232 Serial Cable",
+      "interface": "RS232",
+      "connectorA": "USB Type-C",
+      "connectorB": "RS232 male",
+      "mounting": "Serial",
+      "lengths": [
+        "1.8"
+      ],
+      "featured": false,
+      "images": [
+        "/assets/products/fs32a05-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "4"
+    },
+    {
+      "model": "FS32B00",
+      "slug": "fs32b00",
+      "category": "industrial-communication",
+      "name": "USB to RS485 and RS422 Serial Cable",
+      "interface": "RS485 / RS422",
+      "connectorA": "USB",
+      "connectorB": "RS485 / RS422",
+      "mounting": "Serial",
+      "lengths": [
+        "1.8"
+      ],
+      "featured": true,
+      "images": [
+        "/assets/products/fs32b00.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/product/usb-to-rs485-rs422-serial-port-converter-adapter-cable.html",
+      "reviewStatus": "draft",
+      "sourceRow": "8"
+    },
+    {
+      "model": "FS32C00",
+      "slug": "fs32c00",
+      "category": "industrial-communication",
+      "name": "USB to RJ45 Console Cable",
+      "interface": "Console",
+      "connectorA": "USB",
+      "connectorB": "RJ45 8P8C",
+      "mounting": "Console",
+      "lengths": [
+        "1.8"
+      ],
+      "featured": false,
+      "images": [
+        "/assets/products/fs32c00.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/usb-a-to-rj45-console-cable-network-switch-router-console-lead.html",
+      "reviewStatus": "draft",
+      "sourceRow": "10"
+    },
+    {
+      "model": "FS38A03",
+      "slug": "fs38a03",
+      "category": "industrial-communication",
+      "name": "DB9 Male to Male Industrial D-Sub Cable",
+      "interface": "D-Sub",
+      "connectorA": "DB9 male",
+      "connectorB": "DB9 male",
+      "mounting": "Metal housing",
+      "lengths": [
+        "1.5"
+      ],
+      "featured": false,
+      "images": [
+        "/assets/products/fs38a03.webp"
+      ],
+      "sourceUrl": "https://www.farsince.com/db9-male-to-male-rs232-cable-die-cast-metal-shells.html",
+      "reviewStatus": "draft",
+      "sourceRow": "25"
+    },
+    {
+      "model": "FS11A02",
+      "slug": "fs11a02",
+      "category": "industrial-display",
+      "name": "HDMI Cable for Equipment Display Connections",
+      "interface": "HDMI",
+      "connectorA": "HDMI",
+      "connectorB": "HDMI",
+      "mounting": "Display",
+      "lengths": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7.5",
+        "10"
+      ],
+      "featured": false,
+      "images": [
+        "/assets/products/fs11a02-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "2"
+    },
+    {
+      "model": "FS12A03",
+      "slug": "fs12a03",
+      "category": "industrial-display",
+      "name": "DisplayPort Cable for Equipment Display Connections",
+      "interface": "DisplayPort",
+      "connectorA": "DisplayPort",
+      "connectorB": "DisplayPort",
+      "mounting": "Display",
+      "lengths": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7.5",
+        "10"
+      ],
+      "featured": false,
+      "images": [
+        "/assets/products/fs12a03-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "7"
+    },
+    {
+      "model": "FS37B03",
+      "slug": "fs37b03",
+      "category": "panel-mount",
+      "name": "HDMI Male to Female Panel Mount Cable",
+      "interface": "HDMI",
+      "connectorA": "HDMI male",
+      "connectorB": "HDMI female",
+      "mounting": "Panel mount",
+      "lengths": [],
+      "featured": true,
+      "images": [
+        "/assets/products/fs37b03-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "5"
+    },
+    {
+      "model": "FS37F01",
+      "slug": "fs37f01",
+      "category": "panel-mount",
+      "name": "USB-C Male to Female Panel Mount Cable",
+      "interface": "USB-C",
+      "connectorA": "USB Type-C male",
+      "connectorB": "USB Type-C female",
+      "mounting": "Panel mount",
+      "lengths": [],
+      "featured": true,
+      "images": [
+        "/assets/products/fs37f01-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "22"
+    },
+    {
+      "model": "FS37G00",
+      "slug": "fs37g00",
+      "category": "panel-mount",
+      "name": "USB-C Panel Mount Extension Cable",
+      "interface": "USB-C",
+      "connectorA": "USB Type-C",
+      "connectorB": "USB Type-C",
+      "mounting": "Panel mount",
+      "lengths": [],
+      "featured": false,
+      "images": [
+        "/assets/products/fs37g00-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "30"
+    },
+    {
+      "model": "FS37H01",
+      "slug": "fs37h01",
+      "category": "panel-mount",
+      "name": "RJ45 Male to Female Panel Mount Cable",
+      "interface": "RJ45",
+      "connectorA": "RJ45 male",
+      "connectorB": "RJ45 female",
+      "mounting": "Panel mount",
+      "lengths": [],
+      "featured": false,
+      "images": [
+        "/assets/products/fs37h01-source.png"
+      ],
+      "sourceUrl": null,
+      "reviewStatus": "draft",
+      "sourceRow": "32"
+    }
+  ]
+}

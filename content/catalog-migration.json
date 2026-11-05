@@ -1,0 +1,86 @@
+{
+  "version": "2026-10-22",
+  "sourceSha256": "6bf801e6d1c72fdfd2c81a86c892e32f19147751d3796829c39cdd6847c612e6",
+  "activeCount": 80,
+  "consolidations": {
+    "QC10A01": [
+      "FS30A00"
+    ],
+    "QC10B00": [
+      "FS30A04"
+    ],
+    "QC10B02": [
+      "FS30A05"
+    ],
+    "QC11A00": [
+      "FS30B00"
+    ],
+    "QC11B00": [
+      "FS30B01"
+    ],
+    "QC12A00": [
+      "FS30C00"
+    ],
+    "QC13A00": [
+      "FS30D00"
+    ],
+    "QC13A04": [
+      "FS30D05"
+    ],
+    "QC21A00": [
+      "FS33A01"
+    ],
+    "QC21B00": [
+      "FS33A02"
+    ],
+    "QC31A00": [
+      "FS34A00",
+      "FS34A04"
+    ],
+    "QC31B00": [
+      "FS34A05"
+    ],
+    "QC30A00": [
+      "FS34B00"
+    ],
+    "QC30B00": [
+      "FS34B03"
+    ],
+    "QC40A00": [
+      "FS32A02",
+      "FS32A05"
+    ],
+    "QC41A00": [
+      "FS32B00"
+    ],
+    "QC43A00": [
+      "FS32C00"
+    ],
+    "QC44A00": [
+      "FS38A03"
+    ],
+    "QC60A00": [
+      "FS11A02"
+    ],
+    "QC61A00": [
+      "FS12A03"
+    ],
+    "QC51B00": [
+      "FS37B03"
+    ],
+    "QC50C00": [
+      "FS37F01",
+      "FS37G00"
+    ],
+    "QC53B00": [
+      "FS37H01"
+    ]
+  },
+  "archiveWithoutReplacement": [
+    "FS30A01",
+    "FS30E00",
+    "FS33A00",
+    "FS33B00"
+  ],
+  "note": "Editorial consolidation by connection family, not certified electrical equivalence; historical inquiries are unchanged."
+}

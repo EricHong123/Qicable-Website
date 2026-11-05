@@ -1,0 +1,15 @@
+.facts { padding-block:24px; }
+.facts h2 { font-size:22px; }
+.facts dl { display:flex; flex-wrap:wrap; gap:24px 56px; margin-block:20px; }
+.facts dt { font-size:16px; color:var(--muted, #60656b); }
+.facts dd { font-size:32px; font-weight:600; margin:8px 0 0; }
+.features { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:32px; }
+.features h2 { font-size:26px; overflow-wrap:anywhere; }
+.features p { line-height:1.75; font-size:16px; }
+.features a { min-height:44px; display:inline-flex; align-items:center; }
+.stages { list-style:none; padding:0; display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:24px; }
+.stages li { border-top:1px solid #dde1e5; padding-block:20px; }
+.stages span { color:#994800; font-size:14px; }
+.stages h3 { font-size:20px; line-height:1.5; overflow-wrap:anywhere; }
+@media(max-width:1100px) { .features, .stages, .facts { padding-right:calc(76px + env(safe-area-inset-right)); } }
+@media(max-width:720px) { .features,.stages { grid-template-columns:1fr; } .features,.stages,.facts { padding-right:calc(56px + env(safe-area-inset-right)); } .facts dd { font-size:28px; } }

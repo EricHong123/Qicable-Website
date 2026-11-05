@@ -1,0 +1,64 @@
+.page { color: var(--ink, #191919); }
+.header { background: #f4f5f6; border-bottom: 1px solid #dde1e5; padding: 54px 0 42px; }
+.label { color: #994800; font-size: 14px; font-weight: 600; margin: 0 0 18px; }
+.header h1 { font-size: clamp(30px, 3.5vw, 48px); line-height: 1.2; max-width: 25ch; margin: 0; overflow-wrap: anywhere; }
+.intro { max-width: 70ch; font-size: 18px; line-height: 1.7; margin: 22px 0; }
+.date { font-size: 14px; color: #60656b; margin: 0; }
+.layout { display: grid; grid-template-columns: minmax(225px, 280px) minmax(0, 1fr); gap: clamp(36px, 6vw, 90px); padding-top: 56px; padding-bottom: 80px; }
+.sidebar { align-self: start; min-width: 0; }
+.sidebar h2 { font-size: 15px; font-weight: 600; margin: 0 0 14px; }
+.sidebar ol { padding-inline-start: 22px; margin: 0; color: #60656b; }
+.sidebar a { display: flex; align-items: center; min-height: 44px; padding: 9px 0; font-size: 15px; line-height: 1.5; color: #60656b; overflow-wrap: anywhere; }
+.sidebar a:hover, .sidebar a[aria-current] { color: #994800; text-decoration: underline; text-underline-offset: 4px; }
+.related { border-top: 1px solid #dde1e5; margin-top: 26px; padding-top: 26px; }
+.article { min-width: 0; max-width: 74ch; }
+.section { scroll-margin-top: 120px; padding-bottom: 32px; margin-bottom: 32px; border-bottom: 1px solid #dde1e5; }
+.section h2 { display: flex; align-items: baseline; gap: 14px; margin: 0 0 16px; font-size: clamp(21px, 2vw, 27px); line-height: 1.35; overflow-wrap: anywhere; }
+.section h2 span { color: #994800; font-size: 14px; font-weight: 500; flex-shrink: 0; }
+.section p { margin: 0; font-size: 16px; line-height: 1.85; overflow-wrap: anywhere; }
+.contact { background: #f4f5f6; border-inline-start: 3px solid #ff8a05; border-radius: 4px; padding: 28px; margin-top: 40px; overflow-wrap: anywhere; }
+.contact > svg { color: #994800; margin-bottom: 14px; }
+.contact h2 { font-size: 23px; line-height: 1.4; margin: 0 0 14px; }
+.contact p, .contact address { font-size: 16px; line-height: 1.75; }
+.contact address { font-style: normal; margin-top: 22px; }
+.contact address span { display: block; color: #60656b; margin-top: 6px; }
+.email { display: inline-flex; gap: 6px; align-items: center; color: #994800; min-height: 44px; margin-top: 10px; text-decoration: underline; text-underline-offset: 4px; max-width: 100%; }
+.email bdi { overflow-wrap: anywhere; min-width: 0; }
+.email svg { flex-shrink: 0; }
+.settings { padding: 24px; border: 1px solid #7f8992; border-radius: 4px; }
+.page a:focus-visible, .section:focus-visible { outline: 2px solid #994800; outline-offset: 4px; }
+:global([dir="rtl"]) .section p { line-height: 1.95; }
+@media (max-width: 1100px) {
+  .layout { grid-template-columns: 220px minmax(0, 1fr); gap: 36px; padding-right: calc(76px + env(safe-area-inset-right)); }
+  .contact { padding: 20px; }
+}
+@media (max-width: 800px) {
+  .layout { grid-template-columns: minmax(0, 1fr); gap: 38px; padding-top: 32px; }
+  .sidebar { border-bottom: 1px solid #dde1e5; padding-bottom: 28px; }
+  .related { display: flex; flex-wrap: wrap; gap: 0 24px; }
+  .related h2 { width: 100%; }
+}
+@media (max-width: 720px) {
+  .header { padding: 34px 0; }
+  .header > div { padding-right: calc(56px + env(safe-area-inset-right)); }
+  .intro { font-size: 16px; }
+  .layout { padding-right: calc(56px + env(safe-area-inset-right)); padding-bottom: 48px; }
+  .section { margin-bottom: 26px; padding-bottom: 26px; }
+  .section h2 { gap: 8px; }
+  .contact, .settings { padding: 16px; }
+  .contact h2 { font-size: 21px; }
+}
+@media print {
+  .sidebar, .settings { display: none; }
+  .layout { display: block; }
+  .header { padding: 20px 0; }
+  .section, .contact { break-inside: avoid; }
+}
+.mobileContents { display:none; }
+@media (min-width:801px) { .sidebar { position:sticky; top:110px; max-height:calc(100vh - 135px); overflow:auto; } }
+@media (max-width:800px) {
+ .desktopContents { display:none; }
+ .mobileContents { display:block; }
+ .mobileContents summary { cursor:pointer; padding:14px 0; min-height:44px; font-weight:600; color:#994800; }
+ .mobileContents nav { padding-top:12px; }
+}

@@ -1,0 +1,6 @@
+import { expandLocales } from "./locale-runtime";
+import type {Locale} from './i18n';
+import site from '../../config/site.json';
+const mapUrl='https://www.google.com/maps/place/Zhaolong+Rd/@29.924602,121.6093679,16.92z/data=!4m6!3m5!1s0x344d621cb87a8eed:0x7d44643f1e8f5c4d!8m2!3d29.92457!4d121.61216!16s%2Fg%2F1tfkhx42';
+const copy:Record<Locale,{title:string;open:string}>=expandLocales({en:{title:'Find us in Ningbo',open:'Open in Google Maps'},de:{title:'Unser Standort in Ningbo',open:'In Google Maps öffnen'},es:{title:'Encuéntrenos en Ningbo',open:'Abrir en Google Maps'},fr:{title:'Nous trouver à Ningbo',open:'Ouvrir dans Google Maps'},pt:{title:'Encontre-nos em Ningbo',open:'Abrir no Google Maps'},ar:{title:'موقعنا في نينغبو',open:'فتح في خرائط Google'}});
+export function ContactMap({locale}:{locale:Locale}){const t=copy[locale];return <section className="section container contact-map-panel"><div className="section-heading"><h2>{t.title}</h2><address dir="ltr">{site.address}</address><a className="text-link" href={mapUrl} target="_blank" rel="noopener noreferrer">{t.open} ↗</a></div><iframe src={`https://maps.google.com/maps?q=29.92457,121.61216&hl=${locale}&z=17&output=embed`} title={`${site.legalName} — ${t.title}`} loading="lazy" width="1280" height="420" referrerPolicy="no-referrer-when-downgrade" allowFullScreen/></section>}

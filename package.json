@@ -1,0 +1,44 @@
+{
+  "name": "@qicable/website-workbench",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Qicable customer UI and local static preview, using the TradeMax locked frontend dependencies.",
+  "engines": {
+    "node": "24.20.0",
+    "npm": "11.19.0"
+  },
+  "packageManager": "npm@11.19.0",
+  "scripts": {
+    "prepare:preview": "node scripts/prepare-preview.mjs",
+    "dev": "npm run prepare:preview && next dev preview --hostname 127.0.0.1 --port 3104",
+    "build": "npm run prepare:preview && next build preview",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "check:export": "node --import tsx scripts/check-export.mjs && npm run check:seo",
+    "lint": "eslint ui/src preview/app scripts tests eslint.config.mjs --max-warnings=0",
+    "check:seo": "tsx scripts/check-seo.ts && tsx scripts/check-structured-data.ts",
+    "check:http": "node scripts/check-local-http.mjs",
+    "check:release": "tsx scripts/check-release-readiness.ts"
+  },
+  "dependencies": {
+    "lucide-react": "0.469.0",
+    "next": "16.3.8",
+    "next-intl": "4.14.1",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "zod": "3.25.76"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "20.19.25",
+    "@types/react": "19.2.12",
+    "@types/react-dom": "19.2.3",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.3.8",
+    "postcss": "8.5.26",
+    "sharp": "0.35.5",
+    "tailwindcss": "4.3.3",
+    "tsx": "4.23.1",
+    "typescript": "5.9.3"
+  }
+}

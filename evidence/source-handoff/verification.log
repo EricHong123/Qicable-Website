@@ -1,0 +1,206 @@
+v24.20.0
+11.19.0
+
+> @qicable/website-workbench@0.1.0 typecheck
+> tsc --noEmit
+
+
+> @qicable/website-workbench@0.1.0 test
+> tsx --test tests/*.test.ts
+
+✔ legacy essential preferences never load analytics (0.534791ms)
+✔ consent configures the supplied tag once with advertising denied (0.458791ms)
+✔ revoking consent disables collection and expires only analytics cookies (0.163ms)
+✔ blocked storage fails closed without loading the tag (0.10225ms)
+✔ preview and private hosts never send analytics (0.120333ms)
+✔ revoking an active session still stops collection when preference storage fails (0.122042ms)
+✔ new visitors get standard measurement without overwriting their saved preference (0.086792ms)
+✔ buyer events honor opt-out and include only the supplied nonpersonal fields (3.546917ms)
+✔ catalog exactly matches the supplied model set without duplicate identities (1.60675ms)
+✔ disputed photos stay withheld while table connector definitions are preserved (0.118625ms)
+✔ legacy catalog is fully accounted for once across consolidation and retirement (0.372625ms)
+✔ customer category display order preserves model identities and six translations (2.970167ms)
+✔ engineering details remain in the frozen contact message contract (0.238167ms)
+✔ all guide routes have six complete localized articles, sources and real covers (21.368334ms)
+✔ new topics have inbound category links and related links resolve without self-links (0.581667ms)
+✔ RFQ downloads are localized blank requirement forms rather than sample customer data (2.79075ms)
+✔ page entities retain locale metadata and resolve publisher and website references (514.55625ms)
+✔ page subtypes describe the route and organization about is limited to the about page (1.0925ms)
+✔ guide citations use only the same references rendered by TechnicalGuide (263.112583ms)
+✔ JSON-LD serialization keeps script delimiters inert without altering parsed content (0.161667ms)
+✔ attachment selection enforces quantity, byte size, extension and nonempty names (0.472167ms)
+✔ same file names with changed bytes have distinct retry fingerprints (9.49925ms)
+✔ project stage maps into the frozen Connector message and reserves private file references (0.445584ms)
+✔ attachment feedback and project stages cover all six locales (0.247834ms)
+✔ floating inquiries retain the current product page instead of the preceding category (0.150583ms)
+✔ a public but unapproved website is described as review-pending, not local-only (1.619084ms)
+✔ an enabled directory retains approved paths for all six languages and qualification scope (16.418ms)
+✔ owner-authorized all-public discovery includes draft model URLs without approving their facts (0.923834ms)
+✔ llms preview never advertises public URLs even with approved pages (0.964291ms)
+✔ llms directory follows per-locale approvals and uses existing descriptive metadata (0.582292ms)
+✔ llms excludes draft products even when their path is approved (0.146458ms)
+✔ llms localized guides keep their canonical blog paths (0.23ms)
+✔ twenty locales resolve shared products and retain complete gallery client text (17.167125ms)
+✔ every displayed gallery image has a localized model-specific, distinct description (13.793709ms)
+✔ homepage video metadata points at the real factory WebM without product certification claims (0.899458ms)
+✔ image sitemap includes all approved product gallery URLs without enabling preview indexing (0.67025ms)
+✔ all supplied still images have a WebP conversion and explicit display disposition (1.193667ms)
+✔ gallery paths are unique, model scoped, and have real thumbnails (1.019041ms)
+✔ quote storage ignores unknown models, duplicates and extra personal data (1.058916ms)
+✔ quote quantities are optional but submitted numbers must be positive whole quantities (0.466042ms)
+✔ successful submission only consumes unchanged submitted lines (0.083292ms)
+✔ twenty requested models fit the strict Connector product field and retain per-model quantities (0.349541ms)
+✔ responsive assets preserve source aspect ratios and never enlarge originals (244.940084ms)
+✔ release eligibility keeps preview private, filters draft products, and matches reciprocal sitemap alternates (1.566125ms)
+✔ publication review rejects misspelled URLs, locales and duplicate approvals (0.585083ms)
+✔ all six languages have unique per-intent metadata without footer-description fallbacks (99.623166ms)
+✔ Product schema uses visible connector facts without invented commercial properties (204.824417ms)
+✔ related products prioritize recorded connections, exclude self and other families, and do not mutate the catalog (5.672625ms)
+✔ owner-authorized all-public discovery includes every locale without changing factual review status (14.684208ms)
+✔ service CTAs preserve the intended topic and localized source through the Connector message (8.037875ms)
+✔ unknown request values and mismatched inquiry types cannot inject a topic (1.277208ms)
+✔ Connector byte limits identify oversize multilingual fields and omit malformed campaign metadata (1.064959ms)
+✔ each page identity has six round-tripping paths including the article exception (10.073667ms)
+✔ catalog preserves the six families and 80 unique model identities with real assets (1.142667ms)
+✔ six locales cover every interface message and collection shape (30.606541ms)
+✔ inquiry maps optional technical data into the strict contact contract (0.232917ms)
+✔ inquiry enforces actual UTF-8 size without truncating Arabic text (0.217292ms)
+✔ every model has a translated title draft in all five target languages (0.147041ms)
+✔ contact attribution retains product context and excludes foreign URLs and query secrets (0.183291ms)
+✔ retry identity survives reload without persisting inquiry contents (4.593417ms)
+✔ homepage omits a one-item breadcrumb; every inner trail resolves and has at least two positions (285.318792ms)
+✔ model identity is shared across languages without invented product commerce data (191.770542ms)
+✔ FAQ answers are the actual localized technical and business answers, never generated markup-only claims (4.386208ms)
+✔ guide Article identifies visible editorial content while leaving unrecorded authors and dates unset (24.628333ms)
+✔ category lists contain the actual category models and do not mislabel list pages as individual products (0.318541ms)
+✔ organization identity uses supplied brand profiles, never the personal LinkedIn profile or a nonexistent search action (0.087834ms)
+ℹ tests 66
+ℹ suites 0
+ℹ pass 66
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1421.088708
+
+> @qicable/website-workbench@0.1.0 lint
+> eslint ui/src preview/app scripts tests eslint.config.mjs --max-warnings=0
+
+
+> @qicable/website-workbench@0.1.0 build
+> npm run prepare:preview && next build preview
+
+
+> @qicable/website-workbench@0.1.0 prepare:preview
+> node scripts/prepare-preview.mjs
+
+Prepared responsive delivery for 83 original images.
+▲ Next.js 16.3.8 (Turbopack)
+✓ Running next.config.ts took 85ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 485ms
+  Running TypeScript ...
+  Finished TypeScript in 702ms ...
+  Collecting page data using 6 workers ...
+  Generating static pages using 6 workers (0/2424) ...
+  Generating static pages using 6 workers (606/2424) 
+  Generating static pages using 6 workers (1212/2424) 
+  Generating static pages using 6 workers (1818/2424) 
+✓ Generating static pages using 6 workers (2424/2424) in 10.5s
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /_not-found
+├   /[[...path]]
+│ ├ ● /
+│ ├ ● /products
+│ ├ ● /products/machine-vision
+│ └ ● [+2417 more paths]
+├ ○ /robots.txt
+└ ○ /sitemap.xml
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+
+> @qicable/website-workbench@0.1.0 check:export
+> node --import tsx scripts/check-export.mjs && npm run check:seo
+
+{
+  "timestamp": "2026-11-05T16:02:26.599Z",
+  "environment": "local static export",
+  "pages": 2420,
+  "locales": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "pt",
+    "ar",
+    "it",
+    "nl",
+    "pl",
+    "cs",
+    "sv",
+    "da",
+    "fi",
+    "no",
+    "ru",
+    "tr",
+    "ja",
+    "ko",
+    "vi",
+    "id"
+  ],
+  "checks": [
+    "H1",
+    "lang/dir",
+    "canonical",
+    "reciprocal hreflang",
+    "internal links/anchors/assets",
+    "preview index protection"
+  ],
+  "maxHtmlGzip": 86576,
+  "jsMeasurement": "Modern browser script tags; nomodule polyfill reported separately. Resource inventory, not a measured Lighthouse/network score.",
+  "maxLegacyPolyfillGzip": 39627,
+  "maxTotalArtifactBytes": 1586958,
+  "maxCriticalArtifactBytes": 679333,
+  "maxJsGzip": 190157,
+  "maxCssGzip": 23394,
+  "fontMeasurement": "All three WOFF2 weights of the active locale family included in both total and critical artifact bytes. This is a conservative resource inventory, not a measured network score.",
+  "maxFontBytes": 224248,
+  "failures": []
+}
+
+> @qicable/website-workbench@0.1.0 check:seo
+> tsx scripts/check-seo.ts && tsx scripts/check-structured-data.ts
+
+{
+  "pages": 2420,
+  "failures": [],
+  "lengthWarnings": 906,
+  "indexingEnabled": true
+}
+{
+  "pages": 2420,
+  "counts": {
+    "Organization": 2420,
+    "Brand": 2420,
+    "WebSite": 2420,
+    "WebPage": 2140,
+    "VideoObject": 20,
+    "CollectionPage": 220,
+    "BreadcrumbList": 2400,
+    "ItemList": 180,
+    "Product": 1600,
+    "Article": 200,
+    "FAQPage": 20,
+    "AboutPage": 20,
+    "ContactPage": 20
+  },
+  "quotationProductsWithoutGoogleSnippetFields": 1600,
+  "failures": [],
+  "note": "Local integration validation of JSON-LD syntax, graph links, breadcrumb structure and delivered head assets. This is not an official Schema.org or Google Rich Results Test; quotation-only Product schema remains ineligible for product snippets without genuine offers/reviews/ratings."
+}

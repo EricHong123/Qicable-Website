@@ -1,0 +1,21 @@
+{
+  "pages": 2420,
+  "counts": {
+    "Organization": 2420,
+    "Brand": 2420,
+    "WebSite": 2420,
+    "WebPage": 2140,
+    "VideoObject": 20,
+    "CollectionPage": 220,
+    "BreadcrumbList": 2400,
+    "ItemList": 180,
+    "Product": 1600,
+    "Article": 200,
+    "FAQPage": 20,
+    "AboutPage": 20,
+    "ContactPage": 20
+  },
+  "quotationProductsWithoutGoogleSnippetFields": 1600,
+  "failures": [],
+  "note": "Local integration validation of JSON-LD syntax, graph links, breadcrumb structure and delivered head assets. This is not an official Schema.org or Google Rich Results Test; quotation-only Product schema remains ineligible for product snippets without genuine offers/reviews/ratings."
+}

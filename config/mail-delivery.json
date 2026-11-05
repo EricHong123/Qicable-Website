@@ -1,0 +1,7 @@
+{
+  "primaryRecipient": "sales@qicable.com",
+  "backupRecipient": "sales@qicable.com",
+  "acknowledgementSubject": "Qicable — inquiry received",
+  "acknowledgementBody": "Thank you for contacting Qicable. We have received your inquiry and will review your requirements. Please reply with any additional drawings, product references or specifications. Our team will contact you to clarify the project and next steps.",
+  "status": "local-verified-production-pending"
+}

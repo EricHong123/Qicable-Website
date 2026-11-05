@@ -1,0 +1,52 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "strict": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@ui/*": [
+        "./ui/src/*"
+      ],
+      "@content/*": [
+        "./content/*"
+      ],
+      "@config/*": [
+        "./config/*"
+      ]
+    }
+  },
+  "include": [
+    "ui/**/*.ts",
+    "ui/**/*.tsx",
+    "preview/**/*.ts",
+    "preview/**/*.tsx",
+    "native-template/**/*.ts",
+    "native-template/**/*.tsx",
+    "tests/**/*.ts",
+    "scripts/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "preview/out",
+    "native-template/.next",
+    "plans/research"
+  ]
+}

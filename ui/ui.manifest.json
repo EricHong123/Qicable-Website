@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "package_id": "qicable-industrial",
+  "package_version": "0.1.0",
+  "contract_version": 1,
+  "stack_profile": "trademax-next-static-v2",
+  "design_api_contract_version": 1,
+  "entrypoint": "src/index.ts",
+  "slots": [
+    "site-shell",
+    "home",
+    "product-catalog",
+    "product-detail",
+    "article",
+    "contact"
+  ],
+  "routes": [
+    "home",
+    "products",
+    "product",
+    "article",
+    "localized_article",
+    "contact"
+  ],
+  "assets_sha256": "sha256:21da311c9179cc3a6f6ccc1b8115b56fc8e1ab0f19cec34415d77416af2e9da6"
+}

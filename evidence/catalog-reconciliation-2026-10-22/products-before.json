@@ -1,0 +1,639 @@
+[
+  {
+    "model": "FS30A00",
+    "slug": "fs30a00",
+    "category": "machine-vision",
+    "name": "RJ45 to RJ45 Screw-Lock GigE Camera Cable",
+    "interface": "GigE",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45",
+    "mounting": "Straight; screw lock",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs30a00-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "2"
+  },
+  {
+    "model": "FS30A01",
+    "slug": "fs30a01",
+    "category": "machine-vision",
+    "name": "Angled RJ45 Screw-Lock GigE Camera Cable",
+    "interface": "GigE",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45",
+    "mounting": "Angled; screw lock",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/fs30a01-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "3"
+  },
+  {
+    "model": "FS30A04",
+    "slug": "fs30a04",
+    "category": "machine-vision",
+    "name": "RJ45 to RJ45 10GigE Camera Cable",
+    "interface": "10GigE",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45",
+    "mounting": "Straight; screw lock",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs30a04.webp",
+      "/assets/products/fs30a04-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/10gige-vision-cable-cat6a-sftp-rj45-rj45-straight-screw-lock.html",
+    "reviewStatus": "draft",
+    "sourceRow": "6"
+  },
+  {
+    "model": "FS30A05",
+    "slug": "fs30a05",
+    "category": "machine-vision",
+    "name": "RJ45 to M12 X-Coded Camera Cable",
+    "interface": "10GigE",
+    "connectorA": "RJ45",
+    "connectorB": "M12 X-coded 8-pin",
+    "mounting": "Threaded",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs30a05.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/10gige-vision-cable-cat6a-rj45-to-m12-x-type-8p-screw-lock.html",
+    "reviewStatus": "draft",
+    "sourceRow": "7"
+  },
+  {
+    "model": "FS30B00",
+    "slug": "fs30b00",
+    "category": "machine-vision",
+    "name": "MDR to MDR Camera Link Cable",
+    "interface": "Camera Link",
+    "connectorA": "MDR",
+    "connectorB": "MDR",
+    "mounting": "Screw lock",
+    "lengths": [
+      "3",
+      "5",
+      "8",
+      "10"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs30b00-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "8"
+  },
+  {
+    "model": "FS30B01",
+    "slug": "fs30b01",
+    "category": "machine-vision",
+    "name": "MDR to SDR Camera Link Cable",
+    "interface": "Camera Link",
+    "connectorA": "MDR",
+    "connectorB": "SDR",
+    "mounting": "Screw lock",
+    "lengths": [
+      "3",
+      "5",
+      "8",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/fs30b01-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "9"
+  },
+  {
+    "model": "FS30C00",
+    "slug": "fs30c00",
+    "category": "machine-vision",
+    "name": "USB 3.0 Type-A to Micro-B Screw-Lock Camera Cable",
+    "interface": "USB3 Vision",
+    "connectorA": "USB Type-A",
+    "connectorB": "Micro-B",
+    "mounting": "Screw lock",
+    "lengths": [
+      "3",
+      "5"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs30c00.webp",
+      "/assets/products/fs30c00-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/usb-3-camera-cable-type-a-to-micro-b-with-m2-screw-lock-5gbps.html",
+    "reviewStatus": "draft",
+    "sourceRow": "13"
+  },
+  {
+    "model": "FS30D00",
+    "slug": "fs30d00",
+    "category": "machine-vision",
+    "name": "BNC to BNC CoaXPress Cable",
+    "interface": "CoaXPress",
+    "connectorA": "BNC",
+    "connectorB": "BNC",
+    "mounting": "Coaxial",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs30d00.webp",
+      "/assets/products/fs30d00-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/camera-cable-coaxial-75-bnc-bnc-for-high-speed-machine-vision.html",
+    "reviewStatus": "draft",
+    "sourceRow": "14"
+  },
+  {
+    "model": "FS30D05",
+    "slug": "fs30d05",
+    "category": "machine-vision",
+    "name": "HD-BNC to HD-BNC CoaXPress Cable",
+    "interface": "CoaXPress",
+    "connectorA": "HD-BNC",
+    "connectorB": "HD-BNC",
+    "mounting": "Coaxial",
+    "lengths": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs30d05.webp",
+      "/assets/products/fs30d05-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/coaxpress-camera-cable-hd-bnc-to-hd-bnc-cxp-12-12-5gbps.html",
+    "reviewStatus": "draft",
+    "sourceRow": "19"
+  },
+  {
+    "model": "FS30E00",
+    "slug": "fs30e00",
+    "category": "machine-vision",
+    "name": "Camera Power and I/O Cable",
+    "interface": "Camera I/O",
+    "connectorA": "HR10A-7P-6S",
+    "connectorB": "I/O",
+    "mounting": "Circular",
+    "lengths": [
+      "3",
+      "5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/fs30e00.webp",
+      "/assets/products/fs30e00-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/hr10a-7p-6s-industrial-i-o-cable-7-pin-hirose-fixed-high-flex.html",
+    "reviewStatus": "draft",
+    "sourceRow": "21"
+  },
+  {
+    "model": "FS33A00",
+    "slug": "fs33a00",
+    "category": "industrial-ethernet",
+    "name": "RJ45 to RJ45 Industrial Ethernet Cable",
+    "interface": "Ethernet",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45",
+    "mounting": "Straight",
+    "lengths": [
+      "1",
+      "3",
+      "5"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs33a00.webp",
+      "/assets/products/fs33a00-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/industrial-cat5e-sf-utp-rj45-rj45-shielded-ethernet-cable.html",
+    "reviewStatus": "draft",
+    "sourceRow": "2"
+  },
+  {
+    "model": "FS33A01",
+    "slug": "fs33a01",
+    "category": "industrial-ethernet",
+    "name": "RJ45 to M12 D-Coded Industrial Ethernet Cable",
+    "interface": "Ethernet",
+    "connectorA": "RJ45",
+    "connectorB": "M12 D-coded 4-pin",
+    "mounting": "Threaded",
+    "lengths": [
+      "1",
+      "3",
+      "5"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs33a01.webp",
+      "/assets/products/fs33a01-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/industrial-cat5e-sf-utp-rj45-to-m12-d-code-4-pin-high-flex-cable.html",
+    "reviewStatus": "draft",
+    "sourceRow": "3"
+  },
+  {
+    "model": "FS33A02",
+    "slug": "fs33a02",
+    "category": "industrial-ethernet",
+    "name": "M12 D-Coded to M12 D-Coded Industrial Ethernet Cable",
+    "interface": "Ethernet",
+    "connectorA": "M12 D-coded 4-pin",
+    "connectorB": "M12 D-coded 4-pin",
+    "mounting": "Threaded",
+    "lengths": [
+      "1",
+      "3",
+      "5"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/fs33a02.webp",
+      "/assets/products/fs33a02-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/industrial-cat5e-sf-utp-m12-d-code-male-male-ethernet-cable.html",
+    "reviewStatus": "draft",
+    "sourceRow": "4"
+  },
+  {
+    "model": "FS33B00",
+    "slug": "fs33b00",
+    "category": "industrial-ethernet",
+    "name": "RJ45 to RJ45 Industrial Ethernet Cable",
+    "interface": "Ethernet",
+    "connectorA": "RJ45",
+    "connectorB": "RJ45",
+    "mounting": "Straight",
+    "lengths": [
+      "1",
+      "3",
+      "5"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/fs33b00.webp",
+      "/assets/products/fs33b00-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/industrial-cat6a-s-ftp-rj45-rj45-10gbps-high-flex-cable.html",
+    "reviewStatus": "draft",
+    "sourceRow": "5"
+  },
+  {
+    "model": "FS34A00",
+    "slug": "fs34a00",
+    "category": "m8-m12",
+    "name": "M12 A-Coded 4-Pin Male to Open-End Sensor Cable",
+    "interface": "M12",
+    "connectorA": "M12 A-coded 4-pin male",
+    "connectorB": "Open end",
+    "mounting": "Threaded",
+    "lengths": [],
+    "featured": true,
+    "images": [
+      "/assets/products/fs34a00.webp",
+      "/assets/products/fs34a00-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/m12-a-code-4-pin-male-to-open-wires-cable.html",
+    "reviewStatus": "draft",
+    "sourceRow": "2"
+  },
+  {
+    "model": "FS34A04",
+    "slug": "fs34a04",
+    "category": "m8-m12",
+    "name": "M12 A-Coded 4-Pin Male to Female Sensor Cable",
+    "interface": "M12",
+    "connectorA": "M12 A-coded 4-pin male",
+    "connectorB": "M12 A-coded 4-pin female",
+    "mounting": "Threaded",
+    "lengths": [],
+    "featured": false,
+    "images": [
+      "/assets/products/fs34a04.webp",
+      "/assets/products/fs34a04-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/m12-a-code-4-pin-male-to-female-straight-cable.html",
+    "reviewStatus": "draft",
+    "sourceRow": "6"
+  },
+  {
+    "model": "FS34A05",
+    "slug": "fs34a05",
+    "category": "m8-m12",
+    "name": "M12 A-Coded 5-Pin Male to Open-End Sensor Cable",
+    "interface": "M12",
+    "connectorA": "M12 A-coded 5-pin male",
+    "connectorB": "Open end",
+    "mounting": "Threaded",
+    "lengths": [],
+    "featured": false,
+    "images": [
+      "/assets/products/fs34a05.webp",
+      "/assets/products/fs34a05-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/m12-a-code-5-pin-male-to-open-wires-straight-cable.html",
+    "reviewStatus": "draft",
+    "sourceRow": "7"
+  },
+  {
+    "model": "FS34B00",
+    "slug": "fs34b00",
+    "category": "m8-m12",
+    "name": "M8 3-Pin Male to Open-End Sensor Cable",
+    "interface": "M8",
+    "connectorA": "M8 3-pin male",
+    "connectorB": "Open end",
+    "mounting": "Threaded",
+    "lengths": [],
+    "featured": true,
+    "images": [
+      "/assets/products/fs34b00.webp",
+      "/assets/products/fs34b00-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/m8-a-code-3-pin-male-to-open-wires-straight-cable.html",
+    "reviewStatus": "draft",
+    "sourceRow": "12"
+  },
+  {
+    "model": "FS34B03",
+    "slug": "fs34b03",
+    "category": "m8-m12",
+    "name": "M8 4-Pin Male to Open-End Sensor Cable",
+    "interface": "M8",
+    "connectorA": "M8 4-pin male",
+    "connectorB": "Open end",
+    "mounting": "Threaded",
+    "lengths": [],
+    "featured": false,
+    "images": [
+      "/assets/products/fs34b03.webp",
+      "/assets/products/fs34b03-1.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/m8-a-code-4-pin-male-to-open-wires-straight-cable.html",
+    "reviewStatus": "draft",
+    "sourceRow": "15"
+  },
+  {
+    "model": "FS32A02",
+    "slug": "fs32a02",
+    "category": "industrial-communication",
+    "name": "USB to RS232 Serial Cable",
+    "interface": "RS232",
+    "connectorA": "USB Type-A",
+    "connectorB": "RS232 male",
+    "mounting": "Serial",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs32a02-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "3"
+  },
+  {
+    "model": "FS32A05",
+    "slug": "fs32a05",
+    "category": "industrial-communication",
+    "name": "USB-C to RS232 Serial Cable",
+    "interface": "RS232",
+    "connectorA": "USB Type-C",
+    "connectorB": "RS232 male",
+    "mounting": "Serial",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/fs32a05-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "4"
+  },
+  {
+    "model": "FS32B00",
+    "slug": "fs32b00",
+    "category": "industrial-communication",
+    "name": "USB to RS485 and RS422 Serial Cable",
+    "interface": "RS485 / RS422",
+    "connectorA": "USB",
+    "connectorB": "RS485 / RS422",
+    "mounting": "Serial",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": true,
+    "images": [
+      "/assets/products/fs32b00.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/product/usb-to-rs485-rs422-serial-port-converter-adapter-cable.html",
+    "reviewStatus": "draft",
+    "sourceRow": "8"
+  },
+  {
+    "model": "FS32C00",
+    "slug": "fs32c00",
+    "category": "industrial-communication",
+    "name": "USB to RJ45 Console Cable",
+    "interface": "Console",
+    "connectorA": "USB",
+    "connectorB": "RJ45 8P8C",
+    "mounting": "Console",
+    "lengths": [
+      "1.8"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/fs32c00.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/usb-a-to-rj45-console-cable-network-switch-router-console-lead.html",
+    "reviewStatus": "draft",
+    "sourceRow": "10"
+  },
+  {
+    "model": "FS38A03",
+    "slug": "fs38a03",
+    "category": "industrial-communication",
+    "name": "DB9 Male to Male Industrial D-Sub Cable",
+    "interface": "D-Sub",
+    "connectorA": "DB9 male",
+    "connectorB": "DB9 male",
+    "mounting": "Metal housing",
+    "lengths": [
+      "1.5"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/fs38a03.webp"
+    ],
+    "sourceUrl": "https://www.farsince.com/db9-male-to-male-rs232-cable-die-cast-metal-shells.html",
+    "reviewStatus": "draft",
+    "sourceRow": "25"
+  },
+  {
+    "model": "FS11A02",
+    "slug": "fs11a02",
+    "category": "industrial-display",
+    "name": "HDMI Cable for Equipment Display Connections",
+    "interface": "HDMI",
+    "connectorA": "HDMI",
+    "connectorB": "HDMI",
+    "mounting": "Display",
+    "lengths": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7.5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/fs11a02-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "2"
+  },
+  {
+    "model": "FS12A03",
+    "slug": "fs12a03",
+    "category": "industrial-display",
+    "name": "DisplayPort Cable for Equipment Display Connections",
+    "interface": "DisplayPort",
+    "connectorA": "DisplayPort",
+    "connectorB": "DisplayPort",
+    "mounting": "Display",
+    "lengths": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7.5",
+      "10"
+    ],
+    "featured": false,
+    "images": [
+      "/assets/products/fs12a03-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "7"
+  },
+  {
+    "model": "FS37B03",
+    "slug": "fs37b03",
+    "category": "panel-mount",
+    "name": "HDMI Male to Female Panel Mount Cable",
+    "interface": "HDMI",
+    "connectorA": "HDMI male",
+    "connectorB": "HDMI female",
+    "mounting": "Panel mount",
+    "lengths": [],
+    "featured": true,
+    "images": [
+      "/assets/products/fs37b03-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "5"
+  },
+  {
+    "model": "FS37F01",
+    "slug": "fs37f01",
+    "category": "panel-mount",
+    "name": "USB-C Male to Female Panel Mount Cable",
+    "interface": "USB-C",
+    "connectorA": "USB Type-C male",
+    "connectorB": "USB Type-C female",
+    "mounting": "Panel mount",
+    "lengths": [],
+    "featured": true,
+    "images": [
+      "/assets/products/fs37f01-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "22"
+  },
+  {
+    "model": "FS37G00",
+    "slug": "fs37g00",
+    "category": "panel-mount",
+    "name": "USB-C Panel Mount Extension Cable",
+    "interface": "USB-C",
+    "connectorA": "USB Type-C",
+    "connectorB": "USB Type-C",
+    "mounting": "Panel mount",
+    "lengths": [],
+    "featured": false,
+    "images": [
+      "/assets/products/fs37g00-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "30"
+  },
+  {
+    "model": "FS37H01",
+    "slug": "fs37h01",
+    "category": "panel-mount",
+    "name": "RJ45 Male to Female Panel Mount Cable",
+    "interface": "RJ45",
+    "connectorA": "RJ45 male",
+    "connectorB": "RJ45 female",
+    "mounting": "Panel mount",
+    "lengths": [],
+    "featured": false,
+    "images": [
+      "/assets/products/fs37h01-source.png"
+    ],
+    "sourceUrl": null,
+    "reviewStatus": "draft",
+    "sourceRow": "32"
+  }
+]
