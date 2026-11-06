@@ -1,5 +1,5 @@
 import { expandLocales } from "./locale-runtime";
-import {Cable, Ruler, Settings2, Activity, ArrowUpRight} from 'lucide-react';
+import {Cable, Ruler, Settings2, Activity, ArrowRight, ArrowUpRight} from 'lucide-react';
 import Link from 'next/link';
 import type {Locale} from './i18n';
 import {href,inquiryHref} from './navigation';
@@ -12,5 +12,31 @@ const copy = expandLocales({
  ar:['ابحث عن الكابل','أرسل الرسم','توصيلات تناسب معداتك','طابق طرفي التوصيل','قارن الواجهات والترميز والتثبيت قبل اختيار الكابل.','خطط للتركيب','راجع اتجاه الموصل وأبعاد اللوحة ومساحة مسار الكابل.','ناقش تكويناً مخصصاً','حدد الموصلات والطول والتوصيلات عندما لا يناسبك الخيار القياسي.','تحقق من ظروف التشغيل','للمعدات المتحركة، أكد نصف قطر الانحناء ومسافة الحركة ونمطها قبل الاختيار.','قارن خيارات الكابلات','ناقش الرسم','قياسي أو مخصص: ابدأ بالمعلومات المتاحة','لديك طراز؟ قارن تكوينه وأضفه للاستفسار. لديك رسم؟ أرسل الواجهات والطول ومتطلبات التركيب للمراجعة.',"تجميعات كابلات مخصصة للرؤية الآلية والأتمتة الصناعية. من مراجعة الرسومات واختيار الموصلات إلى تجميع الكابلات وفحص الجودة، نصنّع وفق مواصفاتكم المعتمدة."],
 }) satisfies Record<Locale,string[]>;
 export const buyerCopy=(locale:Locale)=>copy[locale];
-export function BuyerProblems({locale}:{locale:Locale}){const t=copy[locale];const icons=[Cable,Ruler,Settings2,Activity];return <section className="section buyer-problems"><div className="container buyer-problems-layout"><div className="buyer-problems-intro"><span className="buyer-intro-icon" aria-hidden="true"><Cable size={38}/></span><h2>{t[2]}</h2><p>{t[14]}</p><Link prefetch={false} className="button" href={href(locale,'/products/')}>{t[0]}<ArrowUpRight size={18}/></Link></div><div className="buyer-problem-grid">{[3,5,7,9].map((i,n)=>{const Icon=icons[n];return <article key={i}><div className="buyer-card-top"><Icon size={26} aria-hidden="true"/><span className="model-label">0{n+1}</span></div><h3>{t[i]}</h3><p>{t[i+1]}</p><Link prefetch={false} className="text-link" href={n===0?href(locale,'/products/'):inquiryHref(locale,undefined,n===3?'support':'custom')}>{n===0?t[11]:t[12]}<ArrowUpRight size={17} aria-hidden="true"/></Link></article>})}</div></div></section>}
+export function BuyerProblems({locale}:{locale:Locale}) {
+ const t=copy[locale];
+ const icons=[Cable,Ruler,Settings2,Activity];
+ return <section className="section buyer-problems" aria-labelledby="buyer-flow-title">
+  <div className="container buyer-problems-layout">
+   <div className="buyer-problems-intro">
+    <h2 id="buyer-flow-title">{t[2]}</h2>
+    <p>{t[14]}</p>
+    <Link prefetch={false} className="button" href={href(locale,'/products/')}>{t[0]}<ArrowUpRight size={18} aria-hidden="true"/></Link>
+   </div>
+   <ol id="connection-flow" className="buyer-problem-grid" role="list" aria-labelledby="buyer-flow-title">
+    {[3,5,7,9].map((i,n)=>{
+     const Icon=icons[n];
+     return <li key={i}>
+      <article>
+       <div className="buyer-card-top"><span className="model-label" aria-hidden="true">0{n+1}</span><Icon size={26} aria-hidden="true"/></div>
+       <h3>{t[i]}</h3>
+       <p>{t[i+1]}</p>
+       <Link prefetch={false} className="text-link" href={n===0?href(locale,'/products/'):inquiryHref(locale,undefined,n===3?'support':'custom')}>{n===0?t[11]:t[12]}<ArrowUpRight size={17} aria-hidden="true"/></Link>
+      </article>
+      {n<3 && <span className="buyer-flow-connector" aria-hidden="true"><ArrowRight size={24}/></span>}
+     </li>;
+    })}
+   </ol>
+  </div>
+ </section>;
+}
 export function BuyingPaths({locale}:{locale:Locale}){const t=copy[locale];return <section className="section container buying-paths"><div><h2>{t[13]}</h2><p>{t[14]}</p></div><div className="actions"><Link prefetch={false} className="button" href={href(locale,'/products/')}>{t[0]}</Link><Link prefetch={false} className="button secondary" href={inquiryHref(locale,undefined,'custom')}>{t[1]}</Link></div></section>}

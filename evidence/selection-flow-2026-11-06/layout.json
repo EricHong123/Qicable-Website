@@ -1,0 +1,404 @@
+{
+  "checks": [
+    {
+      "arrow": "matrix(0, 1, -1, 0, 0, 0)",
+      "cards": [
+        {
+          "scroll": 162,
+          "width": 162
+        },
+        {
+          "scroll": 162,
+          "width": 162
+        },
+        {
+          "scroll": 162,
+          "width": 162
+        },
+        {
+          "scroll": 162,
+          "width": 162
+        }
+      ],
+      "columns": "212px",
+      "dir": "ltr",
+      "dockClearance": 30,
+      "links": [
+        "/products/",
+        "/contact/?type=custom",
+        "/contact/?type=custom",
+        "/contact/?type=support"
+      ],
+      "locale": "en",
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "arrow": "matrix(0, 1, -1, 0, 0, 0)",
+      "cards": [
+        {
+          "scroll": 232,
+          "width": 232
+        },
+        {
+          "scroll": 232,
+          "width": 232
+        },
+        {
+          "scroll": 232,
+          "width": 232
+        },
+        {
+          "scroll": 232,
+          "width": 232
+        }
+      ],
+      "columns": "282px",
+      "dir": "ltr",
+      "dockClearance": 30,
+      "links": [
+        "/products/",
+        "/contact/?type=custom",
+        "/contact/?type=custom",
+        "/contact/?type=support"
+      ],
+      "locale": "en",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "arrow": "matrix(0, 1, -1, 0, 0, 0)",
+      "cards": [
+        {
+          "scroll": 550,
+          "width": 550
+        },
+        {
+          "scroll": 550,
+          "width": 550
+        },
+        {
+          "scroll": 550,
+          "width": 550
+        },
+        {
+          "scroll": 550,
+          "width": 550
+        }
+      ],
+      "columns": "616px",
+      "dir": "ltr",
+      "dockClearance": 44,
+      "links": [
+        "/products/",
+        "/contact/?type=custom",
+        "/contact/?type=custom",
+        "/contact/?type=support"
+      ],
+      "locale": "en",
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "arrow": "none",
+      "cards": [
+        {
+          "scroll": 294,
+          "width": 294
+        },
+        {
+          "scroll": 294,
+          "width": 294
+        },
+        {
+          "scroll": 294,
+          "width": 294
+        },
+        {
+          "scroll": 294,
+          "width": 294
+        }
+      ],
+      "columns": "296px 296px 296px 296px",
+      "dir": "ltr",
+      "dockClearance": 4,
+      "links": [
+        "/products/",
+        "/contact/?type=custom",
+        "/contact/?type=custom",
+        "/contact/?type=support"
+      ],
+      "locale": "en",
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "arrow": "matrix(0, 1, -1, 0, 0, 0)",
+      "cards": [
+        {
+          "scroll": 162,
+          "width": 162
+        },
+        {
+          "scroll": 162,
+          "width": 162
+        },
+        {
+          "scroll": 162,
+          "width": 162
+        },
+        {
+          "scroll": 162,
+          "width": 162
+        }
+      ],
+      "columns": "212px",
+      "dir": "ltr",
+      "dockClearance": 30,
+      "links": [
+        "/de/products/",
+        "/de/contact/?type=custom",
+        "/de/contact/?type=custom",
+        "/de/contact/?type=support"
+      ],
+      "locale": "de",
+      "scrollWidth": 361,
+      "width": 320
+    },
+    {
+      "arrow": "matrix(0, 1, -1, 0, 0, 0)",
+      "cards": [
+        {
+          "scroll": 232,
+          "width": 232
+        },
+        {
+          "scroll": 232,
+          "width": 232
+        },
+        {
+          "scroll": 232,
+          "width": 232
+        },
+        {
+          "scroll": 232,
+          "width": 232
+        }
+      ],
+      "columns": "282px",
+      "dir": "ltr",
+      "dockClearance": 30,
+      "links": [
+        "/de/products/",
+        "/de/contact/?type=custom",
+        "/de/contact/?type=custom",
+        "/de/contact/?type=support"
+      ],
+      "locale": "de",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "arrow": "matrix(0, 1, -1, 0, 0, 0)",
+      "cards": [
+        {
+          "scroll": 550,
+          "width": 550
+        },
+        {
+          "scroll": 550,
+          "width": 550
+        },
+        {
+          "scroll": 550,
+          "width": 550
+        },
+        {
+          "scroll": 550,
+          "width": 550
+        }
+      ],
+      "columns": "616px",
+      "dir": "ltr",
+      "dockClearance": 44,
+      "links": [
+        "/de/products/",
+        "/de/contact/?type=custom",
+        "/de/contact/?type=custom",
+        "/de/contact/?type=support"
+      ],
+      "locale": "de",
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "arrow": "none",
+      "cards": [
+        {
+          "scroll": 294,
+          "width": 294
+        },
+        {
+          "scroll": 294,
+          "width": 294
+        },
+        {
+          "scroll": 294,
+          "width": 294
+        },
+        {
+          "scroll": 294,
+          "width": 294
+        }
+      ],
+      "columns": "296px 296px 296px 296px",
+      "dir": "ltr",
+      "dockClearance": 4,
+      "links": [
+        "/de/products/",
+        "/de/contact/?type=custom",
+        "/de/contact/?type=custom",
+        "/de/contact/?type=support"
+      ],
+      "locale": "de",
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "arrow": "matrix(0, 1, -1, 0, 0, 0)",
+      "cards": [
+        {
+          "scroll": 162,
+          "width": 162
+        },
+        {
+          "scroll": 162,
+          "width": 162
+        },
+        {
+          "scroll": 162,
+          "width": 162
+        },
+        {
+          "scroll": 162,
+          "width": 162
+        }
+      ],
+      "columns": "212px",
+      "dir": "rtl",
+      "dockClearance": 78,
+      "links": [
+        "/ar/products/",
+        "/ar/contact/?type=custom",
+        "/ar/contact/?type=custom",
+        "/ar/contact/?type=support"
+      ],
+      "locale": "ar",
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "arrow": "matrix(0, 1, -1, 0, 0, 0)",
+      "cards": [
+        {
+          "scroll": 232,
+          "width": 232
+        },
+        {
+          "scroll": 232,
+          "width": 232
+        },
+        {
+          "scroll": 232,
+          "width": 232
+        },
+        {
+          "scroll": 232,
+          "width": 232
+        }
+      ],
+      "columns": "282px",
+      "dir": "rtl",
+      "dockClearance": 78,
+      "links": [
+        "/ar/products/",
+        "/ar/contact/?type=custom",
+        "/ar/contact/?type=custom",
+        "/ar/contact/?type=support"
+      ],
+      "locale": "ar",
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "arrow": "matrix(0, 1, -1, 0, 0, 0)",
+      "cards": [
+        {
+          "scroll": 550,
+          "width": 550
+        },
+        {
+          "scroll": 550,
+          "width": 550
+        },
+        {
+          "scroll": 550,
+          "width": 550
+        },
+        {
+          "scroll": 550,
+          "width": 550
+        }
+      ],
+      "columns": "616px",
+      "dir": "rtl",
+      "dockClearance": 108,
+      "links": [
+        "/ar/products/",
+        "/ar/contact/?type=custom",
+        "/ar/contact/?type=custom",
+        "/ar/contact/?type=support"
+      ],
+      "locale": "ar",
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "arrow": "matrix(-1, 0, 0, -1, 0, 0)",
+      "cards": [
+        {
+          "scroll": 294,
+          "width": 294
+        },
+        {
+          "scroll": 294,
+          "width": 294
+        },
+        {
+          "scroll": 294,
+          "width": 294
+        },
+        {
+          "scroll": 294,
+          "width": 294
+        }
+      ],
+      "columns": "296px 296px 296px 296px",
+      "dir": "rtl",
+      "dockClearance": 4,
+      "links": [
+        "/ar/products/",
+        "/ar/contact/?type=custom",
+        "/ar/contact/?type=custom",
+        "/ar/contact/?type=support"
+      ],
+      "locale": "ar",
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  ],
+  "notes": [
+    "DE 320px document overflow of 41px originates in the unchanged certificate section; the selection flow itself fits.",
+    "Final RTL mobile number center and connector center differ by 0.5px at 320/390/768px."
+  ]
+}

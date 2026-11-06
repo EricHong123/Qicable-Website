@@ -47,6 +47,27 @@ npm run build
 npm run check:export
 ```
 
+若构建使用了20语言预览快照，构建与导出检查必须使用相同输入，避免页数断言与构建内容不一致：
+
+```sh
+export QICABLE_CONTENT_SNAPSHOT="$PWD/content/native-i18n-preview.json"
+export QICABLE_NATIVE_MEDIA_ROOT="$PWD/preview/public"
+npm run build
+npm run check:export
+```
+
 静态输出在 `preview/out/`。本地询盘接口默认代理至127.0.0.1:3101，UI预览可以独立运行，实际提交需要配置服务端接口。
 
 服务器连接与发布流程见 [DEPLOYMENT.md](DEPLOYMENT.md)。本仓库采用单独的新 Git 历史，保存网站交付源码。访问密钥、服务器环境文件、数据库和询盘附件通过独立授权渠道配置。
+
+## 增量更新与自动推送约定
+
+每次仅修改任务所需内容，完成相关检查并更新本 README 后，自动提交并推送到 origin 的当前 `codex/` 功能分支，无需再次确认。仅提交当前任务相关文件，不强制推送、不自动合并 `main`。本次引入的检查失败须修复；既有环境或资料缺失须记录。推送失败时保留本地成果并说明原因。GitHub源码推送与VPS正式部署是两个独立步骤，后者继续遵循 [DEPLOYMENT.md](DEPLOYMENT.md)。
+
+## 最新增量：2026-11-06 首页选型流程
+
+- 将首页设备连接说明改为四个编号节点与箭头；桌面四列，手机和平板纵向，适配阿拉伯语 RTL。
+- 保留20语言文案、原有顺序、产品和咨询链接；新增样式局限于首页，不新增运行依赖。
+- TypeScript、ESLint、生产构建及2460页导出、SEO、结构化数据检查通过；已人工检查英/德/阿在320/390/768/1440px的布局。
+- 现有66项测试中65项通过；1项因缺少17份仓库外历史归档图片而失败。德语首页原证书区在320px下仍有约41px溢出，本次流程区域无内容溢出。
+- 未发布到VPS。实现、截图和验收记录见 [选型流程记录](plans/2026-11-06-selection-flow.md)。

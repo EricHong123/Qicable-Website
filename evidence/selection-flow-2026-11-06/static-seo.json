@@ -1,0 +1,4720 @@
+{
+  "pages": 2460,
+  "indexingEnabled": true,
+  "duplicateTitlesWithinLocale": 0,
+  "duplicateDescriptionsWithinLocale": 0,
+  "failures": [],
+  "lengthWarnings": [
+    {
+      "path": "/products/qc50d01/",
+      "title": 62,
+      "description": 90
+    },
+    {
+      "path": "/products/qc52a00/",
+      "title": 78,
+      "description": 106
+    },
+    {
+      "path": "/products/qc50c00/",
+      "title": 64,
+      "description": 92
+    },
+    {
+      "path": "/products/qc50a00/",
+      "title": 66,
+      "description": 94
+    },
+    {
+      "path": "/products/qc12a02/",
+      "title": 65,
+      "description": 93
+    },
+    {
+      "path": "/products/qc51a00/",
+      "title": 64,
+      "description": 92
+    },
+    {
+      "path": "/products/qc12b02/",
+      "title": 77,
+      "description": 105
+    },
+    {
+      "path": "/products/qc14b00/",
+      "title": 75,
+      "description": 103
+    },
+    {
+      "path": "/products/qc10b01/",
+      "title": 65,
+      "description": 93
+    },
+    {
+      "path": "/products/qc13a03/",
+      "title": 64,
+      "description": 92
+    },
+    {
+      "path": "/products/qc61b00/",
+      "title": 64,
+      "description": 92
+    },
+    {
+      "path": "/products/qc10a02/",
+      "title": 65,
+      "description": 93
+    },
+    {
+      "path": "/products/qc50c01/",
+      "title": 66,
+      "description": 94
+    },
+    {
+      "path": "/products/qc52a01/",
+      "title": 76,
+      "description": 104
+    },
+    {
+      "path": "/products/qc53b00/",
+      "title": 62,
+      "description": 90
+    },
+    {
+      "path": "/products/qc53a00/",
+      "title": 64,
+      "description": 92
+    },
+    {
+      "path": "/products/qc14b01/",
+      "title": 84,
+      "description": 112
+    },
+    {
+      "path": "/products/qc10b02/",
+      "title": 61,
+      "description": 89
+    },
+    {
+      "path": "/products/qc61a00/",
+      "title": 62,
+      "description": 90
+    },
+    {
+      "path": "/products/qc50a01/",
+      "title": 64,
+      "description": 92
+    },
+    {
+      "path": "/products/qc10a01/",
+      "title": 63,
+      "description": 91
+    },
+    {
+      "path": "/products/qc51b00/",
+      "title": 62,
+      "description": 90
+    },
+    {
+      "path": "/products/qc14a01/",
+      "title": 71,
+      "description": 99
+    },
+    {
+      "path": "/products/qc50b00/",
+      "title": 64,
+      "description": 92
+    },
+    {
+      "path": "/products/qc12b00/",
+      "title": 83,
+      "description": 111
+    },
+    {
+      "path": "/products/qc53b01/",
+      "title": 69,
+      "description": 97
+    },
+    {
+      "path": "/products/qc14a00/",
+      "title": 71,
+      "description": 99
+    },
+    {
+      "path": "/products/qc14a02/",
+      "title": 72,
+      "description": 100
+    },
+    {
+      "path": "/products/qc50d00/",
+      "title": 62,
+      "description": 90
+    },
+    {
+      "path": "/products/qc50a02/",
+      "title": 64,
+      "description": 92
+    },
+    {
+      "path": "/products/qc12b03/",
+      "title": 78,
+      "description": 106
+    },
+    {
+      "path": "/products/qc12a00/",
+      "title": 71,
+      "description": 99
+    },
+    {
+      "path": "/products/qc12b01/",
+      "title": 77,
+      "description": 105
+    },
+    {
+      "path": "/certificates/",
+      "title": 45,
+      "description": 219
+    },
+    {
+      "path": "/machine-vision-cable-selection-guide/",
+      "title": 62,
+      "description": 160
+    },
+    {
+      "path": "/m12-coding-guide/",
+      "title": 56,
+      "description": 164
+    },
+    {
+      "path": "/static-vs-continuous-flex-cables/",
+      "title": 58,
+      "description": 178
+    },
+    {
+      "path": "/panel-mount-cable-dimensions-guide/",
+      "title": 64,
+      "description": 158
+    },
+    {
+      "path": "/rs232-vs-rs485-vs-ttl/",
+      "title": 42,
+      "description": 189
+    },
+    {
+      "path": "/cable-shielding-grounding-guide/",
+      "title": 39,
+      "description": 180
+    },
+    {
+      "path": "/usb3-vision-cable-length-guide/",
+      "title": 63,
+      "description": 170
+    },
+    {
+      "path": "/gige-vision-packet-loss-troubleshooting/",
+      "title": 52,
+      "description": 199
+    },
+    {
+      "path": "/custom-cable-assembly-rfq-checklist/",
+      "title": 62,
+      "description": 194
+    },
+    {
+      "path": "/usb-rs485-wiring-troubleshooting/",
+      "title": 65,
+      "description": 175
+    },
+    {
+      "path": "/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 60,
+      "description": 167
+    },
+    {
+      "path": "/drag-chain-cable-selection-rfq-specs/",
+      "title": 70,
+      "description": 155
+    },
+    {
+      "path": "/about/",
+      "title": 23,
+      "description": 215
+    },
+    {
+      "path": "/de/products/qc50d01/",
+      "title": 63,
+      "description": 98
+    },
+    {
+      "path": "/de/products/qc52a00/",
+      "title": 79,
+      "description": 114
+    },
+    {
+      "path": "/de/products/qc50c00/",
+      "title": 65,
+      "description": 100
+    },
+    {
+      "path": "/de/products/qc50a00/",
+      "title": 67,
+      "description": 102
+    },
+    {
+      "path": "/de/products/qc12a02/",
+      "title": 66,
+      "description": 101
+    },
+    {
+      "path": "/de/products/qc51a00/",
+      "title": 65,
+      "description": 100
+    },
+    {
+      "path": "/de/products/qc12b02/",
+      "title": 78,
+      "description": 113
+    },
+    {
+      "path": "/de/products/qc14b00/",
+      "title": 76,
+      "description": 111
+    },
+    {
+      "path": "/de/products/qc10b01/",
+      "title": 66,
+      "description": 101
+    },
+    {
+      "path": "/de/products/qc13a03/",
+      "title": 65,
+      "description": 100
+    },
+    {
+      "path": "/de/products/qc61b00/",
+      "title": 65,
+      "description": 100
+    },
+    {
+      "path": "/de/products/qc10a02/",
+      "title": 66,
+      "description": 101
+    },
+    {
+      "path": "/de/products/qc50c01/",
+      "title": 67,
+      "description": 102
+    },
+    {
+      "path": "/de/products/qc52a01/",
+      "title": 77,
+      "description": 112
+    },
+    {
+      "path": "/de/products/qc53b00/",
+      "title": 63,
+      "description": 98
+    },
+    {
+      "path": "/de/products/qc51c00/",
+      "title": 61,
+      "description": 96
+    },
+    {
+      "path": "/de/products/qc53a00/",
+      "title": 65,
+      "description": 100
+    },
+    {
+      "path": "/de/products/qc14b01/",
+      "title": 85,
+      "description": 120
+    },
+    {
+      "path": "/de/products/qc10b02/",
+      "title": 62,
+      "description": 97
+    },
+    {
+      "path": "/de/products/qc61a00/",
+      "title": 63,
+      "description": 98
+    },
+    {
+      "path": "/de/products/qc50a01/",
+      "title": 65,
+      "description": 100
+    },
+    {
+      "path": "/de/products/qc10a01/",
+      "title": 64,
+      "description": 99
+    },
+    {
+      "path": "/de/products/qc51b00/",
+      "title": 63,
+      "description": 98
+    },
+    {
+      "path": "/de/products/qc14a01/",
+      "title": 72,
+      "description": 107
+    },
+    {
+      "path": "/de/products/qc50b00/",
+      "title": 65,
+      "description": 100
+    },
+    {
+      "path": "/de/products/qc12b00/",
+      "title": 84,
+      "description": 119
+    },
+    {
+      "path": "/de/products/qc53b01/",
+      "title": 70,
+      "description": 105
+    },
+    {
+      "path": "/de/products/qc14a00/",
+      "title": 72,
+      "description": 107
+    },
+    {
+      "path": "/de/products/qc14a02/",
+      "title": 73,
+      "description": 108
+    },
+    {
+      "path": "/de/products/qc50d00/",
+      "title": 63,
+      "description": 98
+    },
+    {
+      "path": "/de/products/qc50a02/",
+      "title": 65,
+      "description": 100
+    },
+    {
+      "path": "/de/products/qc12b03/",
+      "title": 79,
+      "description": 114
+    },
+    {
+      "path": "/de/products/qc12a00/",
+      "title": 72,
+      "description": 107
+    },
+    {
+      "path": "/de/products/qc12b01/",
+      "title": 78,
+      "description": 113
+    },
+    {
+      "path": "/de/certificates/",
+      "title": 47,
+      "description": 206
+    },
+    {
+      "path": "/de/blog/machine-vision-cable-selection-guide/",
+      "title": 69,
+      "description": 163
+    },
+    {
+      "path": "/de/blog/m12-coding-guide/",
+      "title": 59,
+      "description": 200
+    },
+    {
+      "path": "/de/blog/static-vs-continuous-flex-cables/",
+      "title": 63,
+      "description": 189
+    },
+    {
+      "path": "/de/blog/panel-mount-cable-dimensions-guide/",
+      "title": 58,
+      "description": 163
+    },
+    {
+      "path": "/de/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 30,
+      "description": 186
+    },
+    {
+      "path": "/de/blog/usb3-vision-cable-length-guide/",
+      "title": 61,
+      "description": 174
+    },
+    {
+      "path": "/de/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 62,
+      "description": 176
+    },
+    {
+      "path": "/de/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 60,
+      "description": 176
+    },
+    {
+      "path": "/de/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 61,
+      "description": 170
+    },
+    {
+      "path": "/de/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 69,
+      "description": 172
+    },
+    {
+      "path": "/de/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 89,
+      "description": 204
+    },
+    {
+      "path": "/de/about/",
+      "title": 22,
+      "description": 228
+    },
+    {
+      "path": "/de/purchasing/",
+      "title": 32,
+      "description": 174
+    },
+    {
+      "path": "/es/products/qc50d01/",
+      "title": 61,
+      "description": 94
+    },
+    {
+      "path": "/es/products/qc52a00/",
+      "title": 77,
+      "description": 110
+    },
+    {
+      "path": "/es/products/qc50c00/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/es/products/qc50a00/",
+      "title": 65,
+      "description": 98
+    },
+    {
+      "path": "/es/products/qc12a02/",
+      "title": 64,
+      "description": 97
+    },
+    {
+      "path": "/es/products/qc51a00/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/es/products/qc12b02/",
+      "title": 76,
+      "description": 109
+    },
+    {
+      "path": "/es/products/qc14b00/",
+      "title": 74,
+      "description": 107
+    },
+    {
+      "path": "/es/products/qc10b01/",
+      "title": 64,
+      "description": 97
+    },
+    {
+      "path": "/es/products/qc13a03/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/es/products/qc61b00/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/es/products/qc10a02/",
+      "title": 64,
+      "description": 97
+    },
+    {
+      "path": "/es/products/qc50c01/",
+      "title": 65,
+      "description": 98
+    },
+    {
+      "path": "/es/products/qc52a01/",
+      "title": 75,
+      "description": 108
+    },
+    {
+      "path": "/es/products/qc53b00/",
+      "title": 61,
+      "description": 94
+    },
+    {
+      "path": "/es/products/qc53a00/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/es/products/qc14b01/",
+      "title": 83,
+      "description": 116
+    },
+    {
+      "path": "/es/products/qc61a00/",
+      "title": 61,
+      "description": 94
+    },
+    {
+      "path": "/es/products/qc50a01/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/es/products/qc10a01/",
+      "title": 62,
+      "description": 95
+    },
+    {
+      "path": "/es/products/qc51b00/",
+      "title": 61,
+      "description": 94
+    },
+    {
+      "path": "/es/products/qc14a01/",
+      "title": 70,
+      "description": 103
+    },
+    {
+      "path": "/es/products/qc50b00/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/es/products/qc12b00/",
+      "title": 82,
+      "description": 115
+    },
+    {
+      "path": "/es/products/qc53b01/",
+      "title": 68,
+      "description": 101
+    },
+    {
+      "path": "/es/products/qc14a00/",
+      "title": 70,
+      "description": 103
+    },
+    {
+      "path": "/es/products/qc14a02/",
+      "title": 71,
+      "description": 104
+    },
+    {
+      "path": "/es/products/qc50d00/",
+      "title": 61,
+      "description": 94
+    },
+    {
+      "path": "/es/products/qc50a02/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/es/products/qc12b03/",
+      "title": 77,
+      "description": 110
+    },
+    {
+      "path": "/es/products/qc12a00/",
+      "title": 70,
+      "description": 103
+    },
+    {
+      "path": "/es/products/qc12b01/",
+      "title": 76,
+      "description": 109
+    },
+    {
+      "path": "/es/applications/machine-vision/",
+      "title": 64,
+      "description": 146
+    },
+    {
+      "path": "/es/applications/robotics/",
+      "title": 43,
+      "description": 166
+    },
+    {
+      "path": "/es/certificates/",
+      "title": 50,
+      "description": 189
+    },
+    {
+      "path": "/es/blog/machine-vision-cable-selection-guide/",
+      "title": 59,
+      "description": 178
+    },
+    {
+      "path": "/es/blog/static-vs-continuous-flex-cables/",
+      "title": 59,
+      "description": 166
+    },
+    {
+      "path": "/es/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 39,
+      "description": 175
+    },
+    {
+      "path": "/es/blog/cable-shielding-grounding-guide/",
+      "title": 36,
+      "description": 177
+    },
+    {
+      "path": "/es/blog/usb3-vision-cable-length-guide/",
+      "title": 64,
+      "description": 162
+    },
+    {
+      "path": "/es/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 58,
+      "description": 164
+    },
+    {
+      "path": "/es/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 64,
+      "description": 154
+    },
+    {
+      "path": "/es/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 75,
+      "description": 202
+    },
+    {
+      "path": "/es/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 95,
+      "description": 220
+    },
+    {
+      "path": "/es/about/",
+      "title": 27,
+      "description": 210
+    },
+    {
+      "path": "/es/purchasing/",
+      "title": 28,
+      "description": 164
+    },
+    {
+      "path": "/fr/",
+      "title": 51,
+      "description": 173
+    },
+    {
+      "path": "/fr/products/qc50d01/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/fr/products/qc52a00/",
+      "title": 80,
+      "description": 111
+    },
+    {
+      "path": "/fr/products/qc50c00/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/fr/products/qc50a00/",
+      "title": 68,
+      "description": 99
+    },
+    {
+      "path": "/fr/products/qc12a02/",
+      "title": 67,
+      "description": 98
+    },
+    {
+      "path": "/fr/products/qc51a00/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/fr/products/qc12b02/",
+      "title": 79,
+      "description": 110
+    },
+    {
+      "path": "/fr/products/qc14b00/",
+      "title": 77,
+      "description": 108
+    },
+    {
+      "path": "/fr/products/qc10b01/",
+      "title": 67,
+      "description": 98
+    },
+    {
+      "path": "/fr/products/qc13a03/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/fr/products/qc61b00/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/fr/products/qc10a02/",
+      "title": 67,
+      "description": 98
+    },
+    {
+      "path": "/fr/products/qc50c01/",
+      "title": 68,
+      "description": 99
+    },
+    {
+      "path": "/fr/products/qc52a01/",
+      "title": 78,
+      "description": 109
+    },
+    {
+      "path": "/fr/products/qc53b00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/fr/products/qc51c00/",
+      "title": 62,
+      "description": 93
+    },
+    {
+      "path": "/fr/products/qc53a00/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/fr/products/qc14b01/",
+      "title": 86,
+      "description": 117
+    },
+    {
+      "path": "/fr/products/qc10b02/",
+      "title": 63,
+      "description": 94
+    },
+    {
+      "path": "/fr/products/qc61a00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/fr/products/qc50a01/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/fr/products/qc10a01/",
+      "title": 65,
+      "description": 96
+    },
+    {
+      "path": "/fr/products/qc51b00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/fr/products/qc14a01/",
+      "title": 73,
+      "description": 104
+    },
+    {
+      "path": "/fr/products/qc50b00/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/fr/products/qc54b00/",
+      "title": 61,
+      "description": 92
+    },
+    {
+      "path": "/fr/products/qc12b00/",
+      "title": 85,
+      "description": 116
+    },
+    {
+      "path": "/fr/products/qc53b01/",
+      "title": 71,
+      "description": 102
+    },
+    {
+      "path": "/fr/products/qc14a00/",
+      "title": 73,
+      "description": 104
+    },
+    {
+      "path": "/fr/products/qc14a02/",
+      "title": 74,
+      "description": 105
+    },
+    {
+      "path": "/fr/products/qc50d00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/fr/products/qc13a02/",
+      "title": 61,
+      "description": 92
+    },
+    {
+      "path": "/fr/products/qc50a02/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/fr/products/qc12b03/",
+      "title": 80,
+      "description": 111
+    },
+    {
+      "path": "/fr/products/qc12a00/",
+      "title": 73,
+      "description": 104
+    },
+    {
+      "path": "/fr/products/qc12b01/",
+      "title": 79,
+      "description": 110
+    },
+    {
+      "path": "/fr/applications/equipment-integration/",
+      "title": 64,
+      "description": 139
+    },
+    {
+      "path": "/fr/certificates/",
+      "title": 48,
+      "description": 204
+    },
+    {
+      "path": "/fr/blog/machine-vision-cable-selection-guide/",
+      "title": 62,
+      "description": 174
+    },
+    {
+      "path": "/fr/blog/panel-mount-cable-dimensions-guide/",
+      "title": 62,
+      "description": 161
+    },
+    {
+      "path": "/fr/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 40,
+      "description": 188
+    },
+    {
+      "path": "/fr/blog/cable-shielding-grounding-guide/",
+      "title": 37,
+      "description": 169
+    },
+    {
+      "path": "/fr/blog/usb3-vision-cable-length-guide/",
+      "title": 65,
+      "description": 161
+    },
+    {
+      "path": "/fr/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 59,
+      "description": 162
+    },
+    {
+      "path": "/fr/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 53,
+      "description": 173
+    },
+    {
+      "path": "/fr/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 66,
+      "description": 164
+    },
+    {
+      "path": "/fr/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 70,
+      "description": 196
+    },
+    {
+      "path": "/fr/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 111,
+      "description": 247
+    },
+    {
+      "path": "/fr/about/",
+      "title": 29,
+      "description": 219
+    },
+    {
+      "path": "/fr/purchasing/",
+      "title": 39,
+      "description": 175
+    },
+    {
+      "path": "/pt/products/qc50d01/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/pt/products/qc52a00/",
+      "title": 79,
+      "description": 112
+    },
+    {
+      "path": "/pt/products/qc50c00/",
+      "title": 65,
+      "description": 98
+    },
+    {
+      "path": "/pt/products/qc50a00/",
+      "title": 67,
+      "description": 100
+    },
+    {
+      "path": "/pt/products/qc12a02/",
+      "title": 66,
+      "description": 99
+    },
+    {
+      "path": "/pt/products/qc51a00/",
+      "title": 65,
+      "description": 98
+    },
+    {
+      "path": "/pt/products/qc12b02/",
+      "title": 78,
+      "description": 111
+    },
+    {
+      "path": "/pt/products/qc14b00/",
+      "title": 76,
+      "description": 109
+    },
+    {
+      "path": "/pt/products/qc10b01/",
+      "title": 66,
+      "description": 99
+    },
+    {
+      "path": "/pt/products/qc13a03/",
+      "title": 65,
+      "description": 98
+    },
+    {
+      "path": "/pt/products/qc61b00/",
+      "title": 65,
+      "description": 98
+    },
+    {
+      "path": "/pt/products/qc10a02/",
+      "title": 66,
+      "description": 99
+    },
+    {
+      "path": "/pt/products/qc50c01/",
+      "title": 67,
+      "description": 100
+    },
+    {
+      "path": "/pt/products/qc52a01/",
+      "title": 77,
+      "description": 110
+    },
+    {
+      "path": "/pt/products/qc53b00/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/pt/products/qc51c00/",
+      "title": 61,
+      "description": 94
+    },
+    {
+      "path": "/pt/products/qc53a00/",
+      "title": 65,
+      "description": 98
+    },
+    {
+      "path": "/pt/products/qc14b01/",
+      "title": 85,
+      "description": 118
+    },
+    {
+      "path": "/pt/products/qc10b02/",
+      "title": 62,
+      "description": 95
+    },
+    {
+      "path": "/pt/products/qc61a00/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/pt/products/qc50a01/",
+      "title": 65,
+      "description": 98
+    },
+    {
+      "path": "/pt/products/qc10a01/",
+      "title": 64,
+      "description": 97
+    },
+    {
+      "path": "/pt/products/qc51b00/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/pt/products/qc14a01/",
+      "title": 72,
+      "description": 105
+    },
+    {
+      "path": "/pt/products/qc50b00/",
+      "title": 65,
+      "description": 98
+    },
+    {
+      "path": "/pt/products/qc12b00/",
+      "title": 84,
+      "description": 117
+    },
+    {
+      "path": "/pt/products/qc53b01/",
+      "title": 70,
+      "description": 103
+    },
+    {
+      "path": "/pt/products/qc14a00/",
+      "title": 72,
+      "description": 105
+    },
+    {
+      "path": "/pt/products/qc14a02/",
+      "title": 73,
+      "description": 106
+    },
+    {
+      "path": "/pt/products/qc50d00/",
+      "title": 63,
+      "description": 96
+    },
+    {
+      "path": "/pt/products/qc50a02/",
+      "title": 65,
+      "description": 98
+    },
+    {
+      "path": "/pt/products/qc12b03/",
+      "title": 79,
+      "description": 112
+    },
+    {
+      "path": "/pt/products/qc12a00/",
+      "title": 72,
+      "description": 105
+    },
+    {
+      "path": "/pt/products/qc12b01/",
+      "title": 78,
+      "description": 111
+    },
+    {
+      "path": "/pt/applications/machine-vision/",
+      "title": 61,
+      "description": 155
+    },
+    {
+      "path": "/pt/certificates/",
+      "title": 51,
+      "description": 190
+    },
+    {
+      "path": "/pt/blog/machine-vision-cable-selection-guide/",
+      "title": 57,
+      "description": 163
+    },
+    {
+      "path": "/pt/blog/m12-coding-guide/",
+      "title": 50,
+      "description": 167
+    },
+    {
+      "path": "/pt/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 37,
+      "description": 184
+    },
+    {
+      "path": "/pt/blog/cable-shielding-grounding-guide/",
+      "title": 37,
+      "description": 173
+    },
+    {
+      "path": "/pt/blog/usb3-vision-cable-length-guide/",
+      "title": 64,
+      "description": 158
+    },
+    {
+      "path": "/pt/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 56,
+      "description": 163
+    },
+    {
+      "path": "/pt/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 62,
+      "description": 149
+    },
+    {
+      "path": "/pt/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 71,
+      "description": 182
+    },
+    {
+      "path": "/pt/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 90,
+      "description": 207
+    },
+    {
+      "path": "/pt/about/",
+      "title": 25,
+      "description": 201
+    },
+    {
+      "path": "/ar/products/qc50d01/",
+      "title": 62,
+      "description": 81
+    },
+    {
+      "path": "/ar/products/qc52a00/",
+      "title": 78,
+      "description": 97
+    },
+    {
+      "path": "/ar/products/qc50c00/",
+      "title": 64,
+      "description": 83
+    },
+    {
+      "path": "/ar/products/qc50a00/",
+      "title": 66,
+      "description": 85
+    },
+    {
+      "path": "/ar/products/qc12a02/",
+      "title": 65,
+      "description": 84
+    },
+    {
+      "path": "/ar/products/qc51a00/",
+      "title": 64,
+      "description": 83
+    },
+    {
+      "path": "/ar/products/qc12b02/",
+      "title": 77,
+      "description": 96
+    },
+    {
+      "path": "/ar/products/qc14b00/",
+      "title": 75,
+      "description": 94
+    },
+    {
+      "path": "/ar/products/qc10b01/",
+      "title": 65,
+      "description": 84
+    },
+    {
+      "path": "/ar/products/qc13a03/",
+      "title": 64,
+      "description": 83
+    },
+    {
+      "path": "/ar/products/qc61b00/",
+      "title": 64,
+      "description": 83
+    },
+    {
+      "path": "/ar/products/qc10a02/",
+      "title": 65,
+      "description": 84
+    },
+    {
+      "path": "/ar/products/qc50c01/",
+      "title": 66,
+      "description": 85
+    },
+    {
+      "path": "/ar/products/qc52a01/",
+      "title": 76,
+      "description": 95
+    },
+    {
+      "path": "/ar/products/qc53b00/",
+      "title": 62,
+      "description": 81
+    },
+    {
+      "path": "/ar/products/qc53a00/",
+      "title": 64,
+      "description": 83
+    },
+    {
+      "path": "/ar/products/qc14b01/",
+      "title": 84,
+      "description": 103
+    },
+    {
+      "path": "/ar/products/qc10b02/",
+      "title": 61,
+      "description": 80
+    },
+    {
+      "path": "/ar/products/qc61a00/",
+      "title": 62,
+      "description": 81
+    },
+    {
+      "path": "/ar/products/qc50a01/",
+      "title": 64,
+      "description": 83
+    },
+    {
+      "path": "/ar/products/qc10a01/",
+      "title": 63,
+      "description": 82
+    },
+    {
+      "path": "/ar/products/qc51b00/",
+      "title": 62,
+      "description": 81
+    },
+    {
+      "path": "/ar/products/qc14a01/",
+      "title": 71,
+      "description": 90
+    },
+    {
+      "path": "/ar/products/qc50b00/",
+      "title": 64,
+      "description": 83
+    },
+    {
+      "path": "/ar/products/qc12b00/",
+      "title": 83,
+      "description": 102
+    },
+    {
+      "path": "/ar/products/qc53b01/",
+      "title": 69,
+      "description": 88
+    },
+    {
+      "path": "/ar/products/qc14a00/",
+      "title": 71,
+      "description": 90
+    },
+    {
+      "path": "/ar/products/qc14a02/",
+      "title": 72,
+      "description": 91
+    },
+    {
+      "path": "/ar/products/qc50d00/",
+      "title": 62,
+      "description": 81
+    },
+    {
+      "path": "/ar/products/qc50a02/",
+      "title": 64,
+      "description": 83
+    },
+    {
+      "path": "/ar/products/qc12b03/",
+      "title": 78,
+      "description": 97
+    },
+    {
+      "path": "/ar/products/qc12a00/",
+      "title": 71,
+      "description": 90
+    },
+    {
+      "path": "/ar/products/qc12b01/",
+      "title": 77,
+      "description": 96
+    },
+    {
+      "path": "/ar/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 64,
+      "description": 149
+    },
+    {
+      "path": "/ar/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 61,
+      "description": 124
+    },
+    {
+      "path": "/ar/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 65,
+      "description": 164
+    },
+    {
+      "path": "/ar/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 64,
+      "description": 162
+    },
+    {
+      "path": "/ar/about/",
+      "title": 20,
+      "description": 171
+    },
+    {
+      "path": "/it/",
+      "title": 51,
+      "description": 170
+    },
+    {
+      "path": "/it/products/qc50d01/",
+      "title": 69,
+      "description": 103
+    },
+    {
+      "path": "/it/products/qc52a00/",
+      "title": 94,
+      "description": 128
+    },
+    {
+      "path": "/it/products/qc50c00/",
+      "title": 69,
+      "description": 103
+    },
+    {
+      "path": "/it/products/qc50a00/",
+      "title": 79,
+      "description": 113
+    },
+    {
+      "path": "/it/products/qc12a02/",
+      "title": 70,
+      "description": 104
+    },
+    {
+      "path": "/it/products/qc51a00/",
+      "title": 80,
+      "description": 114
+    },
+    {
+      "path": "/it/products/qc61c00/",
+      "title": 62,
+      "description": 96
+    },
+    {
+      "path": "/it/products/qc61c01/",
+      "title": 62,
+      "description": 96
+    },
+    {
+      "path": "/it/products/qc12b02/",
+      "title": 81,
+      "description": 115
+    },
+    {
+      "path": "/it/products/qc14b00/",
+      "title": 95,
+      "description": 129
+    },
+    {
+      "path": "/it/products/qc10b01/",
+      "title": 71,
+      "description": 105
+    },
+    {
+      "path": "/it/products/qc13a03/",
+      "title": 66,
+      "description": 100
+    },
+    {
+      "path": "/it/products/qc61b00/",
+      "title": 69,
+      "description": 103
+    },
+    {
+      "path": "/it/products/qc33b00/",
+      "title": 67,
+      "description": 101
+    },
+    {
+      "path": "/it/products/qc61c02/",
+      "title": 61,
+      "description": 95
+    },
+    {
+      "path": "/it/products/qc10a02/",
+      "title": 63,
+      "description": 97
+    },
+    {
+      "path": "/it/products/qc54a00/",
+      "title": 70,
+      "description": 104
+    },
+    {
+      "path": "/it/products/qc50c01/",
+      "title": 69,
+      "description": 103
+    },
+    {
+      "path": "/it/products/qc52a01/",
+      "title": 94,
+      "description": 128
+    },
+    {
+      "path": "/it/products/qc53b00/",
+      "title": 80,
+      "description": 114
+    },
+    {
+      "path": "/it/products/qc51c00/",
+      "title": 80,
+      "description": 114
+    },
+    {
+      "path": "/it/products/qc33a00/",
+      "title": 67,
+      "description": 101
+    },
+    {
+      "path": "/it/products/qc53a00/",
+      "title": 80,
+      "description": 114
+    },
+    {
+      "path": "/it/products/qc14b01/",
+      "title": 106,
+      "description": 140
+    },
+    {
+      "path": "/it/products/qc10b02/",
+      "title": 62,
+      "description": 96
+    },
+    {
+      "path": "/it/products/qc61a00/",
+      "title": 69,
+      "description": 103
+    },
+    {
+      "path": "/it/products/qc50a01/",
+      "title": 79,
+      "description": 113
+    },
+    {
+      "path": "/it/products/qc10a01/",
+      "title": 69,
+      "description": 103
+    },
+    {
+      "path": "/it/products/qc51b00/",
+      "title": 80,
+      "description": 114
+    },
+    {
+      "path": "/it/products/qc33c00/",
+      "title": 67,
+      "description": 101
+    },
+    {
+      "path": "/it/products/qc14a01/",
+      "title": 88,
+      "description": 122
+    },
+    {
+      "path": "/it/products/qc50b00/",
+      "title": 69,
+      "description": 103
+    },
+    {
+      "path": "/it/products/qc54b00/",
+      "title": 73,
+      "description": 107
+    },
+    {
+      "path": "/it/products/qc12b00/",
+      "title": 87,
+      "description": 121
+    },
+    {
+      "path": "/it/products/qc53b01/",
+      "title": 87,
+      "description": 121
+    },
+    {
+      "path": "/it/products/qc14a00/",
+      "title": 88,
+      "description": 122
+    },
+    {
+      "path": "/it/products/qc14a02/",
+      "title": 89,
+      "description": 123
+    },
+    {
+      "path": "/it/products/qc50d00/",
+      "title": 69,
+      "description": 103
+    },
+    {
+      "path": "/it/products/qc50a02/",
+      "title": 79,
+      "description": 113
+    },
+    {
+      "path": "/it/products/qc12b03/",
+      "title": 79,
+      "description": 113
+    },
+    {
+      "path": "/it/products/qc12a00/",
+      "title": 76,
+      "description": 110
+    },
+    {
+      "path": "/it/products/qc12b01/",
+      "title": 81,
+      "description": 115
+    },
+    {
+      "path": "/it/applications/",
+      "title": 49,
+      "description": 184
+    },
+    {
+      "path": "/it/applications/machine-vision/",
+      "title": 64,
+      "description": 163
+    },
+    {
+      "path": "/it/applications/robotics/",
+      "title": 44,
+      "description": 179
+    },
+    {
+      "path": "/it/applications/industrial-pc-hmi/",
+      "title": 54,
+      "description": 166
+    },
+    {
+      "path": "/it/applications/equipment-integration/",
+      "title": 66,
+      "description": 192
+    },
+    {
+      "path": "/it/certificates/",
+      "title": 47,
+      "description": 253
+    },
+    {
+      "path": "/it/resources/guides/",
+      "title": 24,
+      "description": 176
+    },
+    {
+      "path": "/it/blog/",
+      "title": 14,
+      "description": 170
+    },
+    {
+      "path": "/it/blog/machine-vision-cable-selection-guide/",
+      "title": 74,
+      "description": 197
+    },
+    {
+      "path": "/it/blog/m12-coding-guide/",
+      "title": 61,
+      "description": 162
+    },
+    {
+      "path": "/it/blog/static-vs-continuous-flex-cables/",
+      "title": 70,
+      "description": 180
+    },
+    {
+      "path": "/it/blog/panel-mount-cable-dimensions-guide/",
+      "title": 76,
+      "description": 193
+    },
+    {
+      "path": "/it/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 41,
+      "description": 221
+    },
+    {
+      "path": "/it/blog/cable-shielding-grounding-guide/",
+      "title": 46,
+      "description": 212
+    },
+    {
+      "path": "/it/blog/usb3-vision-cable-length-guide/",
+      "title": 67,
+      "description": 227
+    },
+    {
+      "path": "/it/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 56,
+      "description": 222
+    },
+    {
+      "path": "/it/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 66,
+      "description": 248
+    },
+    {
+      "path": "/it/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 67,
+      "description": 224
+    },
+    {
+      "path": "/it/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 70,
+      "description": 207
+    },
+    {
+      "path": "/it/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 89,
+      "description": 208
+    },
+    {
+      "path": "/it/resources/downloads/",
+      "title": 30,
+      "description": 176
+    },
+    {
+      "path": "/it/about/",
+      "title": 33,
+      "description": 237
+    },
+    {
+      "path": "/it/partners/",
+      "title": 44,
+      "description": 164
+    },
+    {
+      "path": "/it/purchasing/",
+      "title": 44,
+      "description": 199
+    },
+    {
+      "path": "/nl/products/qc50d01/",
+      "title": 75,
+      "description": 111
+    },
+    {
+      "path": "/nl/products/qc52a00/",
+      "title": 89,
+      "description": 125
+    },
+    {
+      "path": "/nl/products/qc50c00/",
+      "title": 76,
+      "description": 112
+    },
+    {
+      "path": "/nl/products/qc50a00/",
+      "title": 77,
+      "description": 113
+    },
+    {
+      "path": "/nl/products/qc12a02/",
+      "title": 81,
+      "description": 117
+    },
+    {
+      "path": "/nl/products/qc51a00/",
+      "title": 71,
+      "description": 107
+    },
+    {
+      "path": "/nl/products/qc61c00/",
+      "title": 67,
+      "description": 103
+    },
+    {
+      "path": "/nl/products/qc61c01/",
+      "title": 68,
+      "description": 104
+    },
+    {
+      "path": "/nl/products/qc12b02/",
+      "title": 95,
+      "description": 131
+    },
+    {
+      "path": "/nl/products/qc14b00/",
+      "title": 82,
+      "description": 118
+    },
+    {
+      "path": "/nl/products/qc10b01/",
+      "title": 77,
+      "description": 113
+    },
+    {
+      "path": "/nl/products/qc13a03/",
+      "title": 70,
+      "description": 106
+    },
+    {
+      "path": "/nl/products/qc61b00/",
+      "title": 75,
+      "description": 111
+    },
+    {
+      "path": "/nl/products/qc61c02/",
+      "title": 66,
+      "description": 102
+    },
+    {
+      "path": "/nl/products/qc10a02/",
+      "title": 67,
+      "description": 103
+    },
+    {
+      "path": "/nl/products/qc50c01/",
+      "title": 77,
+      "description": 113
+    },
+    {
+      "path": "/nl/products/qc52a01/",
+      "title": 88,
+      "description": 124
+    },
+    {
+      "path": "/nl/products/qc53b00/",
+      "title": 74,
+      "description": 110
+    },
+    {
+      "path": "/nl/products/qc51c00/",
+      "title": 67,
+      "description": 103
+    },
+    {
+      "path": "/nl/products/qc53a00/",
+      "title": 75,
+      "description": 111
+    },
+    {
+      "path": "/nl/products/qc14b01/",
+      "title": 104,
+      "description": 140
+    },
+    {
+      "path": "/nl/products/qc62a00/",
+      "title": 62,
+      "description": 98
+    },
+    {
+      "path": "/nl/products/qc10b02/",
+      "title": 63,
+      "description": 99
+    },
+    {
+      "path": "/nl/products/qc61a00/",
+      "title": 74,
+      "description": 110
+    },
+    {
+      "path": "/nl/products/qc50a01/",
+      "title": 76,
+      "description": 112
+    },
+    {
+      "path": "/nl/products/qc10a01/",
+      "title": 75,
+      "description": 111
+    },
+    {
+      "path": "/nl/products/qc51b00/",
+      "title": 69,
+      "description": 105
+    },
+    {
+      "path": "/nl/products/qc14a01/",
+      "title": 83,
+      "description": 119
+    },
+    {
+      "path": "/nl/products/qc50b00/",
+      "title": 76,
+      "description": 112
+    },
+    {
+      "path": "/nl/products/qc54b00/",
+      "title": 62,
+      "description": 98
+    },
+    {
+      "path": "/nl/products/qc12b00/",
+      "title": 101,
+      "description": 137
+    },
+    {
+      "path": "/nl/products/qc53b01/",
+      "title": 81,
+      "description": 117
+    },
+    {
+      "path": "/nl/products/qc14a00/",
+      "title": 83,
+      "description": 119
+    },
+    {
+      "path": "/nl/products/qc14a02/",
+      "title": 84,
+      "description": 120
+    },
+    {
+      "path": "/nl/products/qc50d00/",
+      "title": 75,
+      "description": 111
+    },
+    {
+      "path": "/nl/products/qc13a02/",
+      "title": 63,
+      "description": 99
+    },
+    {
+      "path": "/nl/products/qc50a02/",
+      "title": 76,
+      "description": 112
+    },
+    {
+      "path": "/nl/products/qc12b03/",
+      "title": 91,
+      "description": 127
+    },
+    {
+      "path": "/nl/products/qc62a01/",
+      "title": 63,
+      "description": 99
+    },
+    {
+      "path": "/nl/products/qc12a00/",
+      "title": 87,
+      "description": 123
+    },
+    {
+      "path": "/nl/products/qc12b01/",
+      "title": 95,
+      "description": 131
+    },
+    {
+      "path": "/nl/certificates/",
+      "title": 47,
+      "description": 256
+    },
+    {
+      "path": "/nl/resources/guides/",
+      "title": 24,
+      "description": 173
+    },
+    {
+      "path": "/nl/blog/",
+      "title": 14,
+      "description": 167
+    },
+    {
+      "path": "/nl/blog/machine-vision-cable-selection-guide/",
+      "title": 73,
+      "description": 173
+    },
+    {
+      "path": "/nl/blog/m12-coding-guide/",
+      "title": 73,
+      "description": 174
+    },
+    {
+      "path": "/nl/blog/static-vs-continuous-flex-cables/",
+      "title": 60,
+      "description": 181
+    },
+    {
+      "path": "/nl/blog/panel-mount-cable-dimensions-guide/",
+      "title": 75,
+      "description": 182
+    },
+    {
+      "path": "/nl/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 44,
+      "description": 219
+    },
+    {
+      "path": "/nl/blog/cable-shielding-grounding-guide/",
+      "title": 37,
+      "description": 196
+    },
+    {
+      "path": "/nl/blog/usb3-vision-cable-length-guide/",
+      "title": 62,
+      "description": 203
+    },
+    {
+      "path": "/nl/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 54,
+      "description": 212
+    },
+    {
+      "path": "/nl/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 68,
+      "description": 225
+    },
+    {
+      "path": "/nl/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 69,
+      "description": 204
+    },
+    {
+      "path": "/nl/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 69,
+      "description": 175
+    },
+    {
+      "path": "/nl/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 82,
+      "description": 185
+    },
+    {
+      "path": "/nl/about/",
+      "title": 22,
+      "description": 226
+    },
+    {
+      "path": "/nl/purchasing/",
+      "title": 31,
+      "description": 184
+    },
+    {
+      "path": "/pl/",
+      "title": 52,
+      "description": 161
+    },
+    {
+      "path": "/pl/products/qc52a00/",
+      "title": 87,
+      "description": 109
+    },
+    {
+      "path": "/pl/products/qc50c00/",
+      "title": 61,
+      "description": 83
+    },
+    {
+      "path": "/pl/products/qc50a00/",
+      "title": 66,
+      "description": 88
+    },
+    {
+      "path": "/pl/products/qc12a02/",
+      "title": 72,
+      "description": 94
+    },
+    {
+      "path": "/pl/products/qc51a00/",
+      "title": 75,
+      "description": 97
+    },
+    {
+      "path": "/pl/products/qc12b02/",
+      "title": 86,
+      "description": 108
+    },
+    {
+      "path": "/pl/products/qc14b00/",
+      "title": 86,
+      "description": 108
+    },
+    {
+      "path": "/pl/products/qc10b01/",
+      "title": 72,
+      "description": 94
+    },
+    {
+      "path": "/pl/products/qc13a03/",
+      "title": 68,
+      "description": 90
+    },
+    {
+      "path": "/pl/products/qc61b00/",
+      "title": 64,
+      "description": 86
+    },
+    {
+      "path": "/pl/products/qc10a02/",
+      "title": 65,
+      "description": 87
+    },
+    {
+      "path": "/pl/products/qc54a00/",
+      "title": 69,
+      "description": 91
+    },
+    {
+      "path": "/pl/products/qc50c01/",
+      "title": 62,
+      "description": 84
+    },
+    {
+      "path": "/pl/products/qc52a01/",
+      "title": 86,
+      "description": 108
+    },
+    {
+      "path": "/pl/products/qc53b00/",
+      "title": 71,
+      "description": 93
+    },
+    {
+      "path": "/pl/products/qc51c00/",
+      "title": 72,
+      "description": 94
+    },
+    {
+      "path": "/pl/products/qc53a00/",
+      "title": 72,
+      "description": 94
+    },
+    {
+      "path": "/pl/products/qc14b01/",
+      "title": 95,
+      "description": 117
+    },
+    {
+      "path": "/pl/products/qc10b02/",
+      "title": 61,
+      "description": 83
+    },
+    {
+      "path": "/pl/products/qc61a00/",
+      "title": 63,
+      "description": 85
+    },
+    {
+      "path": "/pl/products/qc50a01/",
+      "title": 65,
+      "description": 87
+    },
+    {
+      "path": "/pl/products/qc10a01/",
+      "title": 70,
+      "description": 92
+    },
+    {
+      "path": "/pl/products/qc51b00/",
+      "title": 73,
+      "description": 95
+    },
+    {
+      "path": "/pl/products/qc14a01/",
+      "title": 85,
+      "description": 107
+    },
+    {
+      "path": "/pl/products/qc50b00/",
+      "title": 61,
+      "description": 83
+    },
+    {
+      "path": "/pl/products/qc54b00/",
+      "title": 69,
+      "description": 91
+    },
+    {
+      "path": "/pl/products/qc12b00/",
+      "title": 92,
+      "description": 114
+    },
+    {
+      "path": "/pl/products/qc53b01/",
+      "title": 77,
+      "description": 99
+    },
+    {
+      "path": "/pl/products/qc14a00/",
+      "title": 85,
+      "description": 107
+    },
+    {
+      "path": "/pl/products/qc14a02/",
+      "title": 86,
+      "description": 108
+    },
+    {
+      "path": "/pl/products/qc13a02/",
+      "title": 61,
+      "description": 83
+    },
+    {
+      "path": "/pl/products/qc50a02/",
+      "title": 65,
+      "description": 87
+    },
+    {
+      "path": "/pl/products/qc12b03/",
+      "title": 84,
+      "description": 106
+    },
+    {
+      "path": "/pl/products/qc12a00/",
+      "title": 78,
+      "description": 100
+    },
+    {
+      "path": "/pl/products/qc12b01/",
+      "title": 86,
+      "description": 108
+    },
+    {
+      "path": "/pl/applications/",
+      "title": 41,
+      "description": 171
+    },
+    {
+      "path": "/pl/applications/industrial-pc-hmi/",
+      "title": 62,
+      "description": 130
+    },
+    {
+      "path": "/pl/applications/equipment-integration/",
+      "title": 48,
+      "description": 161
+    },
+    {
+      "path": "/pl/certificates/",
+      "title": 43,
+      "description": 245
+    },
+    {
+      "path": "/pl/resources/guides/",
+      "title": 23,
+      "description": 175
+    },
+    {
+      "path": "/pl/blog/",
+      "title": 14,
+      "description": 169
+    },
+    {
+      "path": "/pl/blog/machine-vision-cable-selection-guide/",
+      "title": 59,
+      "description": 164
+    },
+    {
+      "path": "/pl/blog/m12-coding-guide/",
+      "title": 69,
+      "description": 165
+    },
+    {
+      "path": "/pl/blog/static-vs-continuous-flex-cables/",
+      "title": 57,
+      "description": 183
+    },
+    {
+      "path": "/pl/blog/panel-mount-cable-dimensions-guide/",
+      "title": 77,
+      "description": 181
+    },
+    {
+      "path": "/pl/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 40,
+      "description": 186
+    },
+    {
+      "path": "/pl/blog/cable-shielding-grounding-guide/",
+      "title": 40,
+      "description": 176
+    },
+    {
+      "path": "/pl/blog/usb3-vision-cable-length-guide/",
+      "title": 67,
+      "description": 187
+    },
+    {
+      "path": "/pl/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 54,
+      "description": 198
+    },
+    {
+      "path": "/pl/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 72,
+      "description": 205
+    },
+    {
+      "path": "/pl/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 75,
+      "description": 189
+    },
+    {
+      "path": "/pl/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 76,
+      "description": 178
+    },
+    {
+      "path": "/pl/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 93,
+      "description": 189
+    },
+    {
+      "path": "/pl/about/",
+      "title": 19,
+      "description": 232
+    },
+    {
+      "path": "/pl/purchasing/",
+      "title": 40,
+      "description": 202
+    },
+    {
+      "path": "/cs/products/qc50d01/",
+      "title": 61,
+      "description": 103
+    },
+    {
+      "path": "/cs/products/qc52a00/",
+      "title": 88,
+      "description": 130
+    },
+    {
+      "path": "/cs/products/qc50c00/",
+      "title": 62,
+      "description": 104
+    },
+    {
+      "path": "/cs/products/qc50a00/",
+      "title": 63,
+      "description": 105
+    },
+    {
+      "path": "/cs/products/qc12a02/",
+      "title": 78,
+      "description": 120
+    },
+    {
+      "path": "/cs/products/qc51a00/",
+      "title": 73,
+      "description": 115
+    },
+    {
+      "path": "/cs/products/qc12b02/",
+      "title": 91,
+      "description": 133
+    },
+    {
+      "path": "/cs/products/qc14b00/",
+      "title": 85,
+      "description": 127
+    },
+    {
+      "path": "/cs/products/qc10b01/",
+      "title": 79,
+      "description": 121
+    },
+    {
+      "path": "/cs/products/qc13a03/",
+      "title": 68,
+      "description": 110
+    },
+    {
+      "path": "/cs/products/qc61b00/",
+      "title": 66,
+      "description": 108
+    },
+    {
+      "path": "/cs/products/qc10a02/",
+      "title": 66,
+      "description": 108
+    },
+    {
+      "path": "/cs/products/qc30b00/",
+      "title": 62,
+      "description": 104
+    },
+    {
+      "path": "/cs/products/qc54a00/",
+      "title": 65,
+      "description": 107
+    },
+    {
+      "path": "/cs/products/qc30a00/",
+      "title": 62,
+      "description": 104
+    },
+    {
+      "path": "/cs/products/qc50c01/",
+      "title": 63,
+      "description": 105
+    },
+    {
+      "path": "/cs/products/qc52a01/",
+      "title": 87,
+      "description": 129
+    },
+    {
+      "path": "/cs/products/qc53b00/",
+      "title": 71,
+      "description": 113
+    },
+    {
+      "path": "/cs/products/qc51c00/",
+      "title": 71,
+      "description": 113
+    },
+    {
+      "path": "/cs/products/qc53a00/",
+      "title": 72,
+      "description": 114
+    },
+    {
+      "path": "/cs/products/qc14b01/",
+      "title": 93,
+      "description": 135
+    },
+    {
+      "path": "/cs/products/qc61a00/",
+      "title": 65,
+      "description": 107
+    },
+    {
+      "path": "/cs/products/qc50a01/",
+      "title": 62,
+      "description": 104
+    },
+    {
+      "path": "/cs/products/qc10a01/",
+      "title": 77,
+      "description": 119
+    },
+    {
+      "path": "/cs/products/qc51b00/",
+      "title": 72,
+      "description": 114
+    },
+    {
+      "path": "/cs/products/qc14a01/",
+      "title": 83,
+      "description": 125
+    },
+    {
+      "path": "/cs/products/qc50b00/",
+      "title": 62,
+      "description": 104
+    },
+    {
+      "path": "/cs/products/qc54b00/",
+      "title": 68,
+      "description": 110
+    },
+    {
+      "path": "/cs/products/qc12b00/",
+      "title": 97,
+      "description": 139
+    },
+    {
+      "path": "/cs/products/qc53b01/",
+      "title": 77,
+      "description": 119
+    },
+    {
+      "path": "/cs/products/qc14a00/",
+      "title": 83,
+      "description": 125
+    },
+    {
+      "path": "/cs/products/qc14a02/",
+      "title": 84,
+      "description": 126
+    },
+    {
+      "path": "/cs/products/qc50d00/",
+      "title": 61,
+      "description": 103
+    },
+    {
+      "path": "/cs/products/qc13a02/",
+      "title": 61,
+      "description": 103
+    },
+    {
+      "path": "/cs/products/qc50a02/",
+      "title": 62,
+      "description": 104
+    },
+    {
+      "path": "/cs/products/qc12b03/",
+      "title": 80,
+      "description": 122
+    },
+    {
+      "path": "/cs/products/qc12a00/",
+      "title": 84,
+      "description": 126
+    },
+    {
+      "path": "/cs/products/qc12b01/",
+      "title": 91,
+      "description": 133
+    },
+    {
+      "path": "/cs/applications/",
+      "title": 37,
+      "description": 163
+    },
+    {
+      "path": "/cs/certificates/",
+      "title": 41,
+      "description": 239
+    },
+    {
+      "path": "/cs/resources/guides/",
+      "title": 23,
+      "description": 161
+    },
+    {
+      "path": "/cs/blog/machine-vision-cable-selection-guide/",
+      "title": 65,
+      "description": 157
+    },
+    {
+      "path": "/cs/blog/m12-coding-guide/",
+      "title": 69,
+      "description": 155
+    },
+    {
+      "path": "/cs/blog/static-vs-continuous-flex-cables/",
+      "title": 60,
+      "description": 165
+    },
+    {
+      "path": "/cs/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 39,
+      "description": 185
+    },
+    {
+      "path": "/cs/blog/usb3-vision-cable-length-guide/",
+      "title": 67,
+      "description": 179
+    },
+    {
+      "path": "/cs/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 53,
+      "description": 179
+    },
+    {
+      "path": "/cs/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 72,
+      "description": 194
+    },
+    {
+      "path": "/cs/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 68,
+      "description": 180
+    },
+    {
+      "path": "/cs/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 70,
+      "description": 158
+    },
+    {
+      "path": "/cs/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 88,
+      "description": 197
+    },
+    {
+      "path": "/cs/about/",
+      "title": 19,
+      "description": 213
+    },
+    {
+      "path": "/cs/purchasing/",
+      "title": 35,
+      "description": 173
+    },
+    {
+      "path": "/sv/products/qc50d01/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/sv/products/qc52a00/",
+      "title": 78,
+      "description": 109
+    },
+    {
+      "path": "/sv/products/qc50c00/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/sv/products/qc50a00/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/sv/products/qc12a02/",
+      "title": 69,
+      "description": 100
+    },
+    {
+      "path": "/sv/products/qc51a00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/sv/products/qc12b02/",
+      "title": 79,
+      "description": 110
+    },
+    {
+      "path": "/sv/products/qc14b00/",
+      "title": 86,
+      "description": 117
+    },
+    {
+      "path": "/sv/products/qc10b01/",
+      "title": 69,
+      "description": 100
+    },
+    {
+      "path": "/sv/products/qc13a03/",
+      "title": 70,
+      "description": 101
+    },
+    {
+      "path": "/sv/products/qc61b00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/sv/products/qc10a02/",
+      "title": 69,
+      "description": 100
+    },
+    {
+      "path": "/sv/products/qc30b00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/sv/products/qc30a00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/sv/products/qc50c01/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/sv/products/qc52a01/",
+      "title": 78,
+      "description": 109
+    },
+    {
+      "path": "/sv/products/qc53b00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/sv/products/qc51c00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/sv/products/qc53a00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/sv/products/qc14b01/",
+      "title": 95,
+      "description": 126
+    },
+    {
+      "path": "/sv/products/qc10b02/",
+      "title": 63,
+      "description": 94
+    },
+    {
+      "path": "/sv/products/qc61a00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/sv/products/qc50a01/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/sv/products/qc10a01/",
+      "title": 67,
+      "description": 98
+    },
+    {
+      "path": "/sv/products/qc51b00/",
+      "title": 64,
+      "description": 95
+    },
+    {
+      "path": "/sv/products/qc14a01/",
+      "title": 82,
+      "description": 113
+    },
+    {
+      "path": "/sv/products/qc50b00/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/sv/products/qc54b00/",
+      "title": 63,
+      "description": 94
+    },
+    {
+      "path": "/sv/products/qc12b00/",
+      "title": 85,
+      "description": 116
+    },
+    {
+      "path": "/sv/products/qc53b01/",
+      "title": 69,
+      "description": 100
+    },
+    {
+      "path": "/sv/products/qc14a00/",
+      "title": 82,
+      "description": 113
+    },
+    {
+      "path": "/sv/products/qc14a02/",
+      "title": 83,
+      "description": 114
+    },
+    {
+      "path": "/sv/products/qc50d00/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/sv/products/qc13a02/",
+      "title": 63,
+      "description": 94
+    },
+    {
+      "path": "/sv/products/qc50a02/",
+      "title": 66,
+      "description": 97
+    },
+    {
+      "path": "/sv/products/qc12b03/",
+      "title": 76,
+      "description": 107
+    },
+    {
+      "path": "/sv/products/qc12a00/",
+      "title": 75,
+      "description": 106
+    },
+    {
+      "path": "/sv/products/qc12b01/",
+      "title": 79,
+      "description": 110
+    },
+    {
+      "path": "/sv/certificates/",
+      "title": 45,
+      "description": 231
+    },
+    {
+      "path": "/sv/resources/guides/",
+      "title": 26,
+      "description": 162
+    },
+    {
+      "path": "/sv/blog/m12-coding-guide/",
+      "title": 78,
+      "description": 175
+    },
+    {
+      "path": "/sv/blog/static-vs-continuous-flex-cables/",
+      "title": 61,
+      "description": 182
+    },
+    {
+      "path": "/sv/blog/panel-mount-cable-dimensions-guide/",
+      "title": 75,
+      "description": 171
+    },
+    {
+      "path": "/sv/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 44,
+      "description": 206
+    },
+    {
+      "path": "/sv/blog/cable-shielding-grounding-guide/",
+      "title": 39,
+      "description": 184
+    },
+    {
+      "path": "/sv/blog/usb3-vision-cable-length-guide/",
+      "title": 61,
+      "description": 178
+    },
+    {
+      "path": "/sv/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 56,
+      "description": 212
+    },
+    {
+      "path": "/sv/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 69,
+      "description": 190
+    },
+    {
+      "path": "/sv/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 69,
+      "description": 195
+    },
+    {
+      "path": "/sv/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 71,
+      "description": 167
+    },
+    {
+      "path": "/sv/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 73,
+      "description": 164
+    },
+    {
+      "path": "/sv/about/",
+      "title": 20,
+      "description": 217
+    },
+    {
+      "path": "/sv/purchasing/",
+      "title": 32,
+      "description": 176
+    },
+    {
+      "path": "/da/products/qc50d01/",
+      "title": 64,
+      "description": 94
+    },
+    {
+      "path": "/da/products/qc52a00/",
+      "title": 76,
+      "description": 106
+    },
+    {
+      "path": "/da/products/qc50c00/",
+      "title": 64,
+      "description": 94
+    },
+    {
+      "path": "/da/products/qc50a00/",
+      "title": 63,
+      "description": 93
+    },
+    {
+      "path": "/da/products/qc12a02/",
+      "title": 64,
+      "description": 94
+    },
+    {
+      "path": "/da/products/qc51a00/",
+      "title": 65,
+      "description": 95
+    },
+    {
+      "path": "/da/products/qc12b02/",
+      "title": 75,
+      "description": 105
+    },
+    {
+      "path": "/da/products/qc14b00/",
+      "title": 80,
+      "description": 110
+    },
+    {
+      "path": "/da/products/qc10b01/",
+      "title": 64,
+      "description": 94
+    },
+    {
+      "path": "/da/products/qc13a03/",
+      "title": 69,
+      "description": 99
+    },
+    {
+      "path": "/da/products/qc61b00/",
+      "title": 61,
+      "description": 91
+    },
+    {
+      "path": "/da/products/qc10a02/",
+      "title": 66,
+      "description": 96
+    },
+    {
+      "path": "/da/products/qc50c01/",
+      "title": 64,
+      "description": 94
+    },
+    {
+      "path": "/da/products/qc52a01/",
+      "title": 76,
+      "description": 106
+    },
+    {
+      "path": "/da/products/qc53b00/",
+      "title": 61,
+      "description": 91
+    },
+    {
+      "path": "/da/products/qc51c00/",
+      "title": 65,
+      "description": 95
+    },
+    {
+      "path": "/da/products/qc53a00/",
+      "title": 61,
+      "description": 91
+    },
+    {
+      "path": "/da/products/qc14b01/",
+      "title": 90,
+      "description": 120
+    },
+    {
+      "path": "/da/products/qc10b02/",
+      "title": 62,
+      "description": 92
+    },
+    {
+      "path": "/da/products/qc61a00/",
+      "title": 61,
+      "description": 91
+    },
+    {
+      "path": "/da/products/qc50a01/",
+      "title": 63,
+      "description": 93
+    },
+    {
+      "path": "/da/products/qc10a01/",
+      "title": 62,
+      "description": 92
+    },
+    {
+      "path": "/da/products/qc51b00/",
+      "title": 65,
+      "description": 95
+    },
+    {
+      "path": "/da/products/qc14a01/",
+      "title": 77,
+      "description": 107
+    },
+    {
+      "path": "/da/products/qc50b00/",
+      "title": 64,
+      "description": 94
+    },
+    {
+      "path": "/da/products/qc54b00/",
+      "title": 63,
+      "description": 93
+    },
+    {
+      "path": "/da/products/qc12b00/",
+      "title": 81,
+      "description": 111
+    },
+    {
+      "path": "/da/products/qc53b01/",
+      "title": 66,
+      "description": 96
+    },
+    {
+      "path": "/da/products/qc14a00/",
+      "title": 77,
+      "description": 107
+    },
+    {
+      "path": "/da/products/qc14a02/",
+      "title": 78,
+      "description": 108
+    },
+    {
+      "path": "/da/products/qc50d00/",
+      "title": 64,
+      "description": 94
+    },
+    {
+      "path": "/da/products/qc13a02/",
+      "title": 62,
+      "description": 92
+    },
+    {
+      "path": "/da/products/qc50a02/",
+      "title": 63,
+      "description": 93
+    },
+    {
+      "path": "/da/products/qc12b03/",
+      "title": 74,
+      "description": 104
+    },
+    {
+      "path": "/da/products/qc12a00/",
+      "title": 70,
+      "description": 100
+    },
+    {
+      "path": "/da/products/qc12b01/",
+      "title": 75,
+      "description": 105
+    },
+    {
+      "path": "/da/certificates/",
+      "title": 53,
+      "description": 233
+    },
+    {
+      "path": "/da/blog/m12-coding-guide/",
+      "title": 60,
+      "description": 175
+    },
+    {
+      "path": "/da/blog/static-vs-continuous-flex-cables/",
+      "title": 67,
+      "description": 183
+    },
+    {
+      "path": "/da/blog/panel-mount-cable-dimensions-guide/",
+      "title": 73,
+      "description": 166
+    },
+    {
+      "path": "/da/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 47,
+      "description": 207
+    },
+    {
+      "path": "/da/blog/cable-shielding-grounding-guide/",
+      "title": 35,
+      "description": 187
+    },
+    {
+      "path": "/da/blog/usb3-vision-cable-length-guide/",
+      "title": 62,
+      "description": 167
+    },
+    {
+      "path": "/da/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 52,
+      "description": 213
+    },
+    {
+      "path": "/da/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 63,
+      "description": 184
+    },
+    {
+      "path": "/da/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 66,
+      "description": 197
+    },
+    {
+      "path": "/da/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 63,
+      "description": 160
+    },
+    {
+      "path": "/da/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 75,
+      "description": 173
+    },
+    {
+      "path": "/da/about/",
+      "title": 20,
+      "description": 222
+    },
+    {
+      "path": "/da/purchasing/",
+      "title": 29,
+      "description": 176
+    },
+    {
+      "path": "/fi/products/qc52a00/",
+      "title": 81,
+      "description": 115
+    },
+    {
+      "path": "/fi/products/qc50a00/",
+      "title": 69,
+      "description": 103
+    },
+    {
+      "path": "/fi/products/qc12a02/",
+      "title": 70,
+      "description": 104
+    },
+    {
+      "path": "/fi/products/qc51a00/",
+      "title": 67,
+      "description": 101
+    },
+    {
+      "path": "/fi/products/qc12b02/",
+      "title": 86,
+      "description": 120
+    },
+    {
+      "path": "/fi/products/qc14b00/",
+      "title": 94,
+      "description": 128
+    },
+    {
+      "path": "/fi/products/qc10b01/",
+      "title": 67,
+      "description": 101
+    },
+    {
+      "path": "/fi/products/qc13a03/",
+      "title": 69,
+      "description": 103
+    },
+    {
+      "path": "/fi/products/qc61b00/",
+      "title": 65,
+      "description": 99
+    },
+    {
+      "path": "/fi/products/qc10a02/",
+      "title": 71,
+      "description": 105
+    },
+    {
+      "path": "/fi/products/qc30b00/",
+      "title": 68,
+      "description": 102
+    },
+    {
+      "path": "/fi/products/qc30a00/",
+      "title": 68,
+      "description": 102
+    },
+    {
+      "path": "/fi/products/qc50c01/",
+      "title": 62,
+      "description": 96
+    },
+    {
+      "path": "/fi/products/qc52a01/",
+      "title": 79,
+      "description": 113
+    },
+    {
+      "path": "/fi/products/qc53b00/",
+      "title": 64,
+      "description": 98
+    },
+    {
+      "path": "/fi/products/qc51c00/",
+      "title": 63,
+      "description": 97
+    },
+    {
+      "path": "/fi/products/qc53a00/",
+      "title": 66,
+      "description": 100
+    },
+    {
+      "path": "/fi/products/qc14b01/",
+      "title": 116,
+      "description": 150
+    },
+    {
+      "path": "/fi/products/qc10b02/",
+      "title": 62,
+      "description": 96
+    },
+    {
+      "path": "/fi/products/qc61a00/",
+      "title": 63,
+      "description": 97
+    },
+    {
+      "path": "/fi/products/qc50a01/",
+      "title": 67,
+      "description": 101
+    },
+    {
+      "path": "/fi/products/qc10a01/",
+      "title": 65,
+      "description": 99
+    },
+    {
+      "path": "/fi/products/qc51b00/",
+      "title": 65,
+      "description": 99
+    },
+    {
+      "path": "/fi/products/qc14a01/",
+      "title": 88,
+      "description": 122
+    },
+    {
+      "path": "/fi/products/qc54b00/",
+      "title": 64,
+      "description": 98
+    },
+    {
+      "path": "/fi/products/qc12b00/",
+      "title": 92,
+      "description": 126
+    },
+    {
+      "path": "/fi/products/qc53b01/",
+      "title": 71,
+      "description": 105
+    },
+    {
+      "path": "/fi/products/qc14a00/",
+      "title": 88,
+      "description": 122
+    },
+    {
+      "path": "/fi/products/qc14a02/",
+      "title": 89,
+      "description": 123
+    },
+    {
+      "path": "/fi/products/qc13a02/",
+      "title": 62,
+      "description": 96
+    },
+    {
+      "path": "/fi/products/qc50a02/",
+      "title": 67,
+      "description": 101
+    },
+    {
+      "path": "/fi/products/qc12b03/",
+      "title": 83,
+      "description": 117
+    },
+    {
+      "path": "/fi/products/qc12a00/",
+      "title": 76,
+      "description": 110
+    },
+    {
+      "path": "/fi/products/qc12b01/",
+      "title": 86,
+      "description": 120
+    },
+    {
+      "path": "/fi/certificates/",
+      "title": 57,
+      "description": 232
+    },
+    {
+      "path": "/fi/resources/guides/",
+      "title": 27,
+      "description": 171
+    },
+    {
+      "path": "/fi/blog/",
+      "title": 15,
+      "description": 164
+    },
+    {
+      "path": "/fi/blog/m12-coding-guide/",
+      "title": 63,
+      "description": 166
+    },
+    {
+      "path": "/fi/blog/static-vs-continuous-flex-cables/",
+      "title": 61,
+      "description": 174
+    },
+    {
+      "path": "/fi/blog/panel-mount-cable-dimensions-guide/",
+      "title": 66,
+      "description": 181
+    },
+    {
+      "path": "/fi/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 43,
+      "description": 211
+    },
+    {
+      "path": "/fi/blog/cable-shielding-grounding-guide/",
+      "title": 39,
+      "description": 167
+    },
+    {
+      "path": "/fi/blog/usb3-vision-cable-length-guide/",
+      "title": 75,
+      "description": 195
+    },
+    {
+      "path": "/fi/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 55,
+      "description": 195
+    },
+    {
+      "path": "/fi/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 76,
+      "description": 215
+    },
+    {
+      "path": "/fi/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 72,
+      "description": 185
+    },
+    {
+      "path": "/fi/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 60,
+      "description": 169
+    },
+    {
+      "path": "/fi/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 90,
+      "description": 198
+    },
+    {
+      "path": "/fi/resources/faq/",
+      "title": 34,
+      "description": 164
+    },
+    {
+      "path": "/fi/about/",
+      "title": 29,
+      "description": 227
+    },
+    {
+      "path": "/fi/purchasing/",
+      "title": 40,
+      "description": 168
+    },
+    {
+      "path": "/no/products/qc50d01/",
+      "title": 64,
+      "description": 90
+    },
+    {
+      "path": "/no/products/qc52a00/",
+      "title": 76,
+      "description": 102
+    },
+    {
+      "path": "/no/products/qc50c00/",
+      "title": 64,
+      "description": 90
+    },
+    {
+      "path": "/no/products/qc50a00/",
+      "title": 66,
+      "description": 92
+    },
+    {
+      "path": "/no/products/qc12a02/",
+      "title": 63,
+      "description": 89
+    },
+    {
+      "path": "/no/products/qc51a00/",
+      "title": 62,
+      "description": 88
+    },
+    {
+      "path": "/no/products/qc12b02/",
+      "title": 73,
+      "description": 99
+    },
+    {
+      "path": "/no/products/qc14b00/",
+      "title": 89,
+      "description": 115
+    },
+    {
+      "path": "/no/products/qc10b01/",
+      "title": 67,
+      "description": 93
+    },
+    {
+      "path": "/no/products/qc13a03/",
+      "title": 69,
+      "description": 95
+    },
+    {
+      "path": "/no/products/qc61b00/",
+      "title": 63,
+      "description": 89
+    },
+    {
+      "path": "/no/products/qc10a02/",
+      "title": 70,
+      "description": 96
+    },
+    {
+      "path": "/no/products/qc50c01/",
+      "title": 64,
+      "description": 90
+    },
+    {
+      "path": "/no/products/qc52a01/",
+      "title": 76,
+      "description": 102
+    },
+    {
+      "path": "/no/products/qc53b00/",
+      "title": 62,
+      "description": 88
+    },
+    {
+      "path": "/no/products/qc51c00/",
+      "title": 62,
+      "description": 88
+    },
+    {
+      "path": "/no/products/qc53a00/",
+      "title": 62,
+      "description": 88
+    },
+    {
+      "path": "/no/products/qc14b01/",
+      "title": 94,
+      "description": 120
+    },
+    {
+      "path": "/no/products/qc10b02/",
+      "title": 62,
+      "description": 88
+    },
+    {
+      "path": "/no/products/qc61a00/",
+      "title": 63,
+      "description": 89
+    },
+    {
+      "path": "/no/products/qc50a01/",
+      "title": 66,
+      "description": 92
+    },
+    {
+      "path": "/no/products/qc10a01/",
+      "title": 65,
+      "description": 91
+    },
+    {
+      "path": "/no/products/qc51b00/",
+      "title": 62,
+      "description": 88
+    },
+    {
+      "path": "/no/products/qc14a01/",
+      "title": 78,
+      "description": 104
+    },
+    {
+      "path": "/no/products/qc50b00/",
+      "title": 64,
+      "description": 90
+    },
+    {
+      "path": "/no/products/qc54b00/",
+      "title": 61,
+      "description": 87
+    },
+    {
+      "path": "/no/products/qc12b00/",
+      "title": 79,
+      "description": 105
+    },
+    {
+      "path": "/no/products/qc53b01/",
+      "title": 68,
+      "description": 94
+    },
+    {
+      "path": "/no/products/qc14a00/",
+      "title": 78,
+      "description": 104
+    },
+    {
+      "path": "/no/products/qc14a02/",
+      "title": 79,
+      "description": 105
+    },
+    {
+      "path": "/no/products/qc50d00/",
+      "title": 64,
+      "description": 90
+    },
+    {
+      "path": "/no/products/qc13a02/",
+      "title": 62,
+      "description": 88
+    },
+    {
+      "path": "/no/products/qc50a02/",
+      "title": 66,
+      "description": 92
+    },
+    {
+      "path": "/no/products/qc12b03/",
+      "title": 75,
+      "description": 101
+    },
+    {
+      "path": "/no/products/qc41a00/",
+      "title": 61,
+      "description": 87
+    },
+    {
+      "path": "/no/products/qc12a00/",
+      "title": 69,
+      "description": 95
+    },
+    {
+      "path": "/no/products/qc12b01/",
+      "title": 73,
+      "description": 99
+    },
+    {
+      "path": "/no/certificates/",
+      "title": 44,
+      "description": 232
+    },
+    {
+      "path": "/no/resources/guides/",
+      "title": 27,
+      "description": 162
+    },
+    {
+      "path": "/no/blog/m12-coding-guide/",
+      "title": 68,
+      "description": 183
+    },
+    {
+      "path": "/no/blog/static-vs-continuous-flex-cables/",
+      "title": 67,
+      "description": 173
+    },
+    {
+      "path": "/no/blog/panel-mount-cable-dimensions-guide/",
+      "title": 76,
+      "description": 172
+    },
+    {
+      "path": "/no/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 48,
+      "description": 195
+    },
+    {
+      "path": "/no/blog/cable-shielding-grounding-guide/",
+      "title": 35,
+      "description": 182
+    },
+    {
+      "path": "/no/blog/usb3-vision-cable-length-guide/",
+      "title": 62,
+      "description": 179
+    },
+    {
+      "path": "/no/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 53,
+      "description": 221
+    },
+    {
+      "path": "/no/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 65,
+      "description": 196
+    },
+    {
+      "path": "/no/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 69,
+      "description": 187
+    },
+    {
+      "path": "/no/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 71,
+      "description": 169
+    },
+    {
+      "path": "/no/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 78,
+      "description": 174
+    },
+    {
+      "path": "/no/about/",
+      "title": 20,
+      "description": 216
+    },
+    {
+      "path": "/no/purchasing/",
+      "title": 30,
+      "description": 172
+    },
+    {
+      "path": "/ru/",
+      "title": 53,
+      "description": 169
+    },
+    {
+      "path": "/ru/products/qc50d01/",
+      "title": 79,
+      "description": 111
+    },
+    {
+      "path": "/ru/products/qc52a00/",
+      "title": 93,
+      "description": 125
+    },
+    {
+      "path": "/ru/products/qc50c00/",
+      "title": 80,
+      "description": 112
+    },
+    {
+      "path": "/ru/products/qc50a00/",
+      "title": 83,
+      "description": 115
+    },
+    {
+      "path": "/ru/products/qc12a02/",
+      "title": 75,
+      "description": 107
+    },
+    {
+      "path": "/ru/products/qc51a00/",
+      "title": 75,
+      "description": 107
+    },
+    {
+      "path": "/ru/products/qc61c00/",
+      "title": 61,
+      "description": 93
+    },
+    {
+      "path": "/ru/products/qc61c01/",
+      "title": 62,
+      "description": 94
+    },
+    {
+      "path": "/ru/products/qc12b02/",
+      "title": 92,
+      "description": 124
+    },
+    {
+      "path": "/ru/products/qc14b00/",
+      "title": 91,
+      "description": 123
+    },
+    {
+      "path": "/ru/products/qc10b01/",
+      "title": 75,
+      "description": 107
+    },
+    {
+      "path": "/ru/products/qc13a03/",
+      "title": 68,
+      "description": 100
+    },
+    {
+      "path": "/ru/products/qc61b00/",
+      "title": 69,
+      "description": 101
+    },
+    {
+      "path": "/ru/products/qc33b00/",
+      "title": 69,
+      "description": 101
+    },
+    {
+      "path": "/ru/products/qc10a02/",
+      "title": 72,
+      "description": 104
+    },
+    {
+      "path": "/ru/products/qc30b00/",
+      "title": 79,
+      "description": 111
+    },
+    {
+      "path": "/ru/products/qc54a00/",
+      "title": 67,
+      "description": 99
+    },
+    {
+      "path": "/ru/products/qc30a00/",
+      "title": 79,
+      "description": 111
+    },
+    {
+      "path": "/ru/products/qc50c01/",
+      "title": 81,
+      "description": 113
+    },
+    {
+      "path": "/ru/products/qc52a01/",
+      "title": 92,
+      "description": 124
+    },
+    {
+      "path": "/ru/products/qc53b00/",
+      "title": 71,
+      "description": 103
+    },
+    {
+      "path": "/ru/products/qc51c00/",
+      "title": 73,
+      "description": 105
+    },
+    {
+      "path": "/ru/products/qc33a00/",
+      "title": 69,
+      "description": 101
+    },
+    {
+      "path": "/ru/products/qc53a00/",
+      "title": 71,
+      "description": 103
+    },
+    {
+      "path": "/ru/products/qc14b01/",
+      "title": 103,
+      "description": 135
+    },
+    {
+      "path": "/ru/products/qc10b02/",
+      "title": 61,
+      "description": 93
+    },
+    {
+      "path": "/ru/products/qc61a00/",
+      "title": 68,
+      "description": 100
+    },
+    {
+      "path": "/ru/products/qc50a01/",
+      "title": 82,
+      "description": 114
+    },
+    {
+      "path": "/ru/products/qc10a01/",
+      "title": 73,
+      "description": 105
+    },
+    {
+      "path": "/ru/products/qc51b00/",
+      "title": 74,
+      "description": 106
+    },
+    {
+      "path": "/ru/products/qc33c00/",
+      "title": 69,
+      "description": 101
+    },
+    {
+      "path": "/ru/products/qc14a01/",
+      "title": 79,
+      "description": 111
+    },
+    {
+      "path": "/ru/products/qc50b00/",
+      "title": 80,
+      "description": 112
+    },
+    {
+      "path": "/ru/products/qc54b00/",
+      "title": 70,
+      "description": 102
+    },
+    {
+      "path": "/ru/products/qc12b00/",
+      "title": 98,
+      "description": 130
+    },
+    {
+      "path": "/ru/products/qc53b01/",
+      "title": 78,
+      "description": 110
+    },
+    {
+      "path": "/ru/products/qc14a00/",
+      "title": 79,
+      "description": 111
+    },
+    {
+      "path": "/ru/products/qc14a02/",
+      "title": 80,
+      "description": 112
+    },
+    {
+      "path": "/ru/products/qc50d00/",
+      "title": 79,
+      "description": 111
+    },
+    {
+      "path": "/ru/products/qc13a02/",
+      "title": 61,
+      "description": 93
+    },
+    {
+      "path": "/ru/products/qc50a02/",
+      "title": 82,
+      "description": 114
+    },
+    {
+      "path": "/ru/products/qc12b03/",
+      "title": 90,
+      "description": 122
+    },
+    {
+      "path": "/ru/products/qc12a00/",
+      "title": 81,
+      "description": 113
+    },
+    {
+      "path": "/ru/products/qc12b01/",
+      "title": 92,
+      "description": 124
+    },
+    {
+      "path": "/ru/applications/",
+      "title": 43,
+      "description": 174
+    },
+    {
+      "path": "/ru/applications/machine-vision/",
+      "title": 59,
+      "description": 166
+    },
+    {
+      "path": "/ru/applications/factory-automation/",
+      "title": 62,
+      "description": 152
+    },
+    {
+      "path": "/ru/applications/equipment-integration/",
+      "title": 54,
+      "description": 170
+    },
+    {
+      "path": "/ru/certificates/",
+      "title": 48,
+      "description": 261
+    },
+    {
+      "path": "/ru/resources/guides/",
+      "title": 24,
+      "description": 180
+    },
+    {
+      "path": "/ru/blog/",
+      "title": 14,
+      "description": 174
+    },
+    {
+      "path": "/ru/blog/machine-vision-cable-selection-guide/",
+      "title": 60,
+      "description": 197
+    },
+    {
+      "path": "/ru/blog/m12-coding-guide/",
+      "title": 76,
+      "description": 181
+    },
+    {
+      "path": "/ru/blog/static-vs-continuous-flex-cables/",
+      "title": 74,
+      "description": 181
+    },
+    {
+      "path": "/ru/blog/panel-mount-cable-dimensions-guide/",
+      "title": 72,
+      "description": 182
+    },
+    {
+      "path": "/ru/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 40,
+      "description": 221
+    },
+    {
+      "path": "/ru/blog/cable-shielding-grounding-guide/",
+      "title": 43,
+      "description": 211
+    },
+    {
+      "path": "/ru/blog/usb3-vision-cable-length-guide/",
+      "title": 71,
+      "description": 194
+    },
+    {
+      "path": "/ru/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 54,
+      "description": 199
+    },
+    {
+      "path": "/ru/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 65,
+      "description": 207
+    },
+    {
+      "path": "/ru/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 72,
+      "description": 212
+    },
+    {
+      "path": "/ru/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 75,
+      "description": 177
+    },
+    {
+      "path": "/ru/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 82,
+      "description": 188
+    },
+    {
+      "path": "/ru/about/",
+      "title": 19,
+      "description": 258
+    },
+    {
+      "path": "/ru/purchasing/",
+      "title": 47,
+      "description": 207
+    },
+    {
+      "path": "/tr/products/qc50d01/",
+      "title": 66,
+      "description": 93
+    },
+    {
+      "path": "/tr/products/qc52a00/",
+      "title": 79,
+      "description": 106
+    },
+    {
+      "path": "/tr/products/qc50c00/",
+      "title": 65,
+      "description": 92
+    },
+    {
+      "path": "/tr/products/qc50a00/",
+      "title": 62,
+      "description": 89
+    },
+    {
+      "path": "/tr/products/qc12a02/",
+      "title": 68,
+      "description": 95
+    },
+    {
+      "path": "/tr/products/qc51a00/",
+      "title": 62,
+      "description": 89
+    },
+    {
+      "path": "/tr/products/qc12b02/",
+      "title": 77,
+      "description": 104
+    },
+    {
+      "path": "/tr/products/qc14b00/",
+      "title": 77,
+      "description": 104
+    },
+    {
+      "path": "/tr/products/qc10b01/",
+      "title": 72,
+      "description": 99
+    },
+    {
+      "path": "/tr/products/qc13a03/",
+      "title": 67,
+      "description": 94
+    },
+    {
+      "path": "/tr/products/qc61b00/",
+      "title": 65,
+      "description": 92
+    },
+    {
+      "path": "/tr/products/qc10a02/",
+      "title": 64,
+      "description": 91
+    },
+    {
+      "path": "/tr/products/qc50c01/",
+      "title": 64,
+      "description": 91
+    },
+    {
+      "path": "/tr/products/qc52a01/",
+      "title": 80,
+      "description": 107
+    },
+    {
+      "path": "/tr/products/qc53b00/",
+      "title": 61,
+      "description": 88
+    },
+    {
+      "path": "/tr/products/qc51c00/",
+      "title": 64,
+      "description": 91
+    },
+    {
+      "path": "/tr/products/qc14b01/",
+      "title": 83,
+      "description": 110
+    },
+    {
+      "path": "/tr/products/qc61a00/",
+      "title": 65,
+      "description": 92
+    },
+    {
+      "path": "/tr/products/qc50a01/",
+      "title": 63,
+      "description": 90
+    },
+    {
+      "path": "/tr/products/qc10a01/",
+      "title": 70,
+      "description": 97
+    },
+    {
+      "path": "/tr/products/qc51b00/",
+      "title": 63,
+      "description": 90
+    },
+    {
+      "path": "/tr/products/qc14a01/",
+      "title": 71,
+      "description": 98
+    },
+    {
+      "path": "/tr/products/qc50b00/",
+      "title": 65,
+      "description": 92
+    },
+    {
+      "path": "/tr/products/qc54b00/",
+      "title": 61,
+      "description": 88
+    },
+    {
+      "path": "/tr/products/qc12b00/",
+      "title": 83,
+      "description": 110
+    },
+    {
+      "path": "/tr/products/qc53b01/",
+      "title": 67,
+      "description": 94
+    },
+    {
+      "path": "/tr/products/qc14a00/",
+      "title": 71,
+      "description": 98
+    },
+    {
+      "path": "/tr/products/qc14a02/",
+      "title": 72,
+      "description": 99
+    },
+    {
+      "path": "/tr/products/qc50d00/",
+      "title": 66,
+      "description": 93
+    },
+    {
+      "path": "/tr/products/qc50a02/",
+      "title": 63,
+      "description": 90
+    },
+    {
+      "path": "/tr/products/qc12b03/",
+      "title": 73,
+      "description": 100
+    },
+    {
+      "path": "/tr/products/qc12a00/",
+      "title": 74,
+      "description": 101
+    },
+    {
+      "path": "/tr/products/qc12b01/",
+      "title": 77,
+      "description": 104
+    },
+    {
+      "path": "/tr/applications/equipment-integration/",
+      "title": 52,
+      "description": 165
+    },
+    {
+      "path": "/tr/certificates/",
+      "title": 44,
+      "description": 233
+    },
+    {
+      "path": "/tr/resources/guides/",
+      "title": 26,
+      "description": 168
+    },
+    {
+      "path": "/tr/blog/",
+      "title": 14,
+      "description": 162
+    },
+    {
+      "path": "/tr/blog/machine-vision-cable-selection-guide/",
+      "title": 61,
+      "description": 180
+    },
+    {
+      "path": "/tr/blog/m12-coding-guide/",
+      "title": 87,
+      "description": 165
+    },
+    {
+      "path": "/tr/blog/static-vs-continuous-flex-cables/",
+      "title": 63,
+      "description": 156
+    },
+    {
+      "path": "/tr/blog/panel-mount-cable-dimensions-guide/",
+      "title": 63,
+      "description": 184
+    },
+    {
+      "path": "/tr/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 43,
+      "description": 203
+    },
+    {
+      "path": "/tr/blog/cable-shielding-grounding-guide/",
+      "title": 39,
+      "description": 174
+    },
+    {
+      "path": "/tr/blog/usb3-vision-cable-length-guide/",
+      "title": 62,
+      "description": 177
+    },
+    {
+      "path": "/tr/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 51,
+      "description": 181
+    },
+    {
+      "path": "/tr/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 66,
+      "description": 209
+    },
+    {
+      "path": "/tr/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 73,
+      "description": 204
+    },
+    {
+      "path": "/tr/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 83,
+      "description": 207
+    },
+    {
+      "path": "/tr/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 80,
+      "description": 212
+    },
+    {
+      "path": "/tr/about/",
+      "title": 26,
+      "description": 209
+    },
+    {
+      "path": "/tr/purchasing/",
+      "title": 37,
+      "description": 163
+    },
+    {
+      "path": "/ja/products/qc52a00/",
+      "title": 63,
+      "description": 76
+    },
+    {
+      "path": "/ja/products/qc12b02/",
+      "title": 62,
+      "description": 75
+    },
+    {
+      "path": "/ja/products/qc13a03/",
+      "title": 66,
+      "description": 79
+    },
+    {
+      "path": "/ja/products/qc10a02/",
+      "title": 63,
+      "description": 76
+    },
+    {
+      "path": "/ja/products/qc52a01/",
+      "title": 63,
+      "description": 76
+    },
+    {
+      "path": "/ja/products/qc14b01/",
+      "title": 67,
+      "description": 80
+    },
+    {
+      "path": "/ja/products/qc12b00/",
+      "title": 68,
+      "description": 81
+    },
+    {
+      "path": "/ja/products/qc12b03/",
+      "title": 62,
+      "description": 75
+    },
+    {
+      "path": "/ja/products/qc12a00/",
+      "title": 65,
+      "description": 78
+    },
+    {
+      "path": "/ja/products/qc12b01/",
+      "title": 62,
+      "description": 75
+    },
+    {
+      "path": "/ko/products/qc52a00/",
+      "title": 61,
+      "description": 72
+    },
+    {
+      "path": "/ko/products/qc12b02/",
+      "title": 61,
+      "description": 72
+    },
+    {
+      "path": "/ko/products/qc13a03/",
+      "title": 64,
+      "description": 75
+    },
+    {
+      "path": "/ko/products/qc52a01/",
+      "title": 61,
+      "description": 72
+    },
+    {
+      "path": "/ko/products/qc14b01/",
+      "title": 64,
+      "description": 75
+    },
+    {
+      "path": "/ko/products/qc12b00/",
+      "title": 67,
+      "description": 78
+    },
+    {
+      "path": "/ko/products/qc12a00/",
+      "title": 64,
+      "description": 75
+    },
+    {
+      "path": "/ko/products/qc12b01/",
+      "title": 61,
+      "description": 72
+    },
+    {
+      "path": "/vi/products/qc52a00/",
+      "title": 70,
+      "description": 97
+    },
+    {
+      "path": "/vi/products/qc50a00/",
+      "title": 65,
+      "description": 92
+    },
+    {
+      "path": "/vi/products/qc12a02/",
+      "title": 62,
+      "description": 89
+    },
+    {
+      "path": "/vi/products/qc12b02/",
+      "title": 74,
+      "description": 101
+    },
+    {
+      "path": "/vi/products/qc14b00/",
+      "title": 74,
+      "description": 101
+    },
+    {
+      "path": "/vi/products/qc10b01/",
+      "title": 63,
+      "description": 90
+    },
+    {
+      "path": "/vi/products/qc13a03/",
+      "title": 68,
+      "description": 95
+    },
+    {
+      "path": "/vi/products/qc10a02/",
+      "title": 65,
+      "description": 92
+    },
+    {
+      "path": "/vi/products/qc30b00/",
+      "title": 61,
+      "description": 88
+    },
+    {
+      "path": "/vi/products/qc30a00/",
+      "title": 61,
+      "description": 88
+    },
+    {
+      "path": "/vi/products/qc52a01/",
+      "title": 70,
+      "description": 97
+    },
+    {
+      "path": "/vi/products/qc53b00/",
+      "title": 66,
+      "description": 93
+    },
+    {
+      "path": "/vi/products/qc53a00/",
+      "title": 66,
+      "description": 93
+    },
+    {
+      "path": "/vi/products/qc14b01/",
+      "title": 80,
+      "description": 107
+    },
+    {
+      "path": "/vi/products/qc10b02/",
+      "title": 61,
+      "description": 88
+    },
+    {
+      "path": "/vi/products/qc50a01/",
+      "title": 65,
+      "description": 92
+    },
+    {
+      "path": "/vi/products/qc10a01/",
+      "title": 61,
+      "description": 88
+    },
+    {
+      "path": "/vi/products/qc14a01/",
+      "title": 70,
+      "description": 97
+    },
+    {
+      "path": "/vi/products/qc12b00/",
+      "title": 80,
+      "description": 107
+    },
+    {
+      "path": "/vi/products/qc53b01/",
+      "title": 78,
+      "description": 105
+    },
+    {
+      "path": "/vi/products/qc14a00/",
+      "title": 70,
+      "description": 97
+    },
+    {
+      "path": "/vi/products/qc14a02/",
+      "title": 71,
+      "description": 98
+    },
+    {
+      "path": "/vi/products/qc13a02/",
+      "title": 61,
+      "description": 88
+    },
+    {
+      "path": "/vi/products/qc50a02/",
+      "title": 65,
+      "description": 92
+    },
+    {
+      "path": "/vi/products/qc12b03/",
+      "title": 81,
+      "description": 108
+    },
+    {
+      "path": "/vi/products/qc12a00/",
+      "title": 68,
+      "description": 95
+    },
+    {
+      "path": "/vi/products/qc12b01/",
+      "title": 74,
+      "description": 101
+    },
+    {
+      "path": "/vi/certificates/",
+      "title": 39,
+      "description": 225
+    },
+    {
+      "path": "/vi/resources/guides/",
+      "title": 27,
+      "description": 184
+    },
+    {
+      "path": "/vi/blog/",
+      "title": 14,
+      "description": 178
+    },
+    {
+      "path": "/vi/blog/m12-coding-guide/",
+      "title": 69,
+      "description": 140
+    },
+    {
+      "path": "/vi/blog/panel-mount-cable-dimensions-guide/",
+      "title": 62,
+      "description": 167
+    },
+    {
+      "path": "/vi/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 38,
+      "description": 172
+    },
+    {
+      "path": "/vi/blog/cable-shielding-grounding-guide/",
+      "title": 33,
+      "description": 162
+    },
+    {
+      "path": "/vi/blog/usb3-vision-cable-length-guide/",
+      "title": 66,
+      "description": 182
+    },
+    {
+      "path": "/vi/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 69,
+      "description": 196
+    },
+    {
+      "path": "/vi/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 68,
+      "description": 188
+    },
+    {
+      "path": "/vi/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 63,
+      "description": 176
+    },
+    {
+      "path": "/vi/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 63,
+      "description": 155
+    },
+    {
+      "path": "/vi/about/",
+      "title": 31,
+      "description": 215
+    },
+    {
+      "path": "/vi/purchasing/",
+      "title": 28,
+      "description": 166
+    },
+    {
+      "path": "/id/products/qc50d01/",
+      "title": 62,
+      "description": 91
+    },
+    {
+      "path": "/id/products/qc52a00/",
+      "title": 78,
+      "description": 107
+    },
+    {
+      "path": "/id/products/qc50c00/",
+      "title": 64,
+      "description": 93
+    },
+    {
+      "path": "/id/products/qc50a00/",
+      "title": 71,
+      "description": 100
+    },
+    {
+      "path": "/id/products/qc12a02/",
+      "title": 67,
+      "description": 96
+    },
+    {
+      "path": "/id/products/qc51a00/",
+      "title": 64,
+      "description": 93
+    },
+    {
+      "path": "/id/products/qc12b02/",
+      "title": 76,
+      "description": 105
+    },
+    {
+      "path": "/id/products/qc14b00/",
+      "title": 79,
+      "description": 108
+    },
+    {
+      "path": "/id/products/qc10b01/",
+      "title": 67,
+      "description": 96
+    },
+    {
+      "path": "/id/products/qc13a03/",
+      "title": 68,
+      "description": 97
+    },
+    {
+      "path": "/id/products/qc61b00/",
+      "title": 64,
+      "description": 93
+    },
+    {
+      "path": "/id/products/qc10a02/",
+      "title": 65,
+      "description": 94
+    },
+    {
+      "path": "/id/products/qc50c01/",
+      "title": 66,
+      "description": 95
+    },
+    {
+      "path": "/id/products/qc52a01/",
+      "title": 76,
+      "description": 105
+    },
+    {
+      "path": "/id/products/qc53b00/",
+      "title": 62,
+      "description": 91
+    },
+    {
+      "path": "/id/products/qc53a00/",
+      "title": 64,
+      "description": 93
+    },
+    {
+      "path": "/id/products/qc14b01/",
+      "title": 88,
+      "description": 117
+    },
+    {
+      "path": "/id/products/qc10b02/",
+      "title": 61,
+      "description": 90
+    },
+    {
+      "path": "/id/products/qc61a00/",
+      "title": 62,
+      "description": 91
+    },
+    {
+      "path": "/id/products/qc50a01/",
+      "title": 69,
+      "description": 98
+    },
+    {
+      "path": "/id/products/qc10a01/",
+      "title": 65,
+      "description": 94
+    },
+    {
+      "path": "/id/products/qc51b00/",
+      "title": 62,
+      "description": 91
+    },
+    {
+      "path": "/id/products/qc14a01/",
+      "title": 75,
+      "description": 104
+    },
+    {
+      "path": "/id/products/qc50b00/",
+      "title": 64,
+      "description": 93
+    },
+    {
+      "path": "/id/products/qc12b00/",
+      "title": 82,
+      "description": 111
+    },
+    {
+      "path": "/id/products/qc53b01/",
+      "title": 68,
+      "description": 97
+    },
+    {
+      "path": "/id/products/qc14a00/",
+      "title": 75,
+      "description": 104
+    },
+    {
+      "path": "/id/products/qc14a02/",
+      "title": 76,
+      "description": 105
+    },
+    {
+      "path": "/id/products/qc50d00/",
+      "title": 62,
+      "description": 91
+    },
+    {
+      "path": "/id/products/qc13a02/",
+      "title": 61,
+      "description": 90
+    },
+    {
+      "path": "/id/products/qc50a02/",
+      "title": 69,
+      "description": 98
+    },
+    {
+      "path": "/id/products/qc12b03/",
+      "title": 75,
+      "description": 104
+    },
+    {
+      "path": "/id/products/qc12a00/",
+      "title": 73,
+      "description": 102
+    },
+    {
+      "path": "/id/products/qc12b01/",
+      "title": 76,
+      "description": 105
+    },
+    {
+      "path": "/id/certificates/",
+      "title": 40,
+      "description": 248
+    },
+    {
+      "path": "/id/resources/guides/",
+      "title": 28,
+      "description": 165
+    },
+    {
+      "path": "/id/blog/machine-vision-cable-selection-guide/",
+      "title": 63,
+      "description": 166
+    },
+    {
+      "path": "/id/blog/m12-coding-guide/",
+      "title": 65,
+      "description": 163
+    },
+    {
+      "path": "/id/blog/static-vs-continuous-flex-cables/",
+      "title": 55,
+      "description": 173
+    },
+    {
+      "path": "/id/blog/panel-mount-cable-dimensions-guide/",
+      "title": 73,
+      "description": 167
+    },
+    {
+      "path": "/id/blog/rs232-vs-rs485-vs-ttl/",
+      "title": 41,
+      "description": 196
+    },
+    {
+      "path": "/id/blog/cable-shielding-grounding-guide/",
+      "title": 40,
+      "description": 181
+    },
+    {
+      "path": "/id/blog/usb3-vision-cable-length-guide/",
+      "title": 62,
+      "description": 172
+    },
+    {
+      "path": "/id/blog/gige-vision-packet-loss-troubleshooting/",
+      "title": 60,
+      "description": 207
+    },
+    {
+      "path": "/id/blog/custom-cable-assembly-rfq-checklist/",
+      "title": 66,
+      "description": 196
+    },
+    {
+      "path": "/id/blog/usb-rs485-wiring-troubleshooting/",
+      "title": 70,
+      "description": 191
+    },
+    {
+      "path": "/id/blog/single-pair-ethernet-vs-4-pair-ethernet-sensor-cable/",
+      "title": 67,
+      "description": 192
+    },
+    {
+      "path": "/id/blog/drag-chain-cable-selection-rfq-specs/",
+      "title": 79,
+      "description": 189
+    },
+    {
+      "path": "/id/about/",
+      "title": 25,
+      "description": 206
+    },
+    {
+      "path": "/id/purchasing/",
+      "title": 32,
+      "description": 179
+    }
+  ],
+  "note": "Length warnings are editorial guidance, not Google ranking thresholds. This is static SEO validation, not a live indexing or CWV test."
+}

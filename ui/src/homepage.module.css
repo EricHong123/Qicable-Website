@@ -46,22 +46,26 @@
 .home :global(.buyer-entry-grid span) { font-size: 14px; line-height: 1.5; min-height: 44px; }
 .home :global(.buyer-entry-grid > a > svg) { width: 24px; height: 24px; }
 .home :global(.buyer-entry-grid > a:hover h3) { color: var(--brand-ink); }
-/* Engineering questions read as a brief, with fewer competing boxes. */
-.home :global(.buyer-problems) { background: #fff; }
-.home :global(.buyer-problems-layout) { grid-template-columns: minmax(0, .95fr) minmax(0, 1.2fr); gap: 90px; }
-.home :global(.buyer-problems-intro) { padding: 32px; background: var(--home-warm); border-radius: var(--radius-panel); }
-.home :global(.buyer-intro-icon) { width: auto; height: auto; margin-bottom: 24px; padding: 0; border: 0; border-radius: 0; background: transparent; }
-.home :global(.buyer-problems-intro h2) { font-size: clamp(30px, 3.1vw, 44px); line-height: 1.16; max-width: 20ch; }
-.home :global(.buyer-problems-intro p) { font-size: 16px; line-height: 1.7; max-width: 44ch; }
-.home :global(.buyer-problems-layout .buyer-problem-grid) { grid-template-columns: 1fr; gap: 0; }
-.home :global(.buyer-problem-grid article) { display: grid; grid-template-columns: 34px minmax(0, 1fr); gap: 8px 18px; padding: 24px 0; background: transparent; border: 0; border-bottom: 1px solid var(--line); border-radius: 0; }
-.home :global(.buyer-problem-grid article:first-child) { padding-top: 0; border-color: var(--line); background: transparent; }
-.home :global(.buyer-problem-grid article:last-child) { padding-bottom: 0; border-bottom: 0; }
-.home :global(.buyer-card-top) { grid-row: span 3; margin: 0; align-items: start; padding-top: 3px; }
-.home :global(.buyer-card-top .model-label) { display: none; }
-.home :global(.buyer-problem-grid h3) { font-size: 22px; }
-.home :global(.buyer-problem-grid p) { grid-column: 2; font-size: 15px; margin: 0; line-height: 1.6; }
-.home :global(.buyer-problem-grid .text-link) { grid-column: 2; margin: 0; padding-top: 0; font-size: 14px; }
+/* Numbered selection flow; content and destinations retain the existing locale contract. */
+.home :global(.buyer-problems) { background: var(--home-warm); }
+.home :global(.buyer-problems-layout) { grid-template-columns: 1fr; gap: 40px; }
+.home :global(.buyer-problems-intro) { display: grid; grid-template-columns: 1fr 1fr; gap: 20px 64px; padding: 0; background: transparent; border-radius: 0; }
+.home :global(.buyer-problems-intro h2) { grid-row: span 2; margin: 0; scroll-margin-top: 160px; font-size: clamp(30px, 3.1vw, 44px); line-height: 1.16; max-width: 20ch; }
+.home :global(.buyer-problems-intro p) { margin: 0; font-size: 16px; line-height: 1.7; max-width: 58ch; }
+.home :global(.buyer-problems-intro .button) { justify-self: start; align-self: start; }
+.home :global(.buyer-problems-layout .buyer-problem-grid) { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 32px; margin: 0; padding: 0; list-style: none; scroll-margin-top: 160px; }
+.home :global(.buyer-problem-grid > li) { position: relative; min-width: 0; }
+.home :global(.buyer-problem-grid article) { display: flex; flex-direction: column; gap: 0; height: 100%; padding: 24px; background: #fff; border: 1px solid var(--line); border-radius: var(--radius-card); }
+.home :global(.buyer-problem-grid > li:first-child article) { border-color: #dfbc91; }
+.home :global(.buyer-card-top) { margin: 0 0 24px; align-items: center; }
+.home :global(.buyer-card-top .model-label) { display: grid; place-items: center; width: 44px; height: 44px; flex-shrink: 0; border: 1px solid #dfbc91; border-radius: 50%; background: var(--home-warm); color: var(--brand-ink); font-size: 14px; letter-spacing: 0; }
+.home :global(.buyer-problem-grid > li:first-child .model-label) { background: var(--accent); border-color: var(--accent); color: var(--ink); }
+.home :global(.buyer-problem-grid h3) { margin: 0 0 16px; font-size: 22px; line-height: 1.3; overflow-wrap: anywhere; }
+.home :global(.buyer-problem-grid p) { font-size: 15px; margin: 0 0 24px; line-height: 1.65; }
+.home :global(.buyer-problem-grid .text-link) { margin-top: auto; padding-top: 0; font-size: 14px; gap: 8px; overflow-wrap: anywhere; }
+.home :global(.buyer-problem-grid .text-link svg) { flex-shrink: 0; }
+.home :global(.buyer-flow-connector) { position: absolute; inset-inline-start: 100%; top: 46px; width: 32px; height: 24px; display: grid; place-items: center; color: var(--brand-ink); }
+:global([dir="rtl"]) .home :global(.buyer-flow-connector svg) { transform: rotate(180deg); }
 /* One dark process band supplies a clear change of pace and a complete sequence. */
 .home :global(.project-review) { background: var(--home-dark); color: #fff; }
 .home :global(.project-review h2), .home :global(.project-review h3) { color: #fff; }
@@ -116,6 +120,9 @@
 .inquiry :global(.product-inquiry-layout > div > .text-link) { min-height: 44px; overflow-wrap: anywhere; }
 .inquiry :global(.deferred-inquiry) { grid-column: 2; grid-row: 1 / 3; padding: 30px; border-radius: var(--radius-panel); background: #fff; color: var(--ink); }
 .inquiry :global(.deferred-inquiry h2) { color: var(--ink); }
+@media (max-width: 1280px) {
+  .home :global(.buyer-problems-layout) { padding-right: calc(88px + env(safe-area-inset-right, 0px)); }
+}
 @media (max-width: 1100px) {
   .home :global(.section) { padding-block: 64px; }
   .home :global(.hero-copy) { width: 68%; }
@@ -125,7 +132,14 @@
   .home :global(.buyer-entry) { grid-template-columns: 1fr; gap: 28px; padding-block: 32px; }
   .home :global(.buyer-entry .section-heading) { max-width: none; }
   .home :global(.buyer-entry-grid > a:first-child) { padding-inline-start: 0; border-inline-start: 0; }
-  .home :global(.buyer-problems-layout) { gap: 40px; }
+  .home :global(.buyer-problems-layout .buyer-problem-grid) { grid-template-columns: 1fr; gap: 28px; }
+  .home :global(.buyer-problem-grid > li) { padding-inline-start: 64px; }
+  .home :global(.buyer-problem-grid article) { padding: 24px; }
+  .home :global(.buyer-card-top) { margin-bottom: 16px; }
+  .home :global(.buyer-card-top .model-label) { position: absolute; inset-inline-start: 0; top: 24px; }
+  .home :global(.buyer-flow-connector) { top: 80px; bottom: -16px; inset-inline-start: 22px; width: 0; height: auto; border-inline-start: 1px solid #dfbc91; }
+  .home :global(.buyer-flow-connector svg) { position: absolute; bottom: -2px; inset-inline-start: -12.5px; background: var(--home-warm); transform: rotate(90deg); }
+  :global([dir="rtl"]) .home :global(.buyer-flow-connector svg) { transform: rotate(90deg); }
   .home :global(.certificate-section) { gap: 32px; }
   .inquiry :global(.product-inquiry-layout) { gap: 32px; }
 }
@@ -139,7 +153,7 @@
   .inquiryChecklist { grid-row: 3; }
   .home :global(.buyer-problems-intro h2) { max-width: 27ch; }
   .home :global(.buyer-problems-intro p) { max-width: 60ch; }
-  .home :global(.buyer-problems-intro .button) { margin-right: 40px; }
+
   .home :global(.project-review-steps) { gap: 32px 0; }
   .home :global(.project-review-steps li:nth-child(2)::before) { display: none; }
   .home :global(.certificate-section .section-heading) { max-width: 720px; }
@@ -169,10 +183,13 @@
   .home :global(.buyer-entry-grid > a:first-child) { padding-right: 48px; }
   .home :global(.buyer-entry-grid > a > svg) { grid-column: 1; grid-row: 1 / 4; }
   .home :global(.buyer-entry-grid h3), .home :global(.buyer-entry-grid p), .home :global(.buyer-entry-grid span) { grid-column: 2; }
-  .home :global(.buyer-problems-layout) { gap: 30px; }
-  .home :global(.buyer-problems-intro) { padding: 24px; }
-  .home :global(.buyer-problems-intro h2) { font-size: 32px; }
-  .home :global(.buyer-problem-grid article) { column-gap: 12px; padding-right: 48px; }
+  .home :global(.buyer-problems-layout) { gap: 32px; padding-right: calc(68px + env(safe-area-inset-right, 0px)); }
+  .home :global(.buyer-problems-intro) { grid-template-columns: 1fr; gap: 20px; padding: 0; }
+  .home :global(.buyer-problems-intro h2) { grid-row: auto; font-size: 32px; }
+  .home :global(.buyer-problem-grid > li) { padding-inline-start: 48px; }
+  .home :global(.buyer-problem-grid article) { padding: 20px 16px; }
+  .home :global(.buyer-card-top .model-label) { width: 36px; height: 36px; top: 20px; }
+  .home :global(.buyer-flow-connector) { top: 68px; inset-inline-start: 18px; }
   .home :global(.buyer-problem-grid h3) { font-size: 21px; }
   .home :global(.project-review-steps) { grid-template-columns: 1fr; gap: 0; padding-right: 48px; }
   .home :global(.project-review-steps li) { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 10px 20px; padding: 0 0 32px; }
