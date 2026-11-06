@@ -38,7 +38,7 @@
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 4px;
+  border-radius: var(--radius-card);
 }
 .photo figcaption,
 .photoSource {
@@ -176,6 +176,7 @@
   background: var(--paper);
   border: 1px solid var(--line);
   padding: 32px;
+  border-radius: var(--radius-panel);
 }
 .change > svg { color: var(--brand-ink); }
 .change h3 { margin-top: 20px; }
@@ -222,7 +223,7 @@
   .topics { padding-right: max(56px, calc(env(safe-area-inset-right) + 56px)); }
   .actions a { width: fit-content; padding-inline: 16px; }
   .actions a:global(.text-link) { padding-inline: 0; }
-  .change { padding: 24px; }
+  .change { padding: 24px; border-radius: var(--radius-panel); }
   .change .actions { padding-right: 32px; }
   .testTable,
   .testTable tbody,

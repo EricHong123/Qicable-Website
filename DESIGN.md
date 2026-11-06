@@ -19,7 +19,22 @@ colors:
   heroFocus: "#ffbd61"
   whatsapp: "#12834a"
   whatsappHover: "#0e6e3d"
+  homeWarm: "#f7f5f1"
+  homeDark: "#182328"
+  homeLightText: "#d8e0e3"
 typography:
+  homeDisplay:
+    fontFamily: IBM Plex Sans
+    fontSize: 68px
+    fontWeight: 500
+    lineHeight: 1.06
+    letterSpacing: -0.025em
+  homeHeading:
+    fontFamily: IBM Plex Sans
+    fontSize: 46px
+    fontWeight: 500
+    lineHeight: 1.15
+    letterSpacing: -0.025em
   display:
     fontFamily: IBM Plex Sans
     fontSize: 64px
@@ -93,10 +108,12 @@ typography:
     lineHeight: 1.6
     letterSpacing: 0em
 rounded:
-  control: 4px
-  tooltip: 6px
-  dock: 8px
-  dialog: 10px
+  control: 12px
+  card: 18px
+  panel: 24px
+  tooltip: 8px
+  dock: 14px
+  dialog: 24px
 spacing:
   xs: 4px
   sm: 8px
@@ -106,12 +123,23 @@ spacing:
   mobileSection: 46px
   tabletSection: 58px
   desktopSection: 76px
+  homeSection: 88px
+  homeTabletSection: 64px
+  homeMobileSection: 48px
 components:
+  home-process:
+    backgroundColor: "{colors.homeDark}"
+    textColor: "{colors.homeLightText}"
+    typography: "{typography.body}"
+  home-editorial:
+    backgroundColor: "{colors.homeWarm}"
+    textColor: "{colors.ink}"
+    rounded: "{rounded.card}"
   service-checklist:
     backgroundColor: "{colors.soft}"
     textColor: "{colors.ink}"
     typography: "{typography.body}"
-    rounded: "{rounded.control}"
+    rounded: "{rounded.card}"
     padding: 30px
   service-topic:
     backgroundColor: "{colors.soft}"
@@ -125,7 +153,7 @@ components:
   policy-contact:
     backgroundColor: "{colors.soft}"
     textColor: "{colors.ink}"
-    rounded: "{rounded.control}"
+    rounded: "{rounded.panel}"
     padding: 28px
   button-primary:
     backgroundColor: "{colors.primary}"
@@ -212,7 +240,7 @@ components:
     backgroundColor: "{colors.soft}"
     textColor: "{colors.ink}"
     typography: "{typography.body}"
-    rounded: "{rounded.control}"
+    rounded: "{rounded.card}"
     padding: 20px
   inquiry-file-error:
     backgroundColor: "{colors.soft}"
@@ -222,7 +250,7 @@ components:
     backgroundColor: "{colors.soft}"
     textColor: "{colors.ink}"
     typography: "{typography.body}"
-    rounded: "{rounded.control}"
+    rounded: "{rounded.panel}"
     padding: 20px
   quote-quantity:
     backgroundColor: "{colors.paper}"
@@ -293,7 +321,7 @@ frontmatter 中标题字号为相应 CSS 尺度的上限，以下规则说明响
 
 ## Shapes
 
-普通按钮、表单和图片框以 4px 小圆角为主；浮动联系按钮桌面 8px／手机 7px；询价弹窗桌面 10px／手机 8px。圆形仅用于轮播位置点等有明确用途的小控件。避免将工业产品卡全部改为大圆角胶囊。
+圆角统一使用共享 CSS tokens：按钮、输入框、缩略图与菜单选项 12px；卡片、图片框、展开的 FAQ 18px；大型表单面板、联系信息面板和弹窗 24px；浮动联系按钮 14px；提示标签 8px。桌面与手机使用同一圆角体系。贴底抽屉仅顶部圆角，贴导航的全宽菜单仅底部圆角；全宽色带、正文行分隔和表格单元格保持原结构，圆形流程节点与轮播控件继续使用 50%。
 
 ## Components
 
@@ -513,3 +541,22 @@ The local implementation now supports en/de/es/fr/pt/ar plus it/nl/pl/cs/sv/da/f
 All twenty home pages expose twenty language options and localized headings. Actual compiled pages were checked at320px Japanese,390px Arabic/Korean/Japanese/German,768px German and1440px Russian. Navigation was opened after hydration; each case had zero recorded JavaScript errors and no horizontal overflow. Contact controls retain the physical-right order. The static export contains2460 pages and240 article-language documents, retaining80 shared product identities. Modern per-page script inventory is190157 gzip bytes; this is an artifact check rather than a Lighthouse score. Evidence: evidence/twenty-languages-2026-11-04/.
 
 The Agent's local workbench and content contracts also support the nineteen translation targets, with existing private-save, approval and publication gates. These records describe local qualification; they do not assert a production deployment or mother-tongue editorial review. No Jev call or customer-facing AI dependency was added.
+
+## Homepage editorial redesign (2026-11-06)
+
+This local homepage redesign supersedes the older homepage composition notes above. Reference research: LEMO's manufacturing-led presentation, binder's product hierarchy, LAPP's task-led selection and Basler's machine-vision ecosystem. Qicable keeps its orange identity, IBM Plex Sans, existing20-language copy, native Agent content, product identities, routes and buyer analytics.
+
+Homepage-only styles live in `homepage.module.css`. Hero typography scales48–68px on desktop and32–46px on mobile, with the existing manufacturer H1, real footage, priority poster and manual carousel. Desktop hero height starts at640px. Tablet caption and controls occupy separate vertical positions. Product families lead the body: twelve-column grid,7-column Machine vision spanningtwo260px rows, two5-column supporting entries, then three4-column entries. Product photographs usecontain. Mobile keeps the keyboard-accessible swipe rail with360px cards. Rounded corners now use the shared18px card token, updated by the2026-11-06 rounded UI refinement.
+
+Three buyer intent paths become a compact selector. Engineering questions use a warm introduction panel and four short editorial rows. `home-editorial.tsx`/`home-editorial.module.css` provide application imagery with linked rows and a manufacturing photo composition. The application illustration remains explicitly conceptual in alt text. Manufacturing photo attribution, existing brief-backed facts and per-project requirements remain unchanged.
+
+One dark four-stage flow replaces the two repetitive homepage supply sections. Detailed delivery planning remains on inner pages. Desktop connectors are horizontal; mobile uses a vertical logical-side connector centered22px into each44px node. The48px physical-right dock reserve belongs to the entiremobile list, preserving Arabic alignment. Keep pseudo-element selectors outsidecombined`:is()` groups: the actual browser revealed an invalid empty`:is()` from combinedglobal pseudo-element selectors during compilation; the final selector is separate and verified.
+
+Certificates use a text/preview split, the existing10-file carousel and original scope descriptions. Blog cards retain real covers and complete titles. FAQ uses a quieter accordion. The final inquiry area uses a dark background and white lazy-loaded form. Desktop puts the preparation checklist beside theform; mobile places theform immediately after the heading/email and thechecklist after theform. Fields, optionaldata, attachments, consent and submission logic are unchanged. Form content reserves physical-right space for the contact dock.
+
+No new runtime dependencies, externalfonts, AI calls or client components were added. Existingvideo playback guards andreduced-motion preferences remain. Browsergeometry, navigation and interaction checks are recorded under `evidence/homepage-redesign-2026-11-06/`; productionstatic export covers2460 pages. TypeSafe guidance was consulted; this change did not run a Jev inference or claim model-based visual verification. This record describes a local redesign, not a new production deployment.
+
+
+## Rounded UI refinement — 2026-11-06
+
+The latest client request makes boxes softer across all locales. Global and page-module styles share `--radius-control` (12px), `--radius-card` (18px), `--radius-panel` (24px), `--radius-dock` (14px) and `--radius-tooltip` (8px). Controls keep their existing dimensions, borders and focus treatments. Card photos, product galleries, certificates, blog covers, service cards, quote lists, article table wrappers, FAQ panels and inquiry surfaces follow the same hierarchy. Full-width hero/process bands and unboxed editorial rows stay flush. No runtime dependency or JavaScript behavior was added. Verification is recorded in `plans/2026-11-06-rounded-ui.md`.

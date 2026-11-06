@@ -1,5 +1,7 @@
-import { expandLocales, translateText } from "./locale-runtime";
+import { translateText } from "./locale-runtime";
 import { BuyerEntryPaths, ProjectReviewFlow } from "./buyer-journey";
+import { HomeApplications, HomeManufacturing } from "./home-editorial";
+import homeStyles from "./homepage.module.css";
 import { buyerJourneyCopy } from "./buyer-journey-copy";
 import { MobileCarousel } from "./mobile-carousel";
 import { DeferredInquiryForm as InquiryForm } from "./deferred-inquiry";
@@ -70,10 +72,7 @@ import {
 import { ArrowLink, Cta, PageHeading } from "./shell";
 import { HomeCarousel, type HomeSlide } from "./home-carousel";
 import { companyContent } from "./company-content";
-import {
-  Manufacturing,
-  QualityPage,
-} from "./manufacturing";
+import { QualityPage } from "./manufacturing";
 import { applicationDescriptions, applicationRequirements } from "./application-content";
 import site from "../../config/site.json";
 const icons = [ScanLine, Network, Cable, Cpu, Monitor, Layers];
@@ -218,7 +217,7 @@ function Home({ locale }: { locale: Locale }) {
     },
   ];
   return (
-    <>
+    <div className={homeStyles.home} data-homepage>
       <HomeCarousel locale={locale} slides={slides} action={t.learn} videoDescription={videoDescriptions[locale]} videoCopy={bannerVideoCopy[locale]}>
         <h1>{t.heroTitle}</h1>
         <p>{buyerCopy(locale)[15]}</p>
@@ -265,56 +264,40 @@ function Home({ locale }: { locale: Locale }) {
           })}
         </div>
       </section>
-      <BuyerEntryPaths locale={locale} />
-      <section className="section container">
+      <section className={`section container ${homeStyles.products}`} id="cable-range" aria-labelledby="cable-range-title">
         <div className="section-heading">
-          <h2>{t.rangeTitle}</h2>
+          <h2 id="cable-range-title">{t.rangeTitle}</h2>
           <p>{t.rangeText}</p>
         </div>
         <ProductFamilies locale={locale} />
       </section>
       <NativeFeaturedProducts locale={locale}/>
+      <BuyerEntryPaths locale={locale} />
       <BuyerProblems locale={locale} />
-      <Manufacturing locale={locale} />
-      <div className="container connection-divider"><img src="/assets/banners/industrial-connections-divider-1920.webp" srcSet="/assets/banners/industrial-connections-divider-960.webp 960w, /assets/banners/industrial-connections-divider-1920.webp 1920w" sizes="(max-width: 1400px) calc(100vw - 40px), 1280px" width={1920} height={640} loading="lazy" decoding="async" alt={expandLocales({en:"Concept illustration of industrial cable connections with machine vision and control equipment",de:"Konzeptdarstellung industrieller Kabelverbindungen mit Bildverarbeitungs- und Steuerungstechnik",es:"Ilustración conceptual de conexiones de cables con equipos de visión y control industrial",fr:"Illustration conceptuelle de connexions de câbles avec équipements de vision et de commande",pt:"Ilustração conceitual de conexões de cabos com equipamentos de visão e controle industrial",ar:"رسم تصوري لتوصيلات كابلات صناعية مع معدات الرؤية والتحكم"})[locale]}/></div>
-      <section className="section container">
-        <div className="section-heading">
-          <h2>{t.applicationsTitle}</h2>
-          <p>{t.applicationsText}</p>
-        </div>
-        <div className="application-grid application-grid--cards">
-          {[0, 1, 3, 4].map((i) => { const s=applicationSlugs[i];
-            const Icon = icons[i];
-            return (
-              <Link
-                prefetch={false}
-                key={s}
-                href={href(locale, `/applications/${s}/`)}
-              >
-                <Icon size={31} />
-                <div>
-                  <h3>{t.applicationNames[i]}</h3>
-                  <p>{applicationDescriptions[locale][i]}</p>
-                </div>
-                <ArrowUpRight size={19} />
-              </Link>
-            );
-          })}
-        </div>
-      </section>
+      <HomeApplications locale={locale} />
+      <HomeManufacturing locale={locale} />
       <ProjectReviewFlow locale={locale} />
-      <DeliveryPlanning locale={locale}/>
       <Certificates locale={locale} home carousel/>
-      <section className="section container">
+      <section className={`section container ${homeStyles.blog}`}>
         <div className="section-heading">
           <h2>{t.guides}</h2>
           <p>{t.guideLead}</p>
+          <Link prefetch={false} href={href(locale, "/blog/")} className="text-link">{t.guides}<ArrowUpRight size={18}/></Link>
         </div>
         <GuideList locale={locale} limit={3} />
       </section>
       <section className="section home-faq"><div className="container home-faq-layout"><div className="home-faq-intro"><span className="home-faq-label">FAQ</span><h2>{t.faq}</h2><p>{t.ctaText}</p><Link prefetch={false} className="button secondary" href={href(locale,"/resources/faq/")}>{t.learn}<ArrowUpRight size={18}/></Link><Link prefetch={false} className="text-link" href={inquiryHref(locale)}>{t.quote}<ArrowRight size={17}/></Link></div><Faq locale={locale} featured/></div></section>
-      <section className="section container product-inquiry-layout"><div><h2>{t.quote}</h2><p>{t.ctaText}</p><CheckList locale={locale}/></div><InquiryForm locale={locale}/></section>
-    </>
+      <section className={`section ${homeStyles.inquiry}`} id="home-inquiry">
+        <div className="container product-inquiry-layout">
+          <div className={homeStyles.inquiryIntro}>
+            <h2>{t.quote}</h2><p>{t.ctaText}</p>
+            <a href={`mailto:${site.email}`} className="text-link">{site.email}<ArrowUpRight size={18}/></a>
+          </div>
+          <InquiryForm locale={locale}/>
+          <div className={homeStyles.inquiryChecklist}><CheckList locale={locale}/></div>
+        </div>
+      </section>
+    </div>
   );
 }
 export function QicablePage({

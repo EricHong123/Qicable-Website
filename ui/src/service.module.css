@@ -10,14 +10,14 @@
 .steps li { display: flex; gap: 22px; padding: 24px 0; border-top: 1px solid #dde1e5; }
 .steps li > span { color: #994800; font-size: 15px; padding-top: 4px; }
 .steps p { margin: 0; font-size: 18px; line-height: 1.65; }
-.checklist { background: #f4f5f6; border-inline-start: 3px solid #ff8a05; border-radius: 4px; padding: 30px; }
+.checklist { background: #f4f5f6; border-inline-start: 3px solid #ff8a05; border-radius: var(--radius-card); padding: 30px; }
 .checklist ul { list-style: none; padding: 0; margin: 0; }
 .checklist li { display: flex; gap: 12px; margin-bottom: 18px; font-size: 16px; line-height: 1.65; }
 .checklist svg { flex-shrink: 0; margin-top: 4px; color: #994800; }
 .note, .notice { font-size: 16px; line-height: 1.75; color: #60656b; }
 .note { border-top: 1px solid #dde1e5; padding-top: 24px; margin: 24px 0 0; }
 .cards { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 22px; }
-.cards article { display: flex; flex-direction: column; border: 1px solid #dde1e5; border-top: 3px solid #ff8a05; border-radius: 4px; padding: 28px; min-width: 0; }
+.cards article { display: flex; flex-direction: column; border: 1px solid #dde1e5; border-top: 3px solid #ff8a05; border-radius: var(--radius-card); padding: 28px; min-width: 0; }
 .cards article > svg { color: #994800; margin-bottom: 24px; }
 .cards h2 { font-size: 23px; margin-bottom: 14px; }
 .cards p { font-size: 16px; line-height: 1.7; margin: 0 0 24px; }
@@ -25,7 +25,7 @@
 .cards a, .related a, .catalog { display: inline-flex; align-items: center; gap: 12px; min-height: 44px; font-size: 16px; color: #994800; line-height: 1.5; text-decoration: underline; text-underline-offset: 4px; padding-block: 9px; overflow-wrap: anywhere; }
 .cards a { margin-top: auto; }
 .page a svg, .related a svg { flex-shrink: 0; }
-.notice { border-inline-start: 3px solid #7f8992; padding: 18px 24px; margin: 32px 0 0; background: #f4f5f6; }
+.notice { border-inline-start: 3px solid #7f8992; padding: 18px 24px; margin: 32px 0 0; background: #f4f5f6; border-radius: var(--radius-card); }
 .next { margin-top: 64px; border-top: 1px solid #dde1e5; padding-top: 36px; }
 .related { display: flex; flex-wrap: wrap; gap: 12px 32px; }
 .catalog { margin-top: 16px; }
@@ -33,11 +33,11 @@
 :global([dir="rtl"]) .page p { line-height: 1.85; }
 @media(max-width:1100px) { .safe, .related { padding-right: calc(76px + env(safe-area-inset-right)); } .safe .related { padding-right: 0; } .columns { gap: 30px; } .cards { grid-template-columns: repeat(2,minmax(0,1fr)); } }
 @media(max-width:800px) { .columns, .cards { grid-template-columns: minmax(0,1fr); } }
-@media(max-width:720px) { .safe, .related { padding-right: calc(56px + env(safe-area-inset-right)); } .hero { padding-block: 36px; } .body { padding-block: 36px 48px; } .lead, .steps p { font-size: 16px; } .page h2 { font-size: 23px; } .checklist, .cards article { padding: 20px; } .hero :global(.button) { white-space: normal; min-height: 44px; height: auto; max-width: 100%; text-align: start; } .steps li { gap: 14px; } .notice { padding: 18px; } }
+@media(max-width:720px) { .safe, .related { padding-right: calc(56px + env(safe-area-inset-right)); } .hero { padding-block: 36px; } .body { padding-block: 36px 48px; } .lead, .steps p { font-size: 16px; } .page h2 { font-size: 23px; } .checklist, .cards article { padding: 20px; } .hero :global(.button) { white-space: normal; min-height: 44px; height: auto; max-width: 100%; text-align: start; } .steps li { gap: 14px; } .notice { padding: 18px; border-radius: var(--radius-card); } }
 
 .footerLink { min-height: 44px; }
 @media(max-width:720px) { .footerColumn { grid-column: 1 / -1; padding-right: calc(56px + env(safe-area-inset-right)); } }
-.requestAction { display:flex; align-items:center; justify-content:space-between; gap:30px; margin-top:40px; padding:28px; border:1px solid #dde1e5; border-radius:10px; }
+.requestAction { display:flex; align-items:center; justify-content:space-between; gap:30px; margin-top:40px; padding:28px; border:1px solid #dde1e5; border-radius:var(--radius-panel); }
 .requestAction > div { min-width:0; max-width:60ch; }
 .requestAction p { color:#60656b; line-height:1.7; }
 .requestAction h2 { margin-bottom:12px; }
