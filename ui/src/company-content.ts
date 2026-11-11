@@ -47,7 +47,7 @@ export const companyContent: Record<Locale, CompanyContent> = expandLocales({
       {
         question: "What should I do if there is an issue with an order?",
         answer:
-          "Contact sales@qicable.com with the order or batch reference, a description of the issue and relevant photographs. The team reviews the case and discusses the appropriate resolution. Warranty conditions depend on the product and order.",
+          "Contact inquiry@qicable.com with the order or batch reference, a description of the issue and relevant photographs. The team reviews the case and discusses the appropriate resolution. Warranty conditions depend on the product and order.",
       },
     ],
     hours: "Monday–Friday, 09:00–18:00 (GMT+8)",
@@ -88,7 +88,7 @@ export const companyContent: Record<Locale, CompanyContent> = expandLocales({
       {
         question: "Was ist bei einem Problem mit einer Bestellung zu tun?",
         answer:
-          "Kontaktieren Sie sales@qicable.com mit Auftrags- oder Chargennummer, Fehlerbeschreibung und geeigneten Fotos. Das Team prüft den Fall und bespricht eine Lösung. Garantiebedingungen hängen vom Produkt und Auftrag ab.",
+          "Kontaktieren Sie inquiry@qicable.com mit Auftrags- oder Chargennummer, Fehlerbeschreibung und geeigneten Fotos. Das Team prüft den Fall und bespricht eine Lösung. Garantiebedingungen hängen vom Produkt und Auftrag ab.",
       },
     ],
     hours: "Montag–Freitag, 09:00–18:00 Uhr (GMT+8)",
@@ -129,7 +129,7 @@ export const companyContent: Record<Locale, CompanyContent> = expandLocales({
       {
         question: "¿Qué debo hacer si hay un problema con un pedido?",
         answer:
-          "Contacte con sales@qicable.com e indique el pedido o lote, una descripción y fotografías del problema. El equipo revisará el caso y propondrá los siguientes pasos. La garantía depende del producto y del pedido.",
+          "Contacte con inquiry@qicable.com e indique el pedido o lote, una descripción y fotografías del problema. El equipo revisará el caso y propondrá los siguientes pasos. La garantía depende del producto y del pedido.",
       },
     ],
     hours: "Lunes–viernes, 09:00–18:00 (GMT+8)",
@@ -170,7 +170,7 @@ export const companyContent: Record<Locale, CompanyContent> = expandLocales({
       {
         question: "Que faire en cas de problème avec une commande ?",
         answer:
-          "Contactez sales@qicable.com avec la référence de commande ou de lot, une description et des photos du problème. L’équipe examinera le dossier et discutera de la solution. La garantie dépend du produit et de la commande.",
+          "Contactez inquiry@qicable.com avec la référence de commande ou de lot, une description et des photos du problème. L’équipe examinera le dossier et discutera de la solution. La garantie dépend du produit et de la commande.",
       },
     ],
     hours: "Lundi–vendredi, 09:00–18:00 (GMT+8)",
@@ -211,7 +211,7 @@ export const companyContent: Record<Locale, CompanyContent> = expandLocales({
       {
         question: "O que fazer se houver um problema com uma encomenda?",
         answer:
-          "Contacte sales@qicable.com com a referência da encomenda ou lote, uma descrição e fotografias do problema. A equipa analisará o caso e discutirá a solução. A garantia depende do produto e da encomenda.",
+          "Contacte inquiry@qicable.com com a referência da encomenda ou lote, uma descrição e fotografias do problema. A equipa analisará o caso e discutirá a solução. A garantia depende do produto e da encomenda.",
       },
     ],
     hours: "Segunda–sexta, 09:00–18:00 (GMT+8)",
@@ -252,7 +252,7 @@ export const companyContent: Record<Locale, CompanyContent> = expandLocales({
       {
         question: "ماذا أفعل عند وجود مشكلة في الطلب؟",
         answer:
-          "تواصل عبر sales@qicable.com وأرفق مرجع الطلب أو الدفعة ووصف المشكلة وصورًا مناسبة. يراجع الفريق الحالة ويناقش الحل. تختلف شروط الضمان حسب المنتج والطلب.",
+          "تواصل عبر inquiry@qicable.com وأرفق مرجع الطلب أو الدفعة ووصف المشكلة وصورًا مناسبة. يراجع الفريق الحالة ويناقش الحل. تختلف شروط الضمان حسب المنتج والطلب.",
       },
     ],
     hours: "الاثنين–الجمعة، 09:00–18:00 (GMT+8)",

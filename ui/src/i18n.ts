@@ -254,7 +254,7 @@ const en = {
   faqQuestions: ["Can you customize an assembly?", "What are the MOQ and lead time?", "Are samples and drawings available?", "Is a cable suitable for continuous motion?", "How do I confirm compatibility?", "How do I request warranty support?"],
   faqAnswers: ["Share the interfaces, pin assignment, length and installation requirements for review.", "They depend on the model, quantity, materials and tooling and are confirmed in the quotation.", "Contact us to agree the documents, sample costs and validation plan for your model.", "Suitability is model-specific. Share the bend radius, travel and cycle requirements.", "Check interfaces, pinout, length, operating conditions and any driver requirements.", "Provide the order, model, batch and issue details. Support follows the agreed terms."],
   privacyText:
-    "When you send an inquiry, we use your contact details and project information to respond and follow up on your request. Avoid including unrelated personal or confidential information. Contact sales@qicable.com for questions about your information.",
+    "When you send an inquiry, we use your contact details and project information to respond and follow up on your request. Avoid including unrelated personal or confidential information. Contact inquiry@qicable.com for questions about your information.",
   cookieText:
     "Basic traffic measurement uses no analytics cookies by default. You can turn it off or allow analytics cookies here.",
   essential: "Essential only",
@@ -497,7 +497,7 @@ export const messages: Record<Locale, Messages> = expandLocales({
     faqQuestions: ["Können Sie eine Kabelkonfektion anpassen?", "Wie hoch sind Mindestmenge und Lieferzeit?", "Sind Muster und Zeichnungen verfügbar?", "Ist das Kabel für dauernde Bewegung geeignet?", "Wie prüfe ich die Kompatibilität?", "Wie beantrage ich Unterstützung bei einem Gewährleistungsfall?"],
     faqAnswers: ["Senden Sie Schnittstellen, Pinbelegung, Länge und Einbauanforderungen zur Prüfung.", "Sie hängen von Modell, Menge, Material und Werkzeugen ab und werden im Angebot bestätigt.", "Stimmen Sie Dokumente, Musterkosten und den Validierungsplan für Ihr Modell mit uns ab.", "Die Eignung ist modellspezifisch. Nennen Sie Biegeradius, Verfahrweg und geforderte Zyklen.", "Prüfen Sie Schnittstellen, Pinbelegung, Länge, Betriebsbedingungen und mögliche Treiberanforderungen.", "Nennen Sie Auftrag, Modell, Charge und Problemdetails. Es gelten die vereinbarten Bedingungen."],
     privacyText:
-      "Wir nutzen Kontakt- und Projektangaben, um Ihre Anfrage zu beantworten und zu bearbeiten. Übermitteln Sie keine unnötigen persönlichen oder vertraulichen Informationen. Fragen richten Sie an sales@qicable.com.",
+      "Wir nutzen Kontakt- und Projektangaben, um Ihre Anfrage zu beantworten und zu bearbeiten. Übermitteln Sie keine unnötigen persönlichen oder vertraulichen Informationen. Fragen richten Sie an inquiry@qicable.com.",
     cookieText:
       "Die grundlegende Verkehrsmessung verwendet standardmäßig keine Analyse-Cookies. Sie können sie hier ausschalten oder Cookies erlauben.",
     essential: "Nur erforderlich",
@@ -737,7 +737,7 @@ export const messages: Record<Locale, Messages> = expandLocales({
     faqQuestions: ["¿Pueden personalizar un conjunto?", "¿Cuál es la cantidad mínima y el plazo de entrega?", "¿Hay muestras y planos disponibles?", "¿Es adecuado el cable para movimiento continuo?", "¿Cómo confirmo la compatibilidad?", "¿Cómo solicito asistencia de garantía?"],
     faqAnswers: ["Envíe las interfaces, asignación de pines, longitud y requisitos de instalación para su revisión.", "Dependen del modelo, cantidad, materiales y utillaje, y se confirman en la oferta.", "Contacte para acordar documentos, costes de muestras y el plan de validación de su modelo.", "La idoneidad depende del modelo. Indique radio de curvatura, recorrido y ciclos requeridos.", "Compruebe interfaces, pinout, longitud, condiciones de funcionamiento y requisitos de controladores.", "Facilite pedido, modelo, lote y detalles del problema. Se aplican las condiciones acordadas."],
     privacyText:
-      "Utilizamos los datos de contacto y del proyecto para responder y dar seguimiento a su consulta. Evite información personal o confidencial innecesaria. Contacte con sales@qicable.com para preguntas.",
+      "Utilizamos los datos de contacto y del proyecto para responder y dar seguimiento a su consulta. Evite información personal o confidencial innecesaria. Contacte con inquiry@qicable.com para preguntas.",
     cookieText:
       "La medición básica de tráfico no usa cookies analíticas por defecto. Puede desactivarla o permitir cookies aquí.",
     essential: "Solo necesarias",
@@ -977,7 +977,7 @@ export const messages: Record<Locale, Messages> = expandLocales({
     faqQuestions: ["Pouvez-vous personnaliser un assemblage ?", "Quels sont la quantité minimale et le délai ?", "Des échantillons et plans sont-ils disponibles ?", "Le câble convient-il aux mouvements continus ?", "Comment confirmer la compatibilité ?", "Comment demander une prise en charge sous garantie ?"],
     faqAnswers: ["Transmettez les interfaces, le brochage, la longueur et les exigences de montage pour étude.", "Ils dépendent du modèle, de la quantité, des matériaux et des outillages, et sont confirmés dans le devis.", "Contactez-nous pour convenir des documents, du coût des échantillons et du plan de validation du modèle.", "L’aptitude dépend du modèle. Précisez le rayon de courbure, la course et les cycles requis.", "Vérifiez les interfaces, le brochage, la longueur, les conditions de service et les éventuels pilotes.", "Fournissez la commande, le modèle, le lot et les détails du problème. Les conditions convenues s’appliquent."],
     privacyText:
-      "Nous utilisons vos coordonnées et informations de projet pour répondre à votre demande et en assurer le suivi. Évitez les données personnelles ou confidentielles inutiles. Contact : sales@qicable.com.",
+      "Nous utilisons vos coordonnées et informations de projet pour répondre à votre demande et en assurer le suivi. Évitez les données personnelles ou confidentielles inutiles. Contact : inquiry@qicable.com.",
     cookieText:
       "La mesure de trafic de base n’utilise pas de cookies d’analyse par défaut. Vous pouvez la désactiver ou autoriser les cookies ici.",
     essential: "Nécessaires uniquement",
@@ -1215,7 +1215,7 @@ export const messages: Record<Locale, Messages> = expandLocales({
     faqQuestions: ["Podem personalizar um conjunto?", "Qual é a quantidade mínima e o prazo?", "Existem amostras e desenhos disponíveis?", "O cabo é adequado a movimento contínuo?", "Como confirmar a compatibilidade?", "Como solicitar assistência em garantia?"],
     faqAnswers: ["Envie interfaces, pinagem, comprimento e requisitos de instalação para análise.", "Dependem do modelo, quantidade, materiais e ferramentas e são confirmados na proposta.", "Contacte-nos para acordar documentos, custos das amostras e o plano de validação do modelo.", "A adequação depende do modelo. Indique raio de curvatura, curso e ciclos necessários.", "Verifique interfaces, pinagem, comprimento, condições de funcionamento e eventuais requisitos de drivers.", "Forneça pedido, modelo, lote e detalhes do problema. Aplicam-se os termos acordados."],
     privacyText:
-      "Usamos os dados de contacto e de projeto para responder e acompanhar o pedido. Evite dados pessoais ou confidenciais desnecessários. Para questões, contacte sales@qicable.com.",
+      "Usamos os dados de contacto e de projeto para responder e acompanhar o pedido. Evite dados pessoais ou confidenciais desnecessários. Para questões, contacte inquiry@qicable.com.",
     cookieText:
       "A medição básica de tráfego não usa cookies de análise por defeito. Pode desativá-la ou permitir cookies aqui.",
     essential: "Apenas essenciais",
@@ -1439,7 +1439,7 @@ export const messages: Record<Locale, Messages> = expandLocales({
     faqQuestions: ["هل يمكن تخصيص التجميعة؟", "ما الحد الأدنى للطلب ومدة التسليم؟", "هل تتوفر عينات ورسومات؟", "هل الكابل مناسب للحركة المستمرة؟", "كيف أتحقق من التوافق؟", "كيف أطلب دعم الضمان؟"],
     faqAnswers: ["أرسل الواجهات وتوزيع الأطراف والطول ومتطلبات التركيب للمراجعة.", "يعتمدان على الطراز والكمية والمواد والقوالب، ويُؤكدان في عرض السعر.", "تواصل معنا للاتفاق على المستندات وتكاليف العينات وخطة التحقق لطرازك.", "تعتمد الملاءمة على الطراز. حدد نصف قطر الانحناء ومسافة الحركة وعدد الدورات المطلوبة.", "تحقق من الواجهات وتوزيع الأطراف والطول وظروف التشغيل وأي متطلبات لبرامج التشغيل.", "قدم رقم الطلب والطراز والدفعة وتفاصيل المشكلة. يخضع الدعم للشروط المتفق عليها."],
     privacyText:
-      "نستخدم بيانات الاتصال والمشروع للرد على استفسارك ومتابعته. تجنب المعلومات الشخصية أو السرية غير الضرورية. للأسئلة تواصل عبر sales@qicable.com.",
+      "نستخدم بيانات الاتصال والمشروع للرد على استفسارك ومتابعته. تجنب المعلومات الشخصية أو السرية غير الضرورية. للأسئلة تواصل عبر inquiry@qicable.com.",
     cookieText:
       "لا يستخدم قياس الزيارات الأساسي ملفات ارتباط للتحليلات افتراضيًا. يمكنك إيقافه أو السماح بملفات التحليلات هنا.",
     essential: "الضرورية فقط",
